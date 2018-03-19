@@ -34,4 +34,5 @@ $ git commit -m "YOUR MESSAGE"
 $ git push origin develop
 ```
 repace "YOUR MESSAGE" with your commit comment. 
+
 6. Let people know that you have unlocked the files. 
