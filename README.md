@@ -24,7 +24,6 @@ The **Task** folder contains LOINC lists that need to be annotated. Use the `fil
 ```
 $ git checkout develop
 $ git pull origin develop
-
 ```
 4. Do Step 2 and 3 before you launch loinc2hpo. Now, start annotation with loinc2hpo. After you are done, save your session data. 
 
@@ -33,6 +32,5 @@ $ git pull origin develop
 $ git add .
 $ git commit -m "YOUR MESSAGE"
 $ git push origin develop
-
 ```
 repace "YOUR MESSAGE" with your commit comment. 
