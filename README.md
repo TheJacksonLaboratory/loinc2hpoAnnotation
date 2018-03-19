@@ -16,7 +16,7 @@ This repo holds data generated from the loinc2hpo app! There are two default fol
 Click `Configuration`-`Show Settings`, you should see "<*path*>/loinc2hpoAnnotation" in line "Path to auto-saved file", and "<*path*>/loinc2hpoAnnotation/Data" in line "Path to last session". <*path*> is dependent on where you cloned loinc2hpoAnnotation on your computer.  
 
 # Annotation
-The **Task** folder contains LOINC lists that need to be annotated. Use the `filter` button to start annotating those LOINC codes. When you are done, save your session data and check in your data. We adopt a similar model with HPO in that only person is allowed to change the file at one time. So remember to send out an email to loinc2hpoannotation@googlegroups.com (example, LOCKING loinc2hpo as the subject) to let people know that you are locking/unlocking the files.
+The **Task** folder contains LOINC lists that need to be annotated. Use the `filter` button to start annotating those LOINC codes. When you are done, save your session data and check in your data. We adopt a similar model with HPO in that only one person is allowed to edit the file at one time. So remember to send out an email to loinc2hpoannotation@googlegroups.com (example, LOCKING loinc2hpo as the subject) to let people know that you are locking/unlocking the files.
 
 1. Let people know that you are locking the files. 
 2. From terminal, use $cd command to enter loinc2hpoAnnotation folder
