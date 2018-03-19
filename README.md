@@ -5,7 +5,7 @@ This repo holds data generated from the loinc2hpo app! There are two default fol
 
 **Data**: holds annotation data
 
-# Set up?
+# Set up
 1. clone this repo to your local machine.
 2. start loinc2hpo
 3. specify this loinc2hpoAnnotation as the default folder for auto-save.
