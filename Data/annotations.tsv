@@ -1,0 +1,7 @@
+loincId	loincScale	system	code	hpoTermId	inversed	note	flag	version	createdOn	createdBy	lastEditedOn	lastEditedBy
+2823-3	Qn	http://jax.org/loinc2hpo	P	HP:0002153	false		false	0.0	null	null	null	null
+2823-3	Qn	http://jax.org/loinc2hpo	L	HP:0002900	false		false	0.0	null	null	null	null
+2823-3	Qn	http://jax.org/loinc2hpo	NP	HP:0011042	true		false	0.0	null	null	null	null
+2823-3	Qn	http://jax.org/loinc2hpo	N	HP:0011042	true		false	0.0	null	null	null	null
+2823-3	Qn	http://jax.org/loinc2hpo	H	HP:0002153	false		false	0.0	null	null	null	null
+2823-3	Qn	http://jax.org/loinc2hpo	A	HP:0011042	false		false	0.0	null	null	null	null
