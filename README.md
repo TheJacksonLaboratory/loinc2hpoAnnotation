@@ -25,6 +25,8 @@ The **Task** folder contains LOINC lists that need to be annotated. Use the `fil
 $ git checkout develop
 $ git pull origin develop
 ```
+   Please work on the "develop" branch. 
+
 4. Do Step 2 and 3 before you launch loinc2hpo. Now, start working on a *task*: click **Filter**, choose **loinc2hpoAnnotation**/**Task**/**UNC-loinc1.txt**. After you are done, save your session data. 
 
 5. Execute the following command:
