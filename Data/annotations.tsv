@@ -105,3 +105,17 @@ loincId	loincScale	system	code	hpoTermId	inversed	note	flag	version	createdOn	cr
 731-0	Qn	http://jax.org/loinc2hpo	N	HP:0040088	true		false	0.1	2018-03-22T11:54:27	JGM:Aaron	null	null
 731-0	Qn	http://jax.org/loinc2hpo	H	HP:0100827	false		false	0.1	2018-03-22T11:54:27	JGM:Aaron	null	null
 731-0	Qn	http://jax.org/loinc2hpo	A	HP:0040088	false		false	0.1	2018-03-22T11:54:27	JGM:Aaron	null	null
+15074-8	Qn	http://jax.org/loinc2hpo	P	HP:0003074	false		false	0.1	2018-03-22T16:31:14	JGM:Aaron	null	null
+15074-8	Qn	http://jax.org/loinc2hpo	L	HP:0001943	false		false	0.1	2018-03-22T16:31:14	JGM:Aaron	null	null
+15074-8	Qn	http://jax.org/loinc2hpo	NP	HP:0011015	true		false	0.1	2018-03-22T16:31:14	JGM:Aaron	null	null
+15074-8	Qn	http://jax.org/loinc2hpo	N	HP:0011015	true		false	0.1	2018-03-22T16:31:14	JGM:Aaron	null	null
+15074-8	Qn	http://jax.org/loinc2hpo	H	HP:0003074	false		false	0.1	2018-03-22T16:31:14	JGM:Aaron	null	null
+15074-8	Qn	http://jax.org/loinc2hpo	A	HP:0011015	false		false	0.1	2018-03-22T16:31:14	JGM:Aaron	null	null
+600-7	Nom	http://snomed.info/sct	112283007	HP:0002740	false		false	0.2	2018-03-22T16:53:17	JGM:Aaron	2018-03-22T16:55:48	JGM:Aaron
+600-7	Nom	http://jax.org/loinc2hpo	P	HP:0002718	false		false	0.2	2018-03-22T16:53:17	JGM:Aaron	2018-03-22T16:55:48	JGM:Aaron
+600-7	Nom	http://snomed.info/sct	3092008	HP:0007499	false		false	0.2	2018-03-22T16:53:17	JGM:Aaron	2018-03-22T16:55:48	JGM:Aaron
+600-7	Nom	http://jax.org/loinc2hpo	NP	HP:0002718	true		false	0.2	2018-03-22T16:53:17	JGM:Aaron	2018-03-22T16:55:48	JGM:Aaron
+600-7	Nom	http://jax.org/loinc2hpo	N	HP:0002718	true		false	0.2	2018-03-22T16:53:17	JGM:Aaron	2018-03-22T16:55:48	JGM:Aaron
+600-7	Nom	http://jax.org/loinc2hpo	H	HP:0002718	false		false	0.2	2018-03-22T16:53:17	JGM:Aaron	2018-03-22T16:55:48	JGM:Aaron
+600-7	Nom	http://snomed.info/sct	59083001	HP:0005430	false		false	0.2	2018-03-22T16:53:17	JGM:Aaron	2018-03-22T16:55:48	JGM:Aaron
+600-7	Nom	http://jax.org/loinc2hpo	A	HP:0002718	false		false	0.2	2018-03-22T16:53:17	JGM:Aaron	2018-03-22T16:55:48	JGM:Aaron
