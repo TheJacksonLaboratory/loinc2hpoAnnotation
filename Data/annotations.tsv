@@ -119,3 +119,15 @@ loincId	loincScale	system	code	hpoTermId	inversed	note	flag	version	createdOn	cr
 600-7	Nom	http://jax.org/loinc2hpo	H	HP:0002718	false		false	0.2	2018-03-22T16:53:17	JGM:Aaron	2018-03-22T16:55:48	JGM:Aaron
 600-7	Nom	http://snomed.info/sct	59083001	HP:0005430	false		false	0.2	2018-03-22T16:53:17	JGM:Aaron	2018-03-22T16:55:48	JGM:Aaron
 600-7	Nom	http://jax.org/loinc2hpo	A	HP:0002718	false		false	0.2	2018-03-22T16:53:17	JGM:Aaron	2018-03-22T16:55:48	JGM:Aaron
+48643-1	Qn	http://jax.org/loinc2hpo	P	HP:0012214	false		false	0.1	2018-03-23T17:09:30	HPO:probinson	null	null
+48643-1	Qn	http://jax.org/loinc2hpo	L	HP:0012213	false		false	0.1	2018-03-23T17:09:30	HPO:probinson	null	null
+48643-1	Qn	http://jax.org/loinc2hpo	NP	HP:0012212	true		false	0.1	2018-03-23T17:09:30	HPO:probinson	null	null
+48643-1	Qn	http://jax.org/loinc2hpo	N	HP:0012212	true		false	0.1	2018-03-23T17:09:30	HPO:probinson	null	null
+48643-1	Qn	http://jax.org/loinc2hpo	H	HP:0012214	false		false	0.1	2018-03-23T17:09:30	HPO:probinson	null	null
+48643-1	Qn	http://jax.org/loinc2hpo	A	HP:0012212	false		false	0.1	2018-03-23T17:09:30	HPO:probinson	null	null
+48642-3	Qn	http://jax.org/loinc2hpo	P	HP:0012214	false		false	0.1	2018-03-23T17:09:48	HPO:probinson	null	null
+48642-3	Qn	http://jax.org/loinc2hpo	L	HP:0012213	false		false	0.1	2018-03-23T17:09:48	HPO:probinson	null	null
+48642-3	Qn	http://jax.org/loinc2hpo	NP	HP:0012212	true		false	0.1	2018-03-23T17:09:48	HPO:probinson	null	null
+48642-3	Qn	http://jax.org/loinc2hpo	N	HP:0012212	true		false	0.1	2018-03-23T17:09:48	HPO:probinson	null	null
+48642-3	Qn	http://jax.org/loinc2hpo	H	HP:0012214	false		false	0.1	2018-03-23T17:09:48	HPO:probinson	null	null
+48642-3	Qn	http://jax.org/loinc2hpo	A	HP:0012212	false		false	0.1	2018-03-23T17:09:48	HPO:probinson	null	null
