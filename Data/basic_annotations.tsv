@@ -28,3 +28,4 @@ loincId	loincScale	hpoLo	hpoN	hpoHi	inversed	note	flag	version	createdOn	created
 26485-3	Qn	HP:0012312	HP:0012310	HP:0012311	true		false	0.1	2018-03-27T11:35:08	JGM:Aaron	NA	NA
 26499-4	Qn	HP:0001875	HP:0011991	HP:0011897	true		false	0.1	2018-03-27T11:39:47	JGM:Aaron	NA	NA
 711-2	Qn	NA	HP:0001879	HP:0001880	true		false	0.1	2018-03-27T11:40:28	JGM:Aaron	NA	NA
+751-8	Qn	HP:0001875	HP:0011991	HP:0011897	true		false	0.1	2018-03-27T11:50:50	JGM:Aaron	NA	NA
