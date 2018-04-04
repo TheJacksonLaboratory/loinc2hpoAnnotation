@@ -39,3 +39,7 @@ loincId	loincScale	hpoLo	hpoN	hpoHi	inversed	note	flag	version	createdOn	created
 33914-3	Qn	HP:0012213	HP:0012212	HP:0012214	true		false	0.1	2018-04-03T08:53	HPO:probinson	NA	NA
 2885-2	Qn	HP:0003075	HP:0010876	HP:0002152	true		false	0.1	2018-04-03T08:53:51	HPO:probinson	NA	NA
 5902-2	Qn	NA	HP:0008151	HP:0008151	true		false	0.1	2018-04-03T08:54:25	HPO:probinson	NA	NA
+702-1	Ord	NA	HP:0011273	NA	false		true	0.1	2018-04-03T12:53:36	HPO:nvasilevsky	NA	NA
+23860-0	Qn	HP:0025066	HP:0025065	HP:0005518	true		false	0.1	2018-04-03T12:54:22	HPO:nvasilevsky	NA	NA
+20454-5	Ord	NA	NA	HP:0000093	true		false	0.1	2018-04-03T12:57:09	HPO:nvasilevsky	NA	NA
+32167-9	Nom	NA	HP:0012086	NA	true		false	0.1	2018-04-03T13:00:43	HPO:nvasilevsky	NA	NA
