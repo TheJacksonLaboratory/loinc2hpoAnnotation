@@ -38,3 +38,30 @@ $ git push origin develop
 repace "YOUR MESSAGE" with your commit comment. 
 
 6. Let people know that you have unlocked the files. 
+
+# Annotating with newly created HPO terms
+The issues is that we are updating the main hp.obo and hp.owl files about once a month, and so the files that the Loinc biocuration app automaticxally pulls fgrom the net will not contain newly created HPO terms until the next release. However, we can locally create up-to-date copies of these files as follows.
+
+1. Create new HPO term with Protege as usual
+2. Create up-to-date version of hp.obo and hp.owl as follows.
+3. Building owltools
+
+We need to download and build owltools. The GitHub repository can be found here: https://github.com/owlcollab/owltools.git. Clone the repository and build it as follows.
+```
+$ git clone https://github.com/owlcollab/owltools.git
+$ cd owltools
+$ ./build.sh
+```
+
+4. Update your path with the following command (assuming you have a directory called GIT on the first level of your home directory and have cloned owltools there; otherwise adjust!).
+```
+export PATH=${HOME}/GIT/owltools/OWLTools-Oort/bin/:${HOME}/GIT/owltools/OWLTools-Runner/bin/:$PATH
+```
+(this can be added to .bashrc / .bash_profile on the Mac)
+
+5. Go to the HPO:
+human-phenotype-ontology/src/ontology and then enter "$ make". This will make a new version of the hp.obo and the hp.owl files in that directory.
+
+6. Set the path to the new hp.obo and hp.owl files in the Loinc 2 Hpo biocuration app. We now need to restart the app.
+
+7. You should now be able to create a Loinc mapping with the new HPO term.
