@@ -159,3 +159,6 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 751-8	Qn	FHIR	L	HP:0001875	false	2018-03-27T11:50:50	JGM:Aaron	NA	NA	0.1	true	NA
 2157-6	Qn	FHIR	N	HP:0040081	true	2018-04-06T15:21:52	JGM:azhang	NA	NA	0.1	true	NA
 2157-6	Qn	FHIR	H	HP:0003236	false	2018-04-06T15:21:52	JGM:azhang	NA	NA	0.1	true	NA
+3024-7	Qn	FHIR	N	HP:0031505	true	2018-05-01T08:48:45	JGM:azhang	NA	NA	0.1	true	NA
+3024-7	Qn	FHIR	H	HP:0031506	false	2018-05-01T08:48:45	JGM:azhang	NA	NA	0.1	true	NA
+3024-7	Qn	FHIR	L	HP:0031507	false	2018-05-01T08:48:45	JGM:azhang	NA	NA	0.1	true	NA
