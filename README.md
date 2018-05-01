@@ -44,6 +44,7 @@ The issues is that we are updating the main hp.obo and hp.owl files about once a
 
 1. Create new HPO term with Protege as usual
 2. Create up-to-date version of hp.obo and hp.owl as follows.
+(3-4 only need to be done the once)
 3. Building owltools
 
 We need to download and build owltools. The GitHub repository can be found here: https://github.com/owlcollab/owltools.git. Clone the repository and build it as follows.
