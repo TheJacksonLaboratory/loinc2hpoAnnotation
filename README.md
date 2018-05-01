@@ -45,7 +45,7 @@ The issues is that we are updating the main hp.obo and hp.owl files about once a
 1. Create new HPO term with Protege as usual
 2. Create up-to-date version of hp.obo and hp.owl as follows.
 
-**(3-4 only need to be done the once)**
+**(3, 4 only need to be done once)**
 
 3. Building owltools
 
@@ -74,6 +74,7 @@ Restart your terminal
 5. Go to the HPO:
 human-phenotype-ontology/src/ontology and then enter "$ make". This will make a new version of the hp.obo and the hp.owl files in that directory.
 
-6. Set the path to the new hp.obo and hp.owl files in the Loinc 2 Hpo biocuration app. We now need to restart the app.
+6. Set the path to the new hp.obo and hp.owl files in the loinc2hpo biocuration app . Click **"Configuration"** - **"Change hpo.owl"** to set the path to your hpo.owl file; use the button below to set the path to the hpo.obo file. 
+(This step only needs to be done once unless you have pointed those file somewhere else)
 
 7. You should now be able to create a Loinc mapping with the new HPO term.
