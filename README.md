@@ -56,13 +56,13 @@ $ ./build.sh
 You need to change the owltools to executables:
  go to owltools directory, run
 ```
-chmod +x OWLTools-Oort/bin/*
-chmod +x OWLTools-Runner/bin/*
+$ chmod +x OWLTools-Oort/bin/*
+$ chmod +x OWLTools-Runner/bin/*
 ```
 
 4. Update your path with the following command (assuming you have a directory called GIT on the first level of your home directory and have cloned owltools there; otherwise adjust!).
 ```
-export PATH=${HOME}/GIT/owltools/OWLTools-Oort/bin/:${HOME}/GIT/owltools/OWLTools-Runner/bin/:$PATH
+$ export PATH=${HOME}/GIT/owltools/OWLTools-Oort/bin/:${HOME}/GIT/owltools/OWLTools-Runner/bin/:$PATH
 ```
 (this can be added to .bashrc / .bash_profile on the Mac)
 
