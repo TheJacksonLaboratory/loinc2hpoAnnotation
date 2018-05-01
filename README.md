@@ -58,6 +58,7 @@ $ ./build.sh
 export PATH=${HOME}/GIT/owltools/OWLTools-Oort/bin/:${HOME}/GIT/owltools/OWLTools-Runner/bin/:$PATH
 ```
 (this can be added to .bashrc / .bash_profile on the Mac)
+(restart your terminal)
 
 5. Go to the HPO:
 human-phenotype-ontology/src/ontology and then enter "$ make". This will make a new version of the hp.obo and the hp.owl files in that directory.
