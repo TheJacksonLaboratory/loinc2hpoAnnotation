@@ -71,8 +71,11 @@ $ export PATH=${HOME}/GIT/owltools/OWLTools-Oort/bin/:${HOME}/GIT/owltools/OWLTo
 
 Restart your terminal
 
-5. Go to the HPO:
-human-phenotype-ontology/src/ontology and then enter "$ make". This will make a new version of the hp.obo and the hp.owl files in that directory.
+5. Go to the HPO, run 
+```
+git pull
+```
+enter human-phenotype-ontology/src/ontology and then enter "$ make". This will make a new version of the hp.obo and the hp.owl files in that directory.
 
 6. Set the path to the new hp.obo and hp.owl files in the loinc2hpo biocuration app . Click **"Configuration"** - **"Change hpo.owl"** to set the path to your hpo.owl file; use the button below to set the path to the hpo.obo file. 
 (This step only needs to be done once unless you have pointed those file somewhere else)
