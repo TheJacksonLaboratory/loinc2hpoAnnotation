@@ -165,4 +165,4 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 30180-4	Qn	FHIR	N	HP:0031806	true	2018-05-08T08:27:24	JGM:azhang	NA	NA	0.1	false	Should we treat the percentage of neutrophils among leukocytes the same as neutrophil count? (or create child terms?)
 30180-4	Qn	FHIR	H	HP:0031807	false	2018-05-08T08:27:24	JGM:azhang	NA	NA	0.1	false	Should we treat the percentage of neutrophils among leukocytes the same as neutrophil count? (or create child terms?)
 30180-4	Qn	FHIR	L	HP:0031808	false	2018-05-08T08:27:24	JGM:azhang	NA	NA	0.1	false	Should we treat the percentage of neutrophils among leukocytes the same as neutrophil count? (or create child terms?)
-15152-2	Qn	FHIR	H	HP:0002908	false	2018-05-08T08:42:38	JGM:azhang	NA	NA	0.1	false	The normal should be "not abnormality of conjugated bilirubin", which is not present; simply choosing the patent "Hyperbilirubinemia" does not sound right.
+15152-2	Qn	FHIR	H	HP:0002908	false	2018-05-08T08:42:38	JGM:azhang	NA	NA	0.1	false	The normal should be ``not abnormality of conjugated bilirubin``, which is not present; simply choosing the patent``Hyperbilirubinemi`` does not sound right.
