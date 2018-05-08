@@ -27,6 +27,9 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 48643-1	Qn	FHIR	L	HP:0012213	false	2018-03-23T17:09:30	HPO:probinson	NA	NA	0.1	true	NA
 2349-9	Ord	FHIR	POS	HP:0003076	false	2018-03-27T15:27:11	JGM:Aaron	2018-04-06T08:39:35	JGM:Aaron	0.2	false	What does Decreased urinary glucose concentration mean? Why is it abnormal?
 2349-9	Ord	FHIR	NEG	HP:0011016	true	2018-03-27T15:27:11	JGM:Aaron	2018-04-06T08:39:35	JGM:Aaron	0.2	false	What does Decreased urinary glucose concentration mean? Why is it abnormal?
+3024-7	Qn	FHIR	N	HP:0031505	true	2018-05-01T08:48:45	JGM:azhang	NA	NA	0.1	true	NA
+3024-7	Qn	FHIR	H	HP:0031506	false	2018-05-01T08:48:45	JGM:azhang	NA	NA	0.1	true	NA
+3024-7	Qn	FHIR	L	HP:0031507	false	2018-05-01T08:48:45	JGM:azhang	NA	NA	0.1	true	NA
 787-2	Qn	FHIR	N	HP:0025065	true	2018-03-20T15:43:27	JGM:Aaron	NA	NA	0.1	true	NA
 787-2	Qn	FHIR	H	HP:0005518	false	2018-03-20T15:43:27	JGM:Aaron	NA	NA	0.1	true	NA
 787-2	Qn	FHIR	L	HP:0025066	false	2018-03-20T15:43:27	JGM:Aaron	NA	NA	0.1	true	NA
@@ -159,6 +162,7 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 751-8	Qn	FHIR	L	HP:0001875	false	2018-03-27T11:50:50	JGM:Aaron	NA	NA	0.1	true	NA
 2157-6	Qn	FHIR	N	HP:0040081	true	2018-04-06T15:21:52	JGM:azhang	NA	NA	0.1	true	NA
 2157-6	Qn	FHIR	H	HP:0003236	false	2018-04-06T15:21:52	JGM:azhang	NA	NA	0.1	true	NA
-3024-7	Qn	FHIR	N	HP:0031505	true	2018-05-01T08:48:45	JGM:azhang	NA	NA	0.1	true	NA
-3024-7	Qn	FHIR	H	HP:0031506	false	2018-05-01T08:48:45	JGM:azhang	NA	NA	0.1	true	NA
-3024-7	Qn	FHIR	L	HP:0031507	false	2018-05-01T08:48:45	JGM:azhang	NA	NA	0.1	true	NA
+30180-4	Qn	FHIR	N	HP:0031806	true	2018-05-08T08:27:24	JGM:azhang	NA	NA	0.1	false	Should we treat the percentage of neutrophils among leukocytes the same as neutrophil count? (or create child terms?)
+30180-4	Qn	FHIR	H	HP:0031807	false	2018-05-08T08:27:24	JGM:azhang	NA	NA	0.1	false	Should we treat the percentage of neutrophils among leukocytes the same as neutrophil count? (or create child terms?)
+30180-4	Qn	FHIR	L	HP:0031808	false	2018-05-08T08:27:24	JGM:azhang	NA	NA	0.1	false	Should we treat the percentage of neutrophils among leukocytes the same as neutrophil count? (or create child terms?)
+15152-2	Qn	FHIR	H	HP:0002908	false	2018-05-08T08:42:38	JGM:azhang	NA	NA	0.1	false	The normal should be \\"not abnormality of conjugated bilirubin\\", which is not present; simply choosing the patent \\"Hyperbilirubinemia\\" does not sound right.
