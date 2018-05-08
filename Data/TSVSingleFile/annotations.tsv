@@ -15,6 +15,9 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 20454-5	Ord	FHIR	POS	HP:0000093	false	2018-04-03T12:57:09	HPO:nvasilevsky	2018-04-06T08:39:16	JGM:Aaron	0.2	true	NA
 3040-3	Qn	FHIR	N	HP:0012379	true	2018-04-20T11:48:17	OHSU:JP	NA	NA	0.1	false	NA
 3040-3	Qn	FHIR	L	HP:0031209	false	2018-04-20T11:48:17	OHSU:JP	NA	NA	0.1	false	NA
+26511-6	Qn	FHIR	N	HP:0011991	true	2018-05-08T09:10:53	JGM:azhang	NA	NA	0.1	false	Again, we are using equating ``percentage`` to absolute count. Does it make sense?
+26511-6	Qn	FHIR	H	HP:0011897	false	2018-05-08T09:10:53	JGM:azhang	NA	NA	0.1	false	Again, we are using equating ``percentage`` to absolute count. Does it make sense?
+26511-6	Qn	FHIR	L	HP:0001875	false	2018-05-08T09:10:53	JGM:azhang	NA	NA	0.1	false	Again, we are using equating ``percentage`` to absolute count. Does it make sense?
 600-7	Nom	http://snomed.info/sct	3092008	HP:0007499	false	2018-03-27T10:53:03	JGM:Aaron	2018-04-06T15:26:09	JGM:azhang	0.2	true	NA
 26485-3	Qn	FHIR	N	HP:0012310	true	2018-03-27T11:35:08	JGM:Aaron	NA	NA	0.1	true	NA
 26485-3	Qn	FHIR	H	HP:0012311	false	2018-03-27T11:35:08	JGM:Aaron	NA	NA	0.1	true	NA
@@ -176,6 +179,5 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 751-8	Qn	FHIR	L	HP:0001875	false	2018-03-27T11:50:50	JGM:Aaron	NA	NA	0.1	true	NA
 2157-6	Qn	FHIR	N	HP:0040081	true	2018-04-06T15:21:52	JGM:azhang	NA	NA	0.1	true	NA
 2157-6	Qn	FHIR	H	HP:0003236	false	2018-04-06T15:21:52	JGM:azhang	NA	NA	0.1	true	NA
-26511-6	Qn	FHIR	N	HP:0011991	true	2018-05-08T09:10:53	JGM:azhang	NA	NA	0.1	false	Again, we are using equating ``percentage`` to absolute count. Does it make sense?
-26511-6	Qn	FHIR	H	HP:0011897	false	2018-05-08T09:10:53	JGM:azhang	NA	NA	0.1	false	Again, we are using equating ``percentage`` to absolute count. Does it make sense?
-26511-6	Qn	FHIR	L	HP:0001875	false	2018-05-08T09:10:53	JGM:azhang	NA	NA	0.1	false	Again, we are using equating ``percentage`` to absolute count. Does it make sense?
+2324-2	Qn	FHIR	N	HP:0030948	true	2018-05-08T10:29:36	JGM:azhang	NA	NA	0.1	false	Not sure what normal should be. Parent term ``Abnormal enzyme/coenzyme activity`` seems too broad. 
+2324-2	Qn	FHIR	H	HP:0030948	false	2018-05-08T10:29:36	JGM:azhang	NA	NA	0.1	false	Not sure what normal should be. Parent term ``Abnormal enzyme/coenzyme activity`` seems too broad.
