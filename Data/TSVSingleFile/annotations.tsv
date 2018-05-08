@@ -181,3 +181,6 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 2157-6	Qn	FHIR	H	HP:0003236	false	2018-04-06T15:21:52	JGM:azhang	NA	NA	0.1	true	NA
 2324-2	Qn	FHIR	N	HP:0030948	true	2018-05-08T10:29:36	JGM:azhang	NA	NA	0.1	false	Not sure what normal should be. Parent term ``Abnormal enzyme/coenzyme activity`` seems too broad. 
 2324-2	Qn	FHIR	H	HP:0030948	false	2018-05-08T10:29:36	JGM:azhang	NA	NA	0.1	false	Not sure what normal should be. Parent term ``Abnormal enzyme/coenzyme activity`` seems too broad.
+26444-0	Qn	FHIR	N	HP:0031806	true	2018-05-08T12:44:48	HPO:nvasilevsky	NA	NA	0.1	true	NA
+26444-0	Qn	FHIR	H	HP:0031807	false	2018-05-08T12:44:48	HPO:nvasilevsky	NA	NA	0.1	true	NA
+26444-0	Qn	FHIR	L	HP:0031808	false	2018-05-08T12:44:48	HPO:nvasilevsky	NA	NA	0.1	true	NA
