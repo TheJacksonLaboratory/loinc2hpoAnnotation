@@ -184,3 +184,5 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 26444-0	Qn	FHIR	N	HP:0031806	true	2018-05-08T12:44:48	HPO:nvasilevsky	NA	NA	0.1	true	NA
 26444-0	Qn	FHIR	H	HP:0031807	false	2018-05-08T12:44:48	HPO:nvasilevsky	NA	NA	0.1	true	NA
 26444-0	Qn	FHIR	L	HP:0031808	false	2018-05-08T12:44:48	HPO:nvasilevsky	NA	NA	0.1	true	NA
+19550-3	Ord	FHIR	POS	HP:0031841	false	2018-05-08T12:52:22	HPO:nvasilevsky	NA	NA	0.1	true	NA
+19550-3	Ord	FHIR	NEG	HP:0031841	true	2018-05-08T12:52:22	HPO:nvasilevsky	NA	NA	0.1	true	NA
