@@ -247,3 +247,15 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 2398-6	Ord	FHIR	NEG	HP:0003541	true	2018-05-09T14:26:49	OHSU:JP	NA	NA	0.1	true	NA
 2399-4	Qn	FHIR	N	HP:0003541	true	2018-05-09T14:28:47	OHSU:JP	NA	NA	0.1	true	NA
 2399-4	Qn	FHIR	H	HP:0003541	false	2018-05-09T14:28:47	OHSU:JP	NA	NA	0.1	true	NA
+25371-6	Qn	FHIR	N	HP:0010979	true	2018-05-10T14:16:55	HPO:nvasilevsky	NA	NA	0.1	true	NA
+25371-6	Qn	FHIR	H	HP:0003362	false	2018-05-10T14:16:55	HPO:nvasilevsky	NA	NA	0.1	true	NA
+25371-6	Qn	FHIR	L	HP:0031243	false	2018-05-10T14:16:55	HPO:nvasilevsky	NA	NA	0.1	true	NA
+57734-6	Ord	FHIR	POS	HP:0002919	false	2018-05-10T14:18:07	HPO:nvasilevsky	NA	NA	0.1	true	NA
+57734-6	Ord	FHIR	NEG	HP:0002919	true	2018-05-10T14:18:07	HPO:nvasilevsky	NA	NA	0.1	true	NA
+14957-5	Qn	FHIR	N	HP:0012594	true	2018-05-10T14:18:53	HPO:nvasilevsky	NA	NA	0.1	true	NA
+14957-5	Qn	FHIR	H	HP:0012594	false	2018-05-10T14:18:53	HPO:nvasilevsky	NA	NA	0.1	true	NA
+2955-3	Qn	FHIR	N	HP:0012603	true	2018-05-10T14:20:23	HPO:nvasilevsky	NA	NA	0.1	true	NA
+2955-3	Qn	FHIR	H	HP:0012605	false	2018-05-10T14:20:23	HPO:nvasilevsky	NA	NA	0.1	true	NA
+2955-3	Qn	FHIR	L	HP:0012604	false	2018-05-10T14:20:23	HPO:nvasilevsky	NA	NA	0.1	true	NA
+1839-0	Qn	FHIR	H	HP:0001987	false	2018-05-10T14:29:50	HPO:nvasilevsky	NA	NA	0.1	true	There is not an Abn ammonia blood level class - should we add that?
+1839-0	Qn	FHIR	L	HP:0100493	false	2018-05-10T14:29:50	HPO:nvasilevsky	NA	NA	0.1	true	There is not an Abn ammonia blood level class - should we add that?
