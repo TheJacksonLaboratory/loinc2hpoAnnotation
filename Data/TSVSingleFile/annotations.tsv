@@ -18,7 +18,10 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 26511-6	Qn	FHIR	N	HP:0011991	true	2018-05-08T09:10:53	JGM:azhang	NA	NA	0.1	false	Again, we are using equating ``percentage`` to absolute count. Does it make sense?
 26511-6	Qn	FHIR	H	HP:0011897	false	2018-05-08T09:10:53	JGM:azhang	NA	NA	0.1	false	Again, we are using equating ``percentage`` to absolute count. Does it make sense?
 26511-6	Qn	FHIR	L	HP:0001875	false	2018-05-08T09:10:53	JGM:azhang	NA	NA	0.1	false	Again, we are using equating ``percentage`` to absolute count. Does it make sense?
-600-7	Nom	http://snomed.info/sct	3092008	HP:0007499	false	2018-03-27T10:53:03	JGM:Aaron	2018-04-06T15:26:09	JGM:azhang	0.2	true	NA
+600-7	Nom	FHIR	N	HP:0031864	true	2018-05-10T14:41:03	HPO:nvasilevsky	NA	NA	0.1	true	NA
+600-7	Nom	FHIR	POS	HP:0031864	false	2018-05-10T14:41:03	HPO:nvasilevsky	NA	NA	0.1	true	NA
+600-7	Nom	FHIR	H	HP:0031864	false	2018-05-10T14:41:03	HPO:nvasilevsky	NA	NA	0.1	true	NA
+600-7	Nom	FHIR	NEG	HP:0031864	true	2018-05-10T14:41:03	HPO:nvasilevsky	NA	NA	0.1	true	NA
 26485-3	Qn	FHIR	N	HP:0012310	true	2018-03-27T11:35:08	JGM:Aaron	NA	NA	0.1	true	NA
 26485-3	Qn	FHIR	H	HP:0012311	false	2018-03-27T11:35:08	JGM:Aaron	NA	NA	0.1	true	NA
 26485-3	Qn	FHIR	L	HP:0012312	false	2018-03-27T11:35:08	JGM:Aaron	NA	NA	0.1	true	NA
