@@ -986,7 +986,6 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 2360-6	Qn	FHIR	L	HP:0410190	false	2018-05-21T12:22:10	HPO:nvasilevsky	NA	NA	0.1	true	NA
 33287-4	Ord	FHIR	POS	HP:0410181	false	2018-05-21T12:23:30	HPO:nvasilevsky	NA	NA	0.1	true	NA
 33287-4	Ord	FHIR	NEG	HP:0410180	true	2018-05-21T12:23:30	HPO:nvasilevsky	NA	NA	0.1	true	NA
-
 3099-9	Qn	FHIR	N	HP:0410193	true	2018-05-21T12:26:30	HPO:nvasilevsky	NA	NA	0.1	true	NA
 3099-9	Qn	FHIR	H	HP:0410194	false	2018-05-21T12:26:30	HPO:nvasilevsky	NA	NA	0.1	true	NA
 3099-9	Qn	FHIR	L	HP:0410195	false	2018-05-21T12:26:30	HPO:nvasilevsky	NA	NA	0.1	true	NA
@@ -1065,3 +1064,8 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 63373-5	Ord	FHIR	NEG	HP:0002919	true	2018-05-21T12:31:26	HPO:nvasilevsky	NA	NA	0.1	true	NA
 68955-4	Ord	FHIR	POS	HP:0410175	false	2018-05-21T12:31:32	HPO:nvasilevsky	NA	NA	0.1	true	NA
 68955-4	Ord	FHIR	NEG	HP:0410175	true	2018-05-21T12:31:32	HPO:nvasilevsky	NA	NA	0.1	true	NA
+2078-4	Qn	FHIR	N	HP:0012600	true	2018-05-23T14:55:08	HPO:probinson	NA	NA	0.1	true	NA
+2078-4	Qn	FHIR	H	HP:0002914	false	2018-05-23T14:55:08	HPO:probinson	NA	NA	0.1	true	NA
+2078-4	Qn	FHIR	L	HP:0012601	false	2018-05-23T14:55:08	HPO:probinson	NA	NA	0.1	true	NA
+5117-7	Ord	FHIR	POS	HP:0100778	false	2018-05-23T14:56:23	HPO:probinson	NA	NA	0.1	true	NA
+5117-7	Ord	FHIR	NEG	HP:0100778	true	2018-05-23T14:56:23	HPO:probinson	NA	NA	0.1	true	NA
