@@ -1184,3 +1184,14 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 13032-8	Qn	FHIR	N	HP:0030794	true	2018-05-24T14:10:15	HPO:nvasilevsky	NA	NA	0.1	true	NA
 13032-8	Qn	FHIR	H	HP:0030796	false	2018-05-24T14:10:15	HPO:nvasilevsky	NA	NA	0.1	true	NA
 13032-8	Qn	FHIR	L	HP:0030795	false	2018-05-24T14:10:15	HPO:nvasilevsky	NA	NA	0.1	true	NA
+8480-6	Qn	FHIR	N	HP:0030972	true	2018-06-19T17:22:11	JGM:azhang	NA	NA	0.1	false	This is for test purpose, modify low/normal once new terms are created
+8480-6	Qn	FHIR	H	HP:0004421	false	2018-06-19T17:22:11	JGM:azhang	NA	NA	0.1	false	This is for test purpose, modify low/normal once new terms are created
+8480-6	Qn	FHIR	L	HP:0002615	false	2018-06-19T17:22:11	JGM:azhang	NA	NA	0.1	false	This is for test purpose, modify low/normal once new terms are created
+8462-4	Qn	FHIR	N	HP:0030972	true	2018-06-19T17:23:48	JGM:azhang	NA	NA	0.1	false	modify low /normal when new terms are created
+8462-4	Qn	FHIR	H	HP:0005117	false	2018-06-19T17:23:48	JGM:azhang	NA	NA	0.1	false	modify low /normal when new terms are created
+8462-4	Qn	FHIR	L	HP:0002615	false	2018-06-19T17:23:48	JGM:azhang	NA	NA	0.1	false	modify low /normal when new terms are created
+35094-2	Unknown	FHIR	N	HP:0030972	true	2018-06-19T17:27:29	JGM:azhang	NA	NA	0.1	true	NA
+35094-2	Unknown	FHIR	POS	HP:0000822	false	2018-06-19T17:27:29	JGM:azhang	NA	NA	0.1	true	NA
+35094-2	Unknown	FHIR	H	HP:0000822	false	2018-06-19T17:27:29	JGM:azhang	NA	NA	0.1	true	NA
+35094-2	Unknown	FHIR	L	HP:0002615	false	2018-06-19T17:27:29	JGM:azhang	NA	NA	0.1	true	NA
+35094-2	Unknown	FHIR	NEG	HP:0030972	true	2018-06-19T17:27:29	JGM:azhang	NA	NA	0.1	true	NA
