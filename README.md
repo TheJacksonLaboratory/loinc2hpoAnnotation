@@ -83,3 +83,12 @@ enter human-phenotype-ontology/src/ontology and then enter "$ make". This will m
 The newly created hp owl and obo files are under the src/ontology folder. 
 
 7. You should now be able to create a Loinc mapping with the new HPO term.
+
+# Reset loinc2hpo settings
+If you cannot launch loinc2hpo, it is probably some configurations are set incorrectly. The easiest way is to delete the configuration file under
+{HOME}/.loinc2hpo
+Detele the loinc2hpo.settings file by running:
+```
+rm -loinc2hpo.settings
+```
+Then try launching loinc2hpo again. It will ask you to reset all the configurations. 
