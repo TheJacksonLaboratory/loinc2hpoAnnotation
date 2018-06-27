@@ -87,6 +87,7 @@ The newly created hp owl and obo files are under the src/ontology folder.
 # Reset loinc2hpo settings
 If you cannot launch loinc2hpo, it is probably some configurations are set incorrectly. The easiest way is to delete the configuration file under
 {HOME}/.loinc2hpo
+
 Detele the loinc2hpo.settings file by running:
 ```
 rm loinc2hpo.settings
