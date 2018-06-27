@@ -89,6 +89,6 @@ If you cannot launch loinc2hpo, it is probably some configurations are set incor
 {HOME}/.loinc2hpo
 Detele the loinc2hpo.settings file by running:
 ```
-rm -loinc2hpo.settings
+rm loinc2hpo.settings
 ```
 Then try launching loinc2hpo again. It will ask you to reset all the configurations. 
