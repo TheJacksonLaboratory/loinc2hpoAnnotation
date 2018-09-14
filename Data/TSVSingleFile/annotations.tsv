@@ -2911,3 +2911,7 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 14628-2	Qn	FHIR	N	HP:0030984	true	2018-09-14T09:54:12	JGM:lccarmody	NA	NA	0.1	true	NA
 14628-2	Qn	FHIR	H	HP:0012202	false	2018-09-14T09:54:12	JGM:lccarmody	NA	NA	0.1	true	NA
 14628-2	Qn	FHIR	L	HP:0030985	false	2018-09-14T09:54:12	JGM:lccarmody	NA	NA	0.1	true	NA
+19552-9	Qn	FHIR	N	HP:0031841	true	2018-09-14T10:59:57	HPO:nvasilevsky	NA	NA	0.1	true	NA
+19552-9	Qn	FHIR	H	HP:0031841	false	2018-09-14T10:59:57	HPO:nvasilevsky	NA	NA	0.1	true	NA
+19553-7	Qn	FHIR	N	HP:0031841	true	2018-09-14T11:00:02	HPO:nvasilevsky	NA	NA	0.1	true	NA
+19553-7	Qn	FHIR	H	HP:0031841	false	2018-09-14T11:00:02	HPO:nvasilevsky	NA	NA	0.1	true	NA
