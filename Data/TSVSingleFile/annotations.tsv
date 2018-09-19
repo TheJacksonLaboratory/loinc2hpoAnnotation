@@ -3135,8 +3135,6 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 49219-9	Qn	FHIR	H	HP:0012024	false	2018-09-19T14:13:50	OHSU:JP	NA	NA	0.1	true	copied from: 25426-8 @original comment:
 54084-9	Qn	FHIR	N	HP:0012024	true	2018-09-19T14:13:50	OHSU:JP	NA	NA	0.1	true	copied from: 49219-9 @original comment: copied from: 25426-8 @original comment: 
 54084-9	Qn	FHIR	H	HP:0012024	false	2018-09-19T14:13:50	OHSU:JP	NA	NA	0.1	true	copied from: 49219-9 @original comment: copied from: 25426-8 @original comment:
-
-
 74893-9	Qn	FHIR	N	HP:0410060	true	2018-09-19T14:27:25	OHSU:JP	NA	NA	0.1	true	NA
 74893-9	Qn	FHIR	L	HP:0410060	false	2018-09-19T14:27:25	OHSU:JP	NA	NA	0.1	true	NA
 13608-5	Qn	FHIR	N	HP:0040215	true	2018-09-19T14:30:38	OHSU:JP	NA	NA	0.1	true	NA
@@ -3168,3 +3166,32 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 1509-9	Qn	FHIR	L	HP:0045013	false	2018-09-19T14:33:14	OHSU:JP	NA	NA	0.1	true	copied from: 15077-1 @original comment: copied from: 15076-3 @original comment:
 1555-2	Qn	FHIR	N	HP:0011016	true	2018-09-19T14:38:14	OHSU:JP	NA	NA	0.1	true	NA
 1555-2	Qn	FHIR	L	HP:0045013	false	2018-09-19T14:38:14	OHSU:JP	NA	NA	0.1	true	NA
+18227-9	Qn	FHIR	N	HP:0011016	true	2018-09-19T15:44:27	OHSU:JP	NA	NA	0.1	true	NA
+18227-9	Qn	FHIR	L	HP:0045013	false	2018-09-19T15:44:27	OHSU:JP	NA	NA	0.1	true	NA
+21305-8	Qn	FHIR	N	HP:0011016	true	2018-09-19T15:45:06	OHSU:JP	NA	NA	0.1	true	NA
+21305-8	Qn	FHIR	L	HP:0045013	false	2018-09-19T15:45:06	OHSU:JP	NA	NA	0.1	true	NA
+21306-6	Qn	FHIR	N	HP:0011016	true	2018-09-19T15:45:06	OHSU:JP	NA	NA	0.1	true	copied from: 21305-8 @original comment: 
+21306-6	Qn	FHIR	L	HP:0045013	false	2018-09-19T15:45:06	OHSU:JP	NA	NA	0.1	true	copied from: 21305-8 @original comment:
+21307-4	Qn	FHIR	N	HP:0011016	true	2018-09-19T15:45:06	OHSU:JP	NA	NA	0.1	true	copied from: 21306-6 @original comment: copied from: 21305-8 @original comment: 
+21307-4	Qn	FHIR	L	HP:0045013	false	2018-09-19T15:45:06	OHSU:JP	NA	NA	0.1	true	copied from: 21306-6 @original comment: copied from: 21305-8 @original comment:
+21004-7	Nom	FHIR	N	HP:0001952	true	2018-09-19T15:45:52	OHSU:JP	NA	NA	0.1	true	NA
+21004-7	Nom	FHIR	L	HP:0040270	false	2018-09-19T15:45:52	OHSU:JP	NA	NA	0.1	true	NA
+21004-7	Nom	FHIR	NEG	HP:0001952	true	2018-09-19T15:45:52	OHSU:JP	NA	NA	0.1	true	NA
+22705-8	Qn	FHIR	N	HP:0011016	true	2018-09-19T15:46:26	OHSU:JP	NA	NA	0.1	true	NA
+22705-8	Qn	FHIR	L	HP:0045013	false	2018-09-19T15:46:26	OHSU:JP	NA	NA	0.1	true	NA
+2351-5	Qn	FHIR	N	HP:0011016	true	2018-09-19T15:46:51	OHSU:JP	NA	NA	0.1	true	NA
+2351-5	Qn	FHIR	L	HP:0045013	false	2018-09-19T15:46:51	OHSU:JP	NA	NA	0.1	true	NA
+25102-5	Qn	FHIR	N	HP:0012023	true	2018-09-19T11:54:36	OHSU:JP	NA	NA	0.1	true	copied from: 13744-8 @original comment: copied from: 15071-4 @original comment: 
+25102-5	Qn	FHIR	H	HP:0012023	false	2018-09-19T11:54:36	OHSU:JP	NA	NA	0.1	true	copied from: 13744-8 @original comment: copied from: 15071-4 @original comment:
+75093-5	Qn	FHIR	N	HP:0012024	true	2018-09-19T14:13:50	OHSU:JP	NA	NA	0.1	true	copied from: 54084-9 @original comment: copied from: 49219-9 @original comment: copied from: 25426-8 @original comment: 
+75093-5	Qn	FHIR	H	HP:0012024	false	2018-09-19T14:13:50	OHSU:JP	NA	NA	0.1	true	copied from: 54084-9 @original comment: copied from: 49219-9 @original comment: copied from: 25426-8 @original comment:
+12177-2	Qn	FHIR	N	HP:0003355	true	2018-09-19T16:16:05	OHSU:JP	NA	NA	0.1	true	NA
+12177-2	Qn	FHIR	H	HP:0003355	false	2018-09-19T16:16:05	OHSU:JP	NA	NA	0.1	true	NA
+18191-7	Nom	FHIR	N	HP:0003355	true	2018-09-19T16:16:28	OHSU:JP	NA	NA	0.1	true	NA
+18191-7	Nom	FHIR	POS	HP:0003355	false	2018-09-19T16:16:28	OHSU:JP	NA	NA	0.1	true	NA
+18191-7	Nom	FHIR	H	HP:0003355	false	2018-09-19T16:16:28	OHSU:JP	NA	NA	0.1	true	NA
+18191-7	Nom	FHIR	NEG	HP:0003355	true	2018-09-19T16:16:28	OHSU:JP	NA	NA	0.1	true	NA
+12467-7	Nom	FHIR	N	HP:0003355	true	2018-09-19T16:16:28	OHSU:JP	NA	NA	0.1	true	copied from: 18191-7 @original comment: 
+12467-7	Nom	FHIR	POS	HP:0003355	false	2018-09-19T16:16:28	OHSU:JP	NA	NA	0.1	true	copied from: 18191-7 @original comment: 
+12467-7	Nom	FHIR	H	HP:0003355	false	2018-09-19T16:16:28	OHSU:JP	NA	NA	0.1	true	copied from: 18191-7 @original comment: 
+12467-7	Nom	FHIR	NEG	HP:0003355	true	2018-09-19T16:16:28	OHSU:JP	NA	NA	0.1	true	copied from: 18191-7 @original comment:
