@@ -3412,3 +3412,9 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 53835-5	Qn	FHIR	L	HP:0410050	false	2018-09-27T11:25:10	OHSU:JP	NA	NA	0.1	true	NA
 32854-2	Ord	FHIR	POS	HP:0031213	false	2018-09-27T11:32:04	OHSU:JP	NA	NA	0.1	true	NA
 32854-2	Ord	FHIR	NEG	HP:0031213	true	2018-09-27T11:32:04	OHSU:JP	NA	NA	0.1	true	NA
+41653-7	Qn	FHIR	N	HP:0011015	true	2018-09-30T15:46:52	JGM:azhang	2018-09-30T15:49:28	JGM:azhang	0.2	true	see instruction from Peter--https://github.com/obophenotype/human-phenotype-ontology/issues/4135#issuecomment-425725554
+41653-7	Qn	FHIR	H	HP:0003074	false	2018-09-30T15:46:52	JGM:azhang	2018-09-30T15:49:28	JGM:azhang	0.2	true	see instruction from Peter--https://github.com/obophenotype/human-phenotype-ontology/issues/4135#issuecomment-425725554
+41653-7	Qn	FHIR	L	HP:0001943	false	2018-09-30T15:46:52	JGM:azhang	2018-09-30T15:49:28	JGM:azhang	0.2	true	see instruction from Peter--https://github.com/obophenotype/human-phenotype-ontology/issues/4135#issuecomment-425725554
+14770-2	Qn	FHIR	N	HP:0011015	true	2018-09-30T15:47:46	JGM:azhang	NA	NA	0.1	true	NA
+14770-2	Qn	FHIR	H	HP:0003074	false	2018-09-30T15:47:46	JGM:azhang	NA	NA	0.1	true	NA
+14770-2	Qn	FHIR	L	HP:0001943	false	2018-09-30T15:47:46	JGM:azhang	NA	NA	0.1	true	NA
