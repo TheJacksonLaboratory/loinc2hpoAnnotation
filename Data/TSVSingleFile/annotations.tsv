@@ -3722,3 +3722,26 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 74808-7	Qn	FHIR	L	HP:0008330	false	2018-10-02T13:17:04	OHSU:JP	NA	NA	0.1	true	NA
 68324-3	Qn	FHIR	N	HP:0012146	true	2018-10-02T13:17:04	OHSU:JP	NA	NA	0.1	true	copied from: 74808-7 @original comment: 
 68324-3	Qn	FHIR	L	HP:0008330	false	2018-10-02T13:17:04	OHSU:JP	NA	NA	0.1	true	copied from: 74808-7 @original comment:
+74809-5	Qn	FHIR	N	HP:0012146	true	2018-10-02T13:17:04	OHSU:JP	NA	NA	0.1	true	copied from: 68324-3 @original comment: copied from: 74808-7 @original comment: 
+74809-5	Qn	FHIR	L	HP:0008330	false	2018-10-02T13:17:04	OHSU:JP	NA	NA	0.1	true	copied from: 68324-3 @original comment: copied from: 74808-7 @original comment:
+73978-9	Qn	FHIR	N	HP:0012146	true	2018-10-02T13:17:04	OHSU:JP	NA	NA	0.1	true	copied from: 74809-5 @original comment: copied from: 68324-3 @original comment: copied from: 74808-7 @original comment: 
+73978-9	Qn	FHIR	L	HP:0008330	false	2018-10-02T13:17:04	OHSU:JP	NA	NA	0.1	true	copied from: 74809-5 @original comment: copied from: 68324-3 @original comment: copied from: 74808-7 @original comment:
+1825-9	Qn	FHIR	N	HP:0032025	true	2018-10-03T10:51:42	OHSU:JP	NA	NA	0.1	true	NA
+1825-9	Qn	FHIR	L	HP:0032025	false	2018-10-03T10:51:42	OHSU:JP	NA	NA	0.1	true	NA
+1826-7	Qn	FHIR	N	HP:0032025	true	2018-10-03T10:51:42	OHSU:JP	NA	NA	0.1	true	copied from: 1825-9 @original comment: 
+1826-7	Qn	FHIR	L	HP:0032025	false	2018-10-03T10:51:42	OHSU:JP	NA	NA	0.1	true	copied from: 1825-9 @original comment:
+12960-1	Qn	FHIR	N	HP:0031686	true	2018-10-03T10:53:18	OHSU:JP	NA	NA	0.1	true	NA
+12960-1	Qn	FHIR	H	HP:0031686	false	2018-10-03T10:53:18	OHSU:JP	NA	NA	0.1	true	NA
+18271-7	Qn	FHIR	N	HP:0031686	true	2018-10-03T10:53:18	OHSU:JP	NA	NA	0.1	true	copied from: 12960-1 @original comment: 
+18271-7	Qn	FHIR	H	HP:0031686	false	2018-10-03T10:53:18	OHSU:JP	NA	NA	0.1	true	copied from: 12960-1 @original comment:
+25303-9	Qn	FHIR	N	HP:0031686	true	2018-10-03T10:53:51	OHSU:JP	NA	NA	0.1	true	NA
+25303-9	Qn	FHIR	H	HP:0031686	false	2018-10-03T10:53:51	OHSU:JP	NA	NA	0.1	true	NA
+1834-1	Qn	FHIR	N	HP:0045056	true	2018-10-03T11:03:54	OHSU:JP	NA	NA	0.1	true	NA
+1834-1	Qn	FHIR	H	HP:0006254	false	2018-10-03T11:03:54	OHSU:JP	NA	NA	0.1	true	NA
+1834-1	Qn	FHIR	L	HP:0045057	false	2018-10-03T11:03:54	OHSU:JP	NA	NA	0.1	true	NA
+19176-7	Qn	FHIR	N	HP:0045056	true	2018-10-03T11:03:54	OHSU:JP	NA	NA	0.1	true	copied from: 1834-1 @original comment: 
+19176-7	Qn	FHIR	H	HP:0006254	false	2018-10-03T11:03:54	OHSU:JP	NA	NA	0.1	true	copied from: 1834-1 @original comment: 
+19176-7	Qn	FHIR	L	HP:0045057	false	2018-10-03T11:03:54	OHSU:JP	NA	NA	0.1	true	copied from: 1834-1 @original comment:
+19177-5	Qn	FHIR	N	HP:0045056	true	2018-10-03T11:03:54	OHSU:JP	NA	NA	0.1	true	copied from: 19176-7 @original comment: copied from: 1834-1 @original comment: 
+19177-5	Qn	FHIR	H	HP:0006254	false	2018-10-03T11:03:54	OHSU:JP	NA	NA	0.1	true	copied from: 19176-7 @original comment: copied from: 1834-1 @original comment: 
+19177-5	Qn	FHIR	L	HP:0045057	false	2018-10-03T11:03:54	OHSU:JP	NA	NA	0.1	true	copied from: 19176-7 @original comment: copied from: 1834-1 @original comment:
