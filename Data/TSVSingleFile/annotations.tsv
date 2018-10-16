@@ -173,8 +173,8 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 2777-1	Qn	FHIR	N	HP:0100529	true	2018-03-20T16:49:06	JGM:Aaron	NA	NA	0.1	true	NA
 2777-1	Qn	FHIR	H	HP:0002905	false	2018-03-20T16:49:06	JGM:Aaron	NA	NA	0.1	true	NA
 2777-1	Qn	FHIR	L	HP:0002148	false	2018-03-20T16:49:06	JGM:Aaron	NA	NA	0.1	true	NA
-2514-8	Ord	FHIR	POS	HP:0002919	false	2018-03-27T16:31:57	JGM:Aaron	2018-04-06T08:40:16	JGM:Aaron	0.3	false	NA
-2514-8	Ord	FHIR	NEG	HP:0003110	true	2018-03-27T16:31:57	JGM:Aaron	2018-04-06T08:40:16	JGM:Aaron	0.3	false	NA
+2514-8	Ord	FHIR	POS	HP:0002919	false	2018-10-16T14:36:13	JGM:lccarmody	NA	NA	0.1	true	NA
+2514-8	Ord	FHIR	NEG	HP:0002919	true	2018-10-16T14:36:13	JGM:lccarmody	NA	NA	0.1	true	NA
 1975-2	Qn	FHIR	N	HP:0003573	true	2018-04-03T08:52:07	HPO:probinson	NA	NA	0.1	true	NA
 1975-2	Qn	FHIR	H	HP:0003573	false	2018-04-03T08:52:07	HPO:probinson	NA	NA	0.1	true	NA
 751-8	Qn	FHIR	N	HP:0011991	true	2018-03-27T11:50:50	JGM:Aaron	NA	NA	0.1	true	NA
@@ -2474,8 +2474,8 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 2465-3	Qn	FHIR	L	HP:0004315	false	2018-10-16T10:50:39	JGM:lccarmody	NA	NA	0.1	true	NA
 800-3	Ord	FHIR	POS	HP:0001981	false	2018-07-24T12:15:06	JGM:azhang	NA	NA	0.1	true	NA
 800-3	Ord	FHIR	NEG	HP:0001981	true	2018-07-24T12:15:06	JGM:azhang	NA	NA	0.1	true	NA
-2890-2	Qn	FHIR	N	HP:0000093	true	2018-07-24T12:17:47	JGM:azhang	2018-07-24T12:18:19	JGM:azhang	0.2	false	double check
-2890-2	Qn	FHIR	H	HP:0000093	false	2018-07-24T12:17:47	JGM:azhang	2018-07-24T12:18:19	JGM:azhang	0.2	false	double check
+2890-2	Qn	FHIR	N	HP:0000093	true	2018-10-16T14:33:40	JGM:lccarmody	NA	NA	0.1	true	NA
+2890-2	Qn	FHIR	H	HP:0000093	false	2018-10-16T14:33:40	JGM:lccarmody	NA	NA	0.1	true	NA
 12772-0	Qn	FHIR	N	HP:0031888	true	2018-07-24T10:56:30	JGM:azhang	NA	NA	0.1	true	NA
 12772-0	Qn	FHIR	H	HP:0012184	false	2018-07-24T10:56:30	JGM:azhang	NA	NA	0.1	true	NA
 12772-0	Qn	FHIR	L	HP:0003233	false	2018-07-24T10:56:30	JGM:azhang	NA	NA	0.1	true	NA
@@ -2511,8 +2511,8 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 13458-5	Qn	FHIR	L	HP:0031243	false	2018-07-24T13:36:33	JGM:azhang	NA	NA	0.1	true	NA
 5796-8	Qn	FHIR	N	HP:0031200	true	2018-07-24T13:37:57	JGM:azhang	NA	NA	0.1	false	check mapping for normal and low
 5796-8	Qn	FHIR	H	HP:0031200	false	2018-07-24T13:37:57	JGM:azhang	NA	NA	0.1	false	check mapping for normal and low
-14118-4	Qn	FHIR	N	HP:0003128	true	2018-07-24T13:39:46	JGM:azhang	2018-07-24T13:46:08	JGM:azhang	0.2	false	an alternative mapping is Increased serum lactate
-14118-4	Qn	FHIR	H	HP:0003128	false	2018-07-24T13:39:46	JGM:azhang	2018-07-24T13:46:08	JGM:azhang	0.2	false	an alternative mapping is Increased serum lactate
+14118-4	Qn	FHIR	N	HP:0002151	true	2018-10-16T14:26:40	JGM:lccarmody	NA	NA	0.1	true	NA
+14118-4	Qn	FHIR	H	HP:0002151	false	2018-10-16T14:26:40	JGM:lccarmody	NA	NA	0.1	true	NA
 43983-6	Ord	FHIR	POS	HP:0500112	false	2018-07-24T13:58:47	JGM:azhang	NA	NA	0.1	true	NA
 43983-6	Ord	FHIR	NEG	HP:0500112	true	2018-07-24T13:58:47	JGM:azhang	NA	NA	0.1	true	NA
 2284-8	Qn	FHIR	N	HP:0012335	true	2018-07-24T14:03:33	JGM:azhang	2018-07-31T14:45:02	JGM:azhang	0.2	true	NA
@@ -2558,9 +2558,8 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 3255-7	Qn	FHIR	N	HP:0011898	true	2018-07-24T14:27:07	JGM:azhang	NA	NA	0.1	true	NA
 3255-7	Qn	FHIR	H	HP:0011899	false	2018-07-24T14:27:07	JGM:azhang	NA	NA	0.1	true	NA
 3255-7	Qn	FHIR	L	HP:0011900	false	2018-07-24T14:27:07	JGM:azhang	NA	NA	0.1	true	NA
-2458-8	Qn	FHIR	N	HP:0010701	true	2018-07-24T14:42:28	JGM:azhang	NA	NA	0.1	false	Consider creating an alternative parent: Abnormal IgA concentration
-2458-8	Qn	FHIR	H	HP:0003261	false	2018-07-24T14:42:28	JGM:azhang	NA	NA	0.1	false	Consider creating an alternative parent: Abnormal IgA concentration
-2458-8	Qn	FHIR	L	HP:0002720	false	2018-07-24T14:42:28	JGM:azhang	NA	NA	0.1	false	Consider creating an alternative parent: Abnormal IgA concentration
+2458-8	Qn	FHIR	N	HP:0410240	true	2018-10-16T14:33:01	JGM:lccarmody	NA	NA	0.1	true	NA
+2458-8	Qn	FHIR	H	HP:0003261	false	2018-10-16T14:33:01	JGM:lccarmody	NA	NA	0.1	true	NA
 57751-0	Ord	FHIR	POS	HP:0003641	false	2018-07-24T14:44:26	JGM:azhang	NA	NA	0.1	true	NA
 57751-0	Ord	FHIR	NEG	HP:0003641	true	2018-07-24T14:44:26	JGM:azhang	NA	NA	0.1	true	NA
 33411-0	Ord	FHIR	POS	HP:0003641	false	2018-07-24T11:10:52	JGM:azhang	NA	NA	0.1	true	NA
@@ -2684,10 +2683,10 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 10968-6	Ord	FHIR	NEG	HP:0003076	true	2018-08-20T14:31:44	OHSU:JP	NA	NA	0.1	true	NA
 12239-0	Ord	FHIR	POS	HP:0010471	false	2018-08-20T14:34:07	OHSU:JP	NA	NA	0.1	true	NA
 12239-0	Ord	FHIR	NEG	HP:0010471	true	2018-08-20T14:34:07	OHSU:JP	NA	NA	0.1	true	NA
-14045-9	Qn	FHIR	N	HP:0003128	true	2018-07-24T13:39:46	JGM:azhang	2018-07-24T13:46:08	JGM:azhang	0.2	false	an alternative mapping is Increased serum lactate
-14045-9	Qn	FHIR	H	HP:0003128	false	2018-07-24T13:39:46	JGM:azhang	2018-07-24T13:46:08	JGM:azhang	0.2	false	an alternative mapping is Increased serum lactate
-32133-1	Qn	FHIR	N	HP:0003128	true	2018-07-24T13:39:46	JGM:azhang	2018-07-24T13:46:08	JGM:azhang	0.2	false	an alternative mapping is Increased serum lactate
-32133-1	Qn	FHIR	H	HP:0003128	false	2018-07-24T13:39:46	JGM:azhang	2018-07-24T13:46:08	JGM:azhang	0.2	false	an alternative mapping is Increased serum lactate
+14045-9	Qn	FHIR	N	HP:0002151	true	2018-10-16T14:27:04	JGM:lccarmody	NA	NA	0.1	true	NA
+14045-9	Qn	FHIR	H	HP:0002151	false	2018-10-16T14:27:04	JGM:lccarmody	NA	NA	0.1	true	NA
+32133-1	Qn	FHIR	N	HP:0002151	true	2018-10-16T14:27:16	JGM:lccarmody	NA	NA	0.1	true	NA
+32133-1	Qn	FHIR	H	HP:0002151	false	2018-10-16T14:27:16	JGM:lccarmody	NA	NA	0.1	true	NA
 35245-0	Qn	FHIR	N	HP:0002151	true	2018-07-30T16:45:29	OHSU:JP	NA	NA	0.1	true	NA
 35245-0	Qn	FHIR	H	HP:0002151	false	2018-07-30T16:45:29	OHSU:JP	NA	NA	0.1	true	NA
 57356-8	Qn	FHIR	N	HP:0002151	true	2018-07-30T16:45:29	OHSU:JP	NA	NA	0.1	true	NA
@@ -2734,8 +2733,8 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 59849-0	Qn	FHIR	H	HP:0002151	false	2018-07-30T16:45:29	OHSU:JP	NA	NA	0.1	true	NA
 68911-7	Qn	FHIR	N	HP:0002151	true	2018-07-30T16:45:29	OHSU:JP	NA	NA	0.1	true	NA
 68911-7	Qn	FHIR	H	HP:0002151	false	2018-07-30T16:45:29	OHSU:JP	NA	NA	0.1	true	NA
-2524-7	Qn	FHIR	N	HP:0003128	true	2018-07-24T13:39:46	JGM:azhang	2018-07-24T13:46:08	JGM:azhang	0.2	false	an alternative mapping is Increased serum lactate
-2524-7	Qn	FHIR	H	HP:0003128	false	2018-07-24T13:39:46	JGM:azhang	2018-07-24T13:46:08	JGM:azhang	0.2	false	an alternative mapping is Increased serum lactate
+2524-7	Qn	FHIR	N	HP:0002151	true	2018-10-16T14:29:39	JGM:lccarmody	NA	NA	0.1	true	NA
+2524-7	Qn	FHIR	H	HP:0002151	false	2018-10-16T14:29:39	JGM:lccarmody	NA	NA	0.1	true	NA
 51428-1	Qn	FHIR	N	HP:0002151	true	2018-07-30T16:45:29	OHSU:JP	NA	NA	0.1	true	NA
 51428-1	Qn	FHIR	H	HP:0002151	false	2018-07-30T16:45:29	OHSU:JP	NA	NA	0.1	true	NA
 32132-3	Qn	FHIR	N	HP:0002151	true	2018-07-30T16:45:29	OHSU:JP	NA	NA	0.1	true	NA
@@ -2751,18 +2750,18 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 54309-0	Qn	FHIR	L	HP:0030086	false	2018-08-27T14:28:43	OHSU:JP	NA	NA	0.1	true	NA
 25905-1	Qn	FHIR	N	HP:0002151	true	2018-07-30T16:45:29	OHSU:JP	NA	NA	0.1	true	NA
 25905-1	Qn	FHIR	H	HP:0002151	false	2018-07-30T16:45:29	OHSU:JP	NA	NA	0.1	true	NA
-25904-4	Qn	FHIR	N	HP:0003128	true	2018-07-24T13:39:46	JGM:azhang	2018-07-24T13:46:08	JGM:azhang	0.2	false	an alternative mapping is Increased serum lactate
-25904-4	Qn	FHIR	H	HP:0003128	false	2018-07-24T13:39:46	JGM:azhang	2018-07-24T13:46:08	JGM:azhang	0.2	false	an alternative mapping is Increased serum lactate
-25899-6	Qn	FHIR	N	HP:0003128	true	2018-07-24T13:39:46	JGM:azhang	2018-07-24T13:46:08	JGM:azhang	0.2	false	an alternative mapping is Increased serum lactate
-25899-6	Qn	FHIR	H	HP:0003128	false	2018-07-24T13:39:46	JGM:azhang	2018-07-24T13:46:08	JGM:azhang	0.2	false	an alternative mapping is Increased serum lactate
-25900-2	Qn	FHIR	N	HP:0003128	true	2018-07-24T13:39:46	JGM:azhang	2018-07-24T13:46:08	JGM:azhang	0.2	false	an alternative mapping is Increased serum lactate
-25900-2	Qn	FHIR	H	HP:0003128	false	2018-07-24T13:39:46	JGM:azhang	2018-07-24T13:46:08	JGM:azhang	0.2	false	an alternative mapping is Increased serum lactate
-25901-0	Qn	FHIR	N	HP:0003128	true	2018-07-24T13:39:46	JGM:azhang	2018-07-24T13:46:08	JGM:azhang	0.2	false	an alternative mapping is Increased serum lactate
-25901-0	Qn	FHIR	H	HP:0003128	false	2018-07-24T13:39:46	JGM:azhang	2018-07-24T13:46:08	JGM:azhang	0.2	false	an alternative mapping is Increased serum lactate
-25902-8	Qn	FHIR	N	HP:0003128	true	2018-07-24T13:39:46	JGM:azhang	2018-07-24T13:46:08	JGM:azhang	0.2	false	an alternative mapping is Increased serum lactate
-25902-8	Qn	FHIR	H	HP:0003128	false	2018-07-24T13:39:46	JGM:azhang	2018-07-24T13:46:08	JGM:azhang	0.2	false	an alternative mapping is Increased serum lactate
-25903-6	Qn	FHIR	N	HP:0003128	true	2018-07-24T13:39:46	JGM:azhang	2018-07-24T13:46:08	JGM:azhang	0.2	false	an alternative mapping is Increased serum lactate
-25903-6	Qn	FHIR	H	HP:0003128	false	2018-07-24T13:39:46	JGM:azhang	2018-07-24T13:46:08	JGM:azhang	0.2	false	an alternative mapping is Increased serum lactate
+25904-4	Qn	FHIR	N	HP:0002151	true	2018-10-16T14:30:06	JGM:lccarmody	NA	NA	0.1	true	NA
+25904-4	Qn	FHIR	H	HP:0002151	false	2018-10-16T14:30:06	JGM:lccarmody	NA	NA	0.1	true	NA
+25899-6	Qn	FHIR	N	HP:0002151	true	2018-10-16T14:30:15	JGM:lccarmody	NA	NA	0.1	true	NA
+25899-6	Qn	FHIR	H	HP:0002151	false	2018-10-16T14:30:15	JGM:lccarmody	NA	NA	0.1	true	NA
+25900-2	Qn	FHIR	N	HP:0002151	true	2018-10-16T14:30:26	JGM:lccarmody	NA	NA	0.1	true	NA
+25900-2	Qn	FHIR	H	HP:0002151	false	2018-10-16T14:30:26	JGM:lccarmody	NA	NA	0.1	true	NA
+25901-0	Qn	FHIR	N	HP:0002151	true	2018-10-16T14:30:37	JGM:lccarmody	NA	NA	0.1	true	NA
+25901-0	Qn	FHIR	H	HP:0002151	false	2018-10-16T14:30:37	JGM:lccarmody	NA	NA	0.1	true	NA
+25902-8	Qn	FHIR	N	HP:0002151	true	2018-10-16T14:30:48	JGM:lccarmody	NA	NA	0.1	true	NA
+25902-8	Qn	FHIR	H	HP:0002151	false	2018-10-16T14:30:48	JGM:lccarmody	NA	NA	0.1	true	NA
+25903-6	Qn	FHIR	N	HP:0002151	true	2018-10-16T14:30:59	JGM:lccarmody	NA	NA	0.1	true	NA
+25903-6	Qn	FHIR	H	HP:0002151	false	2018-10-16T14:30:59	JGM:lccarmody	NA	NA	0.1	true	NA
 75040-6	Qn	FHIR	N	HP:0030085	true	2018-08-27T14:28:43	OHSU:JP	NA	NA	0.1	true	NA
 75040-6	Qn	FHIR	H	HP:0002490	false	2018-08-27T14:28:43	OHSU:JP	NA	NA	0.1	true	NA
 75040-6	Qn	FHIR	L	HP:0030086	false	2018-08-27T14:28:43	OHSU:JP	NA	NA	0.1	true	NA
