@@ -15,9 +15,9 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 20454-5	Ord	FHIR	POS	HP:0000093	false	2018-04-03T12:57:09	HPO:nvasilevsky	2018-04-06T08:39:16	JGM:Aaron	0.2	true	NA
 3040-3	Qn	FHIR	N	HP:0012379	true	2018-04-20T11:48:17	OHSU:JP	NA	NA	0.1	false	NA
 3040-3	Qn	FHIR	L	HP:0031209	false	2018-04-20T11:48:17	OHSU:JP	NA	NA	0.1	false	NA
-26511-6	Qn	FHIR	N	HP:0011991	true	2018-05-08T09:10:53	JGM:azhang	NA	NA	0.1	false	Again, we are using equating ``percentage`` to absolute count. Does it make sense?
-26511-6	Qn	FHIR	H	HP:0011897	false	2018-05-08T09:10:53	JGM:azhang	NA	NA	0.1	false	Again, we are using equating ``percentage`` to absolute count. Does it make sense?
-26511-6	Qn	FHIR	L	HP:0001875	false	2018-05-08T09:10:53	JGM:azhang	NA	NA	0.1	false	Again, we are using equating ``percentage`` to absolute count. Does it make sense?
+26511-6	Qn	FHIR	N	HP:0011991	true	2018-10-16T10:20:40	JGM:lccarmody	NA	NA	0.1	true	NA
+26511-6	Qn	FHIR	H	HP:0011897	false	2018-10-16T10:20:40	JGM:lccarmody	NA	NA	0.1	true	NA
+26511-6	Qn	FHIR	L	HP:0001875	false	2018-10-16T10:20:40	JGM:lccarmody	NA	NA	0.1	true	NA
 600-7	Nom	FHIR	N	HP:0031864	true	2018-05-10T14:41:03	HPO:nvasilevsky	NA	NA	0.1	true	NA
 600-7	Nom	FHIR	POS	HP:0031864	false	2018-05-10T14:41:03	HPO:nvasilevsky	NA	NA	0.1	true	NA
 600-7	Nom	FHIR	H	HP:0031864	false	2018-05-10T14:41:03	HPO:nvasilevsky	NA	NA	0.1	true	NA
@@ -1184,12 +1184,12 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 13032-8	Qn	FHIR	N	HP:0030794	true	2018-05-24T14:10:15	HPO:nvasilevsky	NA	NA	0.1	true	NA
 13032-8	Qn	FHIR	H	HP:0030796	false	2018-05-24T14:10:15	HPO:nvasilevsky	NA	NA	0.1	true	NA
 13032-8	Qn	FHIR	L	HP:0030795	false	2018-05-24T14:10:15	HPO:nvasilevsky	NA	NA	0.1	true	NA
-8480-6	Qn	FHIR	N	HP:0030972	true	2018-06-19T17:22:11	JGM:azhang	NA	NA	0.1	false	This is for test purpose, modify low/normal once new terms are created
-8480-6	Qn	FHIR	H	HP:0004421	false	2018-06-19T17:22:11	JGM:azhang	NA	NA	0.1	false	This is for test purpose, modify low/normal once new terms are created
-8480-6	Qn	FHIR	L	HP:0002615	false	2018-06-19T17:22:11	JGM:azhang	NA	NA	0.1	false	This is for test purpose, modify low/normal once new terms are created
-8462-4	Qn	FHIR	N	HP:0030972	true	2018-06-19T17:23:48	JGM:azhang	NA	NA	0.1	false	modify low /normal when new terms are created
-8462-4	Qn	FHIR	H	HP:0005117	false	2018-06-19T17:23:48	JGM:azhang	NA	NA	0.1	false	modify low /normal when new terms are created
-8462-4	Qn	FHIR	L	HP:0002615	false	2018-06-19T17:23:48	JGM:azhang	NA	NA	0.1	false	modify low /normal when new terms are created
+8480-6	Qn	FHIR	N	HP:0030972	true	2018-10-16T10:52	JGM:lccarmody	NA	NA	0.1	true	NA
+8480-6	Qn	FHIR	H	HP:0004421	false	2018-10-16T10:52	JGM:lccarmody	NA	NA	0.1	true	NA
+8480-6	Qn	FHIR	L	HP:0500105	false	2018-10-16T10:52	JGM:lccarmody	NA	NA	0.1	true	NA
+8462-4	Qn	FHIR	N	HP:0030972	true	2018-10-16T10:52:17	JGM:lccarmody	NA	NA	0.1	true	NA
+8462-4	Qn	FHIR	H	HP:0005117	false	2018-10-16T10:52:17	JGM:lccarmody	NA	NA	0.1	true	NA
+8462-4	Qn	FHIR	L	HP:0500104	false	2018-10-16T10:52:17	JGM:lccarmody	NA	NA	0.1	true	NA
 35094-2	Unknown	FHIR	N	HP:0030972	true	2018-06-19T17:27:29	JGM:azhang	NA	NA	0.1	true	NA
 35094-2	Unknown	FHIR	POS	HP:0000822	false	2018-06-19T17:27:29	JGM:azhang	NA	NA	0.1	true	NA
 35094-2	Unknown	FHIR	H	HP:0000822	false	2018-06-19T17:27:29	JGM:azhang	NA	NA	0.1	true	NA
@@ -2405,8 +2405,8 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 33037-3	Qn	FHIR	N	HP:0031961	true	2018-07-24T10:36:53	JGM:azhang	NA	NA	0.1	true	NA
 33037-3	Qn	FHIR	H	HP:0031962	false	2018-07-24T10:36:53	JGM:azhang	NA	NA	0.1	true	NA
 33037-3	Qn	FHIR	L	HP:0031963	false	2018-07-24T10:36:53	JGM:azhang	NA	NA	0.1	true	NA
-1742-6	Qn	FHIR	N	HP:0031964	true	2018-07-24T10:39:58	JGM:azhang	2018-07-24T10:40:40	JGM:azhang	0.2	false	a normal test does not actually mean a negated form of parent term
-1742-6	Qn	FHIR	H	HP:0031964	false	2018-07-24T10:39:58	JGM:azhang	2018-07-24T10:40:40	JGM:azhang	0.2	false	a normal test does not actually mean a negated form of parent term
+1742-6	Qn	FHIR	N	HP:0031964	true	2018-10-16T10:45:26	JGM:lccarmody	NA	NA	0.1	true	NA
+1742-6	Qn	FHIR	H	HP:0031964	false	2018-10-16T10:45:26	JGM:lccarmody	NA	NA	0.1	true	NA
 788-0	Qn	FHIR	N	HP:0001877	true	2018-07-24T10:44:46	JGM:azhang	NA	NA	0.1	false	Can we assume low as being normal?
 788-0	Qn	FHIR	H	HP:0031965	false	2018-07-24T10:44:46	JGM:azhang	NA	NA	0.1	false	Can we assume low as being normal?
 1920-8	Qn	FHIR	N	HP:0031956	true	2018-07-24T10:47:40	JGM:azhang	NA	NA	0.1	false	check mapping for normal
@@ -2469,9 +2469,9 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 49505-1	Qn	FHIR	H	HP:0000790	false	2018-07-24T12:02:56	JGM:azhang	NA	NA	0.1	true	NA
 50226-0	Ord	FHIR	POS	HP:0000790	false	2018-07-24T12:03:02	JGM:azhang	NA	NA	0.1	true	NA
 50226-0	Ord	FHIR	NEG	HP:0000790	true	2018-07-24T12:03:02	JGM:azhang	NA	NA	0.1	true	NA
-2465-3	Qn	FHIR	N	HP:0010701	true	2018-07-24T12:13:10	JGM:azhang	NA	NA	0.1	false	check mapping for normal
-2465-3	Qn	FHIR	H	HP:0003237	false	2018-07-24T12:13:10	JGM:azhang	NA	NA	0.1	false	check mapping for normal
-2465-3	Qn	FHIR	L	HP:0004315	false	2018-07-24T12:13:10	JGM:azhang	NA	NA	0.1	false	check mapping for normal
+2465-3	Qn	FHIR	N	HP:0010701	true	2018-10-16T10:50:39	JGM:lccarmody	NA	NA	0.1	true	NA
+2465-3	Qn	FHIR	H	HP:0003237	false	2018-10-16T10:50:39	JGM:lccarmody	NA	NA	0.1	true	NA
+2465-3	Qn	FHIR	L	HP:0004315	false	2018-10-16T10:50:39	JGM:lccarmody	NA	NA	0.1	true	NA
 800-3	Ord	FHIR	POS	HP:0001981	false	2018-07-24T12:15:06	JGM:azhang	NA	NA	0.1	true	NA
 800-3	Ord	FHIR	NEG	HP:0001981	true	2018-07-24T12:15:06	JGM:azhang	NA	NA	0.1	true	NA
 2890-2	Qn	FHIR	N	HP:0000093	true	2018-07-24T12:17:47	JGM:azhang	2018-07-24T12:18:19	JGM:azhang	0.2	false	double check
@@ -3284,8 +3284,8 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 14151-5	Qn	FHIR	N	HP:0032065	true	2018-09-24T10:08:41	OHSU:JP	NA	NA	0.1	true	copied from: 14627-4 @original comment: copied from: 1963-8 @original comment: copied from: 1962-0 @original comment: copied from: 1961-2 @original comment: copied from: 1959-6 @original comment: 
 14151-5	Qn	FHIR	H	HP:0032067	false	2018-09-24T10:08:41	OHSU:JP	NA	NA	0.1	true	copied from: 14627-4 @original comment: copied from: 1963-8 @original comment: copied from: 1962-0 @original comment: copied from: 1961-2 @original comment: copied from: 1959-6 @original comment: 
 14151-5	Qn	FHIR	L	HP:0032066	false	2018-09-24T10:08:41	OHSU:JP	NA	NA	0.1	true	copied from: 14627-4 @original comment: copied from: 1963-8 @original comment: copied from: 1962-0 @original comment: copied from: 1961-2 @original comment: copied from: 1959-6 @original comment:
-77144-4	Qn	FHIR	N	HP:0031964	true	2018-07-24T10:39:58	JGM:azhang	2018-07-24T10:40:40	JGM:azhang	0.2	false	copied from: 1742-6 @original comment: a normal test does not actually mean a negated form of parent term
-77144-4	Qn	FHIR	H	HP:0031964	false	2018-07-24T10:39:58	JGM:azhang	2018-07-24T10:40:40	JGM:azhang	0.2	false	copied from: 1742-6 @original comment: a normal test does not actually mean a negated form of parent term
+77144-4	Qn	FHIR	N	HP:0031964	true	2018-10-16T10:45:11	JGM:lccarmody	NA	NA	0.1	true	NA
+77144-4	Qn	FHIR	H	HP:0031964	false	2018-10-16T10:45:11	JGM:lccarmody	NA	NA	0.1	true	NA
 27344-1	Ord	FHIR	POS	HP:0031956	false	2018-09-24T10:33:18	OHSU:JP	NA	NA	0.1	true	NA
 27344-1	Ord	FHIR	NEG	HP:0031956	true	2018-09-24T10:33:18	OHSU:JP	NA	NA	0.1	true	NA
 10611-2	Qn	FHIR	N	HP:0012206	true	2018-09-25T13:52:12	JGM:lccarmody	NA	NA	0.1	true	NA
@@ -5506,3 +5506,65 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 15927-7	Ord	FHIR	NEG	HP:0410228	true	2018-10-15T10:11:23	OHSU:JP	NA	NA	0.1	true	NA
 50032-2	Qn	FHIR	N	HP:0410238	true	2018-10-15T10:12:14	OHSU:JP	NA	NA	0.1	true	NA
 50032-2	Qn	FHIR	H	HP:0410238	false	2018-10-15T10:12:14	OHSU:JP	NA	NA	0.1	true	NA
+26515-7	Qn	FHIR	N	HP:0011873	true	2018-10-16T10:54:51	JGM:lccarmody	NA	NA	0.1	true	NA
+26515-7	Qn	FHIR	H	HP:0001894	false	2018-10-16T10:54:51	JGM:lccarmody	NA	NA	0.1	true	NA
+26515-7	Qn	FHIR	L	HP:0001873	false	2018-10-16T10:54:51	JGM:lccarmody	NA	NA	0.1	true	NA
+6301-6	Qn	FHIR	N	HP:0030402	true	2018-10-16T10:57:24	JGM:lccarmody	NA	NA	0.1	true	NA
+6301-6	Qn	FHIR	H	HP:0040241	false	2018-10-16T10:57:24	JGM:lccarmody	NA	NA	0.1	true	NA
+6301-6	Qn	FHIR	L	HP:0003540	false	2018-10-16T10:57:24	JGM:lccarmody	NA	NA	0.1	true	NA
+5792-7	Qn	FHIR	N	HP:0011016	true	2018-10-16T10:58:58	JGM:lccarmody	NA	NA	0.1	true	NA
+5792-7	Qn	FHIR	H	HP:0003076	false	2018-10-16T10:58:58	JGM:lccarmody	NA	NA	0.1	true	NA
+5792-7	Qn	FHIR	L	HP:0045013	false	2018-10-16T10:58:58	JGM:lccarmody	NA	NA	0.1	true	NA
+5804-0	Qn	FHIR	N	HP:0000093	true	2018-10-16T10:59:29	JGM:lccarmody	NA	NA	0.1	true	NA
+5804-0	Qn	FHIR	H	HP:0000093	false	2018-10-16T10:59:29	JGM:lccarmody	NA	NA	0.1	true	NA
+2601-3	Qn	FHIR	N	HP:0004921	true	2018-10-16T11:00:02	JGM:lccarmody	NA	NA	0.1	true	NA
+2601-3	Qn	FHIR	H	HP:0002918	false	2018-10-16T11:00:02	JGM:lccarmody	NA	NA	0.1	true	NA
+2601-3	Qn	FHIR	L	HP:0002917	false	2018-10-16T11:00:02	JGM:lccarmody	NA	NA	0.1	true	NA
+11557-6	Qn	FHIR	N	HP:0012415	true	2018-10-16T11:00:59	JGM:lccarmody	NA	NA	0.1	true	NA
+11557-6	Qn	FHIR	H	HP:0012416	false	2018-10-16T11:00:59	JGM:lccarmody	NA	NA	0.1	true	NA
+11557-6	Qn	FHIR	L	HP:0012417	false	2018-10-16T11:00:59	JGM:lccarmody	NA	NA	0.1	true	NA
+11556-8	Qn	FHIR	N	HP:0012415	true	2018-10-16T11:01:41	JGM:lccarmody	NA	NA	0.1	true	NA
+11556-8	Qn	FHIR	H	HP:0012419	false	2018-10-16T11:01:41	JGM:lccarmody	NA	NA	0.1	true	NA
+11556-8	Qn	FHIR	L	HP:0012418	false	2018-10-16T11:01:41	JGM:lccarmody	NA	NA	0.1	true	NA
+11558-4	Qn	FHIR	N	HP:0004360	true	2018-10-16T11:03:14	JGM:lccarmody	NA	NA	0.1	true	NA
+11558-4	Qn	FHIR	H	HP:0001948	false	2018-10-16T11:03:14	JGM:lccarmody	NA	NA	0.1	true	NA
+11558-4	Qn	FHIR	L	HP:0001941	false	2018-10-16T11:03:14	JGM:lccarmody	NA	NA	0.1	true	NA
+1971-1	Qn	FHIR	N	HP:0002904	true	2018-10-16T11:05:24	JGM:lccarmody	NA	NA	0.1	true	NA
+1971-1	Qn	FHIR	H	HP:0002904	false	2018-10-16T11:05:24	JGM:lccarmody	NA	NA	0.1	true	NA
+6742-1	Nom	FHIR	N	HP:0001877	true	2018-10-16T11:06:32	JGM:lccarmody	NA	NA	0.1	true	NA
+6742-1	Nom	FHIR	POS	HP:0001877	false	2018-10-16T11:06:32	JGM:lccarmody	NA	NA	0.1	true	NA
+6742-1	Nom	FHIR	H	HP:0001877	false	2018-10-16T11:06:32	JGM:lccarmody	NA	NA	0.1	true	NA
+6742-1	Nom	FHIR	NEG	HP:0001877	true	2018-10-16T11:06:32	JGM:lccarmody	NA	NA	0.1	true	NA
+8310-5	Qn	FHIR	N	HP:0004370	true	2018-10-16T11:06:52	JGM:lccarmody	NA	NA	0.1	true	NA
+8310-5	Qn	FHIR	H	HP:0001945	false	2018-10-16T11:06:52	JGM:lccarmody	NA	NA	0.1	true	NA
+8310-5	Qn	FHIR	L	HP:0002045	false	2018-10-16T11:06:52	JGM:lccarmody	NA	NA	0.1	true	NA
+20565-8	Qn	FHIR	N	HP:0012415	true	2018-10-16T11:07:12	JGM:lccarmody	NA	NA	0.1	true	NA
+20565-8	Qn	FHIR	H	HP:0012416	false	2018-10-16T11:07:12	JGM:lccarmody	NA	NA	0.1	true	NA
+20565-8	Qn	FHIR	L	HP:0012417	false	2018-10-16T11:07:12	JGM:lccarmody	NA	NA	0.1	true	NA
+21000-5	Qn	FHIR	N	HP:0001877	true	2018-10-16T11:07:58	JGM:lccarmody	NA	NA	0.1	true	NA
+21000-5	Qn	FHIR	H	HP:0031965	false	2018-10-16T11:07:58	JGM:lccarmody	NA	NA	0.1	true	NA
+2753-2	Qn	FHIR	N	HP:0004360	true	2018-10-16T11:08:37	JGM:lccarmody	NA	NA	0.1	true	NA
+2753-2	Qn	FHIR	H	HP:0001948	false	2018-10-16T11:08:37	JGM:lccarmody	NA	NA	0.1	true	NA
+2753-2	Qn	FHIR	L	HP:0001941	false	2018-10-16T11:08:37	JGM:lccarmody	NA	NA	0.1	true	NA
+2502-3	Qn	FHIR	N	HP:0040130	true	2018-10-16T11:09:41	JGM:lccarmody	NA	NA	0.1	true	NA
+2502-3	Qn	FHIR	H	HP:0003452	false	2018-10-16T11:09:41	JGM:lccarmody	NA	NA	0.1	true	NA
+2502-3	Qn	FHIR	L	HP:0040303	false	2018-10-16T11:09:41	JGM:lccarmody	NA	NA	0.1	true	NA
+3390-2	Ord	FHIR	POS	HP:0500111	false	2018-10-16T11:09:57	JGM:lccarmody	NA	NA	0.1	true	NA
+3390-2	Ord	FHIR	NEG	HP:0500111	true	2018-10-16T11:09:57	JGM:lccarmody	NA	NA	0.1	true	NA
+34714-6	Qn	FHIR	N	HP:0030402	true	2018-10-16T11:11:07	JGM:lccarmody	NA	NA	0.1	true	NA
+34714-6	Qn	FHIR	H	HP:0040241	false	2018-10-16T11:11:07	JGM:lccarmody	NA	NA	0.1	true	NA
+34714-6	Qn	FHIR	L	HP:0003540	false	2018-10-16T11:11:07	JGM:lccarmody	NA	NA	0.1	true	NA
+17856-6	Qn	FHIR	N	HP:0011902	true	2018-10-16T11:11:31	JGM:lccarmody	NA	NA	0.1	true	NA
+17856-6	Qn	FHIR	H	HP:0040217	false	2018-10-16T11:11:31	JGM:lccarmody	NA	NA	0.1	true	NA
+32215-6	Qn	FHIR	N	HP:0031505	true	2018-10-16T11:11:57	JGM:lccarmody	NA	NA	0.1	true	NA
+32215-6	Qn	FHIR	H	HP:0031506	false	2018-10-16T11:11:57	JGM:lccarmody	NA	NA	0.1	true	NA
+32215-6	Qn	FHIR	L	HP:0031507	false	2018-10-16T11:11:57	JGM:lccarmody	NA	NA	0.1	true	NA
+30341-2	Qn	FHIR	N	HP:0025021	true	2018-10-16T11:12:33	JGM:lccarmody	NA	NA	0.1	true	NA
+30341-2	Qn	FHIR	H	HP:0003565	false	2018-10-16T11:12:33	JGM:lccarmody	NA	NA	0.1	true	NA
+30341-2	Qn	FHIR	L	HP:0025022	false	2018-10-16T11:12:33	JGM:lccarmody	NA	NA	0.1	true	NA
+11125-2	Nom	FHIR	N	HP:0011875	true	2018-10-16T11:13:12	JGM:lccarmody	NA	NA	0.1	true	NA
+11125-2	Nom	FHIR	POS	HP:0011875	false	2018-10-16T11:13:12	JGM:lccarmody	NA	NA	0.1	true	NA
+11125-2	Nom	FHIR	H	HP:0011875	false	2018-10-16T11:13:12	JGM:lccarmody	NA	NA	0.1	true	NA
+11125-2	Nom	FHIR	NEG	HP:0011875	true	2018-10-16T11:13:12	JGM:lccarmody	NA	NA	0.1	true	NA
+15180-3	Ord	FHIR	POS	HP:0001931	false	2018-10-16T11:15:14	JGM:lccarmody	NA	NA	0.1	true	NA
+15180-3	Ord	FHIR	NEG	HP:0001931	true	2018-10-16T11:15:14	JGM:lccarmody	NA	NA	0.1	true	NA
