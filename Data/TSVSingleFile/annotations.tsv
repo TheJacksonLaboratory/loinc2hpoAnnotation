@@ -2412,9 +2412,9 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 33037-3	Qn	FHIR	L	HP:0031963	false	2018-07-24T10:36:53	JGM:azhang	NA	NA	0.1	true	NA
 1742-6	Qn	FHIR	N	HP:0031964	true	2018-10-16T10:45:26	JGM:lccarmody	NA	NA	0.1	true	NA
 1742-6	Qn	FHIR	H	HP:0031964	false	2018-10-16T10:45:26	JGM:lccarmody	NA	NA	0.1	true	NA
-788-0	Qn	FHIR	N	HP:0001877	true	2018-07-24T10:44:46	JGM:azhang	2018-10-17T09:34:56	JGM:azhang	0.3	false	NA
-788-0	Qn	FHIR	H	HP:0031965	false	2018-07-24T10:44:46	JGM:azhang	2018-10-17T09:34:56	JGM:azhang	0.3	false	NA
-788-0	Qn	FHIR	L	HP:0001903	false	2018-07-24T10:44:46	JGM:azhang	2018-10-17T09:34:56	JGM:azhang	0.3	false	NA
+788-0	Qn	FHIR	N	HP:0031965	true	2018-07-24T10:44:46	JGM:azhang	2018-10-17T10:44:17	JGM:azhang	0.5	true	NA
+788-0	Qn	FHIR	H	HP:0031965	false	2018-07-24T10:44:46	JGM:azhang	2018-10-17T10:44:17	JGM:azhang	0.5	true	NA
+788-0	Qn	FHIR	L	HP:0031965	true	2018-07-24T10:44:46	JGM:azhang	2018-10-17T10:44:17	JGM:azhang	0.5	true	NA
 1920-8	Qn	FHIR	N	HP:0031956	true	2018-07-24T10:47:40	JGM:azhang	2018-10-17T09:11:47	JGM:azhang	0.2	true	check mapping for normal
 1920-8	Qn	FHIR	H	HP:0031956	false	2018-07-24T10:47:40	JGM:azhang	2018-10-17T09:11:47	JGM:azhang	0.2	true	check mapping for normal
 20570-8	Qn	FHIR	N	HP:0031850	true	2018-10-01T15:46:55	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 16931-8 @original comment: 
