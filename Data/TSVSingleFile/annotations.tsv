@@ -10,8 +10,8 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 2019-8	Qn	FHIR	H	HP:0012416	false	2018-04-18T18:45:26	HPO:nvasilevsky	NA	NA	0.1	true	NA
 2019-8	Qn	FHIR	L	HP:0012417	false	2018-04-18T18:45:26	HPO:nvasilevsky	NA	NA	0.1	true	NA
 5803-2	Qn	FHIR	L	HP:0031033	false	2018-04-24T13:39:03	OHSU:JP	NA	NA	0.1	true	NA
-738-5	Ord	FHIR	POS	HP:0001972	false	2018-04-06T09:35:51	JGM:azhang	NA	NA	0.1	false	NA
-738-5	Ord	FHIR	NEG	HP:0001972	true	2018-04-06T09:35:51	JGM:azhang	NA	NA	0.1	false	NA
+738-5	Ord	FHIR	POS	HP:0001972	false	2018-04-06T09:35:51	JGM:azhang	2018-10-17T08:46:58	JGM:azhang	0.2	true	NA
+738-5	Ord	FHIR	NEG	HP:0001972	true	2018-04-06T09:35:51	JGM:azhang	2018-10-17T08:46:58	JGM:azhang	0.2	true	NA
 20454-5	Ord	FHIR	POS	HP:0000093	false	2018-04-03T12:57:09	HPO:nvasilevsky	2018-04-06T08:39:16	JGM:Aaron	0.2	true	NA
 3040-3	Qn	FHIR	N	HP:0012379	true	2018-04-20T11:48:17	OHSU:JP	NA	NA	0.1	false	NA
 3040-3	Qn	FHIR	L	HP:0031209	false	2018-04-20T11:48:17	OHSU:JP	NA	NA	0.1	false	NA
@@ -32,8 +32,8 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 48643-1	Qn	FHIR	N	HP:0012212	true	2018-03-23T17:09:30	HPO:probinson	NA	NA	0.1	true	NA
 48643-1	Qn	FHIR	H	HP:0012214	false	2018-03-23T17:09:30	HPO:probinson	NA	NA	0.1	true	NA
 48643-1	Qn	FHIR	L	HP:0012213	false	2018-03-23T17:09:30	HPO:probinson	NA	NA	0.1	true	NA
-2349-9	Ord	FHIR	POS	HP:0003076	false	2018-03-27T15:27:11	JGM:Aaron	2018-04-06T08:39:35	JGM:Aaron	0.2	false	What does Decreased urinary glucose concentration mean? Why is it abnormal?
-2349-9	Ord	FHIR	NEG	HP:0011016	true	2018-03-27T15:27:11	JGM:Aaron	2018-04-06T08:39:35	JGM:Aaron	0.2	false	What does Decreased urinary glucose concentration mean? Why is it abnormal?
+2349-9	Ord	FHIR	POS	HP:0003076	false	2018-03-27T15:27:11	JGM:Aaron	2018-10-17T08:16:33	JGM:azhang	0.3	true	NA
+2349-9	Ord	FHIR	NEG	HP:0003076	true	2018-03-27T15:27:11	JGM:Aaron	2018-10-17T08:16:33	JGM:azhang	0.3	true	NA
 50558-6	Ord	FHIR	POS	HP:0031812	false	2018-04-30T09:56:44	HPO:probinson	NA	NA	0.1	true	NA
 50558-6	Ord	FHIR	NEG	HP:0031812	true	2018-04-30T09:56:44	HPO:probinson	NA	NA	0.1	true	NA
 3024-7	Qn	FHIR	N	HP:0031505	true	2018-05-01T08:48:45	JGM:azhang	NA	NA	0.1	true	NA
@@ -55,9 +55,9 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 33914-3	Qn	FHIR	N	HP:0012212	true	2018-04-03T08:53	HPO:probinson	NA	NA	0.1	true	NA
 33914-3	Qn	FHIR	H	HP:0012214	false	2018-04-03T08:53	HPO:probinson	NA	NA	0.1	true	NA
 33914-3	Qn	FHIR	L	HP:0012213	false	2018-04-03T08:53	HPO:probinson	NA	NA	0.1	true	NA
-30180-4	Qn	FHIR	N	HP:0031806	true	2018-05-08T08:27:24	JGM:azhang	NA	NA	0.1	false	Should we treat the percentage of neutrophils among leukocytes the same as neutrophil count? (or create child terms?)
-30180-4	Qn	FHIR	H	HP:0031807	false	2018-05-08T08:27:24	JGM:azhang	NA	NA	0.1	false	Should we treat the percentage of neutrophils among leukocytes the same as neutrophil count? (or create child terms?)
-30180-4	Qn	FHIR	L	HP:0031808	false	2018-05-08T08:27:24	JGM:azhang	NA	NA	0.1	false	Should we treat the percentage of neutrophils among leukocytes the same as neutrophil count? (or create child terms?)
+30180-4	Qn	FHIR	N	HP:0031806	true	2018-05-08T08:27:24	JGM:azhang	2018-10-17T08:57:24	JGM:azhang	0.2	true	We treat the percentage of basophils among leukocytes as basophil counts
+30180-4	Qn	FHIR	H	HP:0031807	false	2018-05-08T08:27:24	JGM:azhang	2018-10-17T08:57:24	JGM:azhang	0.2	true	We treat the percentage of basophils among leukocytes as basophil counts
+30180-4	Qn	FHIR	L	HP:0031808	false	2018-05-08T08:27:24	JGM:azhang	2018-10-17T08:57:24	JGM:azhang	0.2	true	We treat the percentage of basophils among leukocytes as basophil counts
 2276-4	Qn	FHIR	N	HP:0040133	true	2018-04-20T11:52:35	OHSU:JP	NA	NA	0.1	true	NA
 2276-4	Qn	FHIR	H	HP:0003281	false	2018-04-20T11:52:35	OHSU:JP	NA	NA	0.1	true	NA
 2276-4	Qn	FHIR	L	HP:0012343	false	2018-04-20T11:52:35	OHSU:JP	NA	NA	0.1	true	NA
@@ -67,7 +67,9 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 2885-2	Qn	FHIR	N	HP:0010876	true	2018-04-03T08:53:51	HPO:probinson	NA	NA	0.1	true	NA
 2885-2	Qn	FHIR	H	HP:0002152	false	2018-04-03T08:53:51	HPO:probinson	NA	NA	0.1	true	NA
 2885-2	Qn	FHIR	L	HP:0003075	false	2018-04-03T08:53:51	HPO:probinson	NA	NA	0.1	true	NA
-4544-3	Qn	FHIR	H	HP:0001899	false	2018-04-02T13:48:06	HPO:nvasilevsky	NA	NA	0.1	false	NA
+4544-3	Qn	FHIR	N	HP:0031850	true	2018-04-02T13:48:06	HPO:nvasilevsky	2018-10-17T08:48:09	JGM:azhang	0.2	true	NA
+4544-3	Qn	FHIR	H	HP:0001899	false	2018-04-02T13:48:06	HPO:nvasilevsky	2018-10-17T08:48:09	JGM:azhang	0.2	true	NA
+4544-3	Qn	FHIR	L	HP:0031851	false	2018-04-02T13:48:06	HPO:nvasilevsky	2018-10-17T08:48:09	JGM:azhang	0.2	true	NA
 2532-0	Qn	FHIR	N	HP:0045040	true	2018-04-18T18:43:35	HPO:nvasilevsky	NA	NA	0.1	true	NA
 2532-0	Qn	FHIR	H	HP:0025435	false	2018-04-18T18:43:35	HPO:nvasilevsky	NA	NA	0.1	true	NA
 17861-6	Qn	FHIR	N	HP:0040077	true	2018-03-20T15:47:46	JGM:Aaron	NA	NA	0.1	true	NA
@@ -79,11 +81,13 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 6298-4	Qn	FHIR	N	HP:0011042	true	2018-04-25T13:34:45	JGM:azhang	NA	NA	0.1	true	NA
 6298-4	Qn	FHIR	H	HP:0002153	false	2018-04-25T13:34:45	JGM:azhang	NA	NA	0.1	true	NA
 6298-4	Qn	FHIR	L	HP:0002900	false	2018-04-25T13:34:45	JGM:azhang	NA	NA	0.1	true	NA
-702-1	Ord	FHIR	NEG	HP:0011273	false	2018-04-03T12:53:36	HPO:nvasilevsky	2018-04-06T08:39:51	JGM:Aaron	0.2	false	NA
+702-1	Ord	FHIR	POS	HP:0011273	false	2018-04-03T12:53:36	HPO:nvasilevsky	2018-10-17T08:59:15	JGM:azhang	0.3	true	NA
+702-1	Ord	FHIR	NEG	HP:0011273	true	2018-04-03T12:53:36	HPO:nvasilevsky	2018-10-17T08:59:15	JGM:azhang	0.3	true	NA
 2708-6	Qn	FHIR	H	HP:0012419	false	2018-04-18T18:48:22	HPO:nvasilevsky	NA	NA	0.1	false	maybe we should create a new term- abnormal blood oxygen level as a parent class?
 2708-6	Qn	FHIR	L	HP:0012418	false	2018-04-18T18:48:22	HPO:nvasilevsky	NA	NA	0.1	false	maybe we should create a new term- abnormal blood oxygen level as a parent class?
-3094-0	Qn	FHIR	N	HP:0002157	true	2018-03-20T15:46:57	JGM:Aaron	2018-03-30T15:27:36	JGM:Aaron	0.2	false	It does not make sense to have decrease urea nitrogen (?)
-3094-0	Qn	FHIR	H	HP:0003138	false	2018-03-20T15:46:57	JGM:Aaron	2018-03-30T15:27:36	JGM:Aaron	0.2	false	It does not make sense to have decrease urea nitrogen (?)
+3094-0	Qn	FHIR	N	HP:0031970	true	2018-03-20T15:46:57	JGM:Aaron	2018-10-17T08:49:04	JGM:azhang	0.3	true	NA
+3094-0	Qn	FHIR	H	HP:0003138	false	2018-03-20T15:46:57	JGM:Aaron	2018-10-17T08:49:04	JGM:azhang	0.3	true	NA
+3094-0	Qn	FHIR	L	HP:0031969	false	2018-03-20T15:46:57	JGM:Aaron	2018-10-17T08:49:04	JGM:azhang	0.3	true	NA
 2703-7	Qn	FHIR	N	HP:0012415	true	2018-04-06T15:33:19	JGM:azhang	NA	NA	0.1	false	NA
 2703-7	Qn	FHIR	H	HP:0012419	false	2018-04-06T15:33:19	JGM:azhang	NA	NA	0.1	false	NA
 2703-7	Qn	FHIR	L	HP:0012418	false	2018-04-06T15:33:19	JGM:azhang	NA	NA	0.1	false	NA
@@ -113,8 +117,8 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 4537-7	Qn	FHIR	N	HP:0025021	true	2018-04-18T18:59:52	HPO:nvasilevsky	NA	NA	0.1	true	NA
 4537-7	Qn	FHIR	H	HP:0003565	false	2018-04-18T18:59:52	HPO:nvasilevsky	NA	NA	0.1	true	NA
 4537-7	Qn	FHIR	L	HP:0025022	false	2018-04-18T18:59:52	HPO:nvasilevsky	NA	NA	0.1	true	NA
-2132-9	Qn	FHIR	N	HP:0040126	true	2018-04-25T13:36:42	JGM:azhang	NA	NA	0.1	false	I guess B12 excess is not an abnormality(?)
-2132-9	Qn	FHIR	L	HP:0100502	false	2018-04-25T13:36:42	JGM:azhang	NA	NA	0.1	false	I guess B12 excess is not an abnormality(?)
+2132-9	Qn	FHIR	N	HP:0040126	true	2018-04-25T13:36:42	JGM:azhang	2018-10-17T08:50:33	JGM:azhang	0.2	true	NA
+2132-9	Qn	FHIR	L	HP:0100502	false	2018-04-25T13:36:42	JGM:azhang	2018-10-17T08:50:33	JGM:azhang	0.2	true	NA
 2075-0	Qn	FHIR	N	HP:0011422	true	2018-03-20T15:41:38	JGM:Aaron	NA	NA	0.1	true	NA
 2075-0	Qn	FHIR	H	HP:0011423	false	2018-03-20T15:41:38	JGM:Aaron	NA	NA	0.1	true	NA
 2075-0	Qn	FHIR	L	HP:0003113	false	2018-03-20T15:41:38	JGM:Aaron	NA	NA	0.1	true	NA
@@ -127,13 +131,14 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 26484-6	Qn	FHIR	N	HP:0012310	true	2018-03-27T11:34:33	JGM:Aaron	NA	NA	0.1	true	NA
 26484-6	Qn	FHIR	H	HP:0012311	false	2018-03-27T11:34:33	JGM:Aaron	NA	NA	0.1	true	NA
 26484-6	Qn	FHIR	L	HP:0012312	false	2018-03-27T11:34:33	JGM:Aaron	NA	NA	0.1	true	NA
-718-7	Qn	FHIR	N	HP:0011902	true	2018-03-20T15:39:40	JGM:Aaron	2018-03-30T15:27:15	JGM:Aaron	0.3	false	waiting for Decreased hemoglobin
-718-7	Qn	FHIR	H	HP:0001900	false	2018-03-20T15:39:40	JGM:Aaron	2018-03-30T15:27:15	JGM:Aaron	0.3	false	waiting for Decreased hemoglobin
+718-7	Qn	FHIR	N	HP:0020061	true	2018-03-20T15:39:40	JGM:Aaron	2018-10-17T08:58:20	JGM:azhang	0.4	true	NA
+718-7	Qn	FHIR	H	HP:0020063	false	2018-03-20T15:39:40	JGM:Aaron	2018-10-17T08:58:20	JGM:azhang	0.4	true	NA
+718-7	Qn	FHIR	L	HP:0020062	false	2018-03-20T15:39:40	JGM:Aaron	2018-10-17T08:58:20	JGM:azhang	0.4	true	NA
 19123-9	Qn	FHIR	N	HP:0004921	true	2018-03-20T16:47:11	JGM:Aaron	NA	NA	0.1	true	NA
 19123-9	Qn	FHIR	H	HP:0002918	false	2018-03-20T16:47:11	JGM:Aaron	NA	NA	0.1	true	NA
 19123-9	Qn	FHIR	L	HP:0002917	false	2018-03-20T16:47:11	JGM:Aaron	NA	NA	0.1	true	NA
-57735-3	Ord	FHIR	POS	HP:0000093	false	2018-04-06T15:23:54	JGM:azhang	NA	NA	0.1	false	NA
-57735-3	Ord	FHIR	NEG	HP:0003110	true	2018-04-06T15:23:54	JGM:azhang	NA	NA	0.1	false	NA
+57735-3	Ord	FHIR	POS	HP:0000093	false	2018-04-06T15:23:54	JGM:azhang	2018-10-17T08:43:39	JGM:azhang	0.2	true	NA
+57735-3	Ord	FHIR	NEG	HP:0000093	true	2018-04-06T15:23:54	JGM:azhang	2018-10-17T08:43:39	JGM:azhang	0.2	true	NA
 2571-8	Qn	FHIR	N	HP:0003119	true	2018-04-18T15:17:30	JGM:azhang	NA	NA	0.1	true	NA
 2571-8	Qn	FHIR	H	HP:0002155	false	2018-04-18T15:17:30	JGM:azhang	NA	NA	0.1	true	NA
 2571-8	Qn	FHIR	L	HP:0012153	false	2018-04-18T15:17:30	JGM:azhang	NA	NA	0.1	true	NA
@@ -146,8 +151,8 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 2093-3	Qn	FHIR	N	HP:0003107	true	2018-04-02T14:19:58	JGM:Aaron	NA	NA	0.1	true	NA
 2093-3	Qn	FHIR	H	HP:0003124	false	2018-04-02T14:19:58	JGM:Aaron	NA	NA	0.1	true	NA
 2093-3	Qn	FHIR	L	HP:0003146	false	2018-04-02T14:19:58	JGM:Aaron	NA	NA	0.1	true	NA
-741-9	Ord	FHIR	POS	HP:0001935	false	2018-04-06T09:43:20	JGM:azhang	NA	NA	0.1	false	NA
-741-9	Ord	FHIR	NEG	HP:0001935	true	2018-04-06T09:43:20	JGM:azhang	NA	NA	0.1	false	NA
+741-9	Ord	FHIR	POS	HP:0001935	false	2018-04-06T09:43:20	JGM:azhang	2018-10-17T09:12:26	JGM:azhang	0.2	true	NA
+741-9	Ord	FHIR	NEG	HP:0001935	true	2018-04-06T09:43:20	JGM:azhang	2018-10-17T09:12:26	JGM:azhang	0.2	true	NA
 2340-8	Qn	FHIR	N	HP:0011015	true	2018-03-27T10:50:34	JGM:Aaron	NA	NA	0.1	true	NA
 2340-8	Qn	FHIR	H	HP:0003074	false	2018-03-27T10:50:34	JGM:Aaron	NA	NA	0.1	true	NA
 2340-8	Qn	FHIR	L	HP:0001943	false	2018-03-27T10:50:34	JGM:Aaron	NA	NA	0.1	true	NA
@@ -156,8 +161,8 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 26499-4	Qn	FHIR	L	HP:0001875	false	2018-03-27T11:39:47	JGM:Aaron	NA	NA	0.1	true	NA
 711-2	Qn	FHIR	N	HP:0001879	true	2018-03-27T11:40:28	JGM:Aaron	NA	NA	0.1	true	NA
 711-2	Qn	FHIR	H	HP:0001880	false	2018-03-27T11:40:28	JGM:Aaron	NA	NA	0.1	true	NA
-1988-5	Qn	FHIR	N	HP:0010876	true	2018-04-18T13:55:43	JGM:azhang	NA	NA	0.1	false	NA
-1988-5	Qn	FHIR	H	HP:0011227	false	2018-04-18T13:55:43	JGM:azhang	NA	NA	0.1	false	NA
+1988-5	Qn	FHIR	N	HP:0011227	true	2018-04-18T13:55:43	JGM:azhang	2018-10-17T08:20:16	JGM:azhang	0.2	true	NA
+1988-5	Qn	FHIR	H	HP:0011227	false	2018-04-18T13:55:43	JGM:azhang	2018-10-17T08:20:16	JGM:azhang	0.2	true	NA
 2657-5	Qn	FHIR	N	HP:0031812	true	2018-04-30T09:56:27	HPO:probinson	NA	NA	0.1	true	NA
 2657-5	Qn	FHIR	H	HP:0031812	false	2018-04-30T09:56:27	HPO:probinson	NA	NA	0.1	true	NA
 6690-2	Qn	FHIR	N	HP:0011893	true	2018-03-20T16:47:39	JGM:Aaron	NA	NA	0.1	true	NA
@@ -182,8 +187,8 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 751-8	Qn	FHIR	L	HP:0001875	false	2018-03-27T11:50:50	JGM:Aaron	NA	NA	0.1	true	NA
 2157-6	Qn	FHIR	N	HP:0040081	true	2018-04-06T15:21:52	JGM:azhang	NA	NA	0.1	true	NA
 2157-6	Qn	FHIR	H	HP:0003236	false	2018-04-06T15:21:52	JGM:azhang	NA	NA	0.1	true	NA
-2324-2	Qn	FHIR	N	HP:0030948	true	2018-05-08T10:29:36	JGM:azhang	NA	NA	0.1	false	Not sure what normal should be. Parent term ``Abnormal enzyme/coenzyme activity`` seems too broad. 
-2324-2	Qn	FHIR	H	HP:0030948	false	2018-05-08T10:29:36	JGM:azhang	NA	NA	0.1	false	Not sure what normal should be. Parent term ``Abnormal enzyme/coenzyme activity`` seems too broad.
+2324-2	Qn	FHIR	N	HP:0030948	true	2018-05-08T10:29:36	JGM:azhang	2018-10-17T09:09:45	JGM:azhang	0.2	true	Not sure what normal should be. Parent term ``Abnormal enzyme/coenzyme activity`` seems too broad. 
+2324-2	Qn	FHIR	H	HP:0030948	false	2018-05-08T10:29:36	JGM:azhang	2018-10-17T09:09:45	JGM:azhang	0.2	true	Not sure what normal should be. Parent term ``Abnormal enzyme/coenzyme activity`` seems too broad.
 26444-0	Qn	FHIR	N	HP:0031806	true	2018-05-08T12:44:48	HPO:nvasilevsky	NA	NA	0.1	true	NA
 26444-0	Qn	FHIR	H	HP:0031807	false	2018-05-08T12:44:48	HPO:nvasilevsky	NA	NA	0.1	true	NA
 26444-0	Qn	FHIR	L	HP:0031808	false	2018-05-08T12:44:48	HPO:nvasilevsky	NA	NA	0.1	true	NA
@@ -2407,10 +2412,11 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 33037-3	Qn	FHIR	L	HP:0031963	false	2018-07-24T10:36:53	JGM:azhang	NA	NA	0.1	true	NA
 1742-6	Qn	FHIR	N	HP:0031964	true	2018-10-16T10:45:26	JGM:lccarmody	NA	NA	0.1	true	NA
 1742-6	Qn	FHIR	H	HP:0031964	false	2018-10-16T10:45:26	JGM:lccarmody	NA	NA	0.1	true	NA
-788-0	Qn	FHIR	N	HP:0001877	true	2018-07-24T10:44:46	JGM:azhang	NA	NA	0.1	false	Can we assume low as being normal?
-788-0	Qn	FHIR	H	HP:0031965	false	2018-07-24T10:44:46	JGM:azhang	NA	NA	0.1	false	Can we assume low as being normal?
-1920-8	Qn	FHIR	N	HP:0031956	true	2018-07-24T10:47:40	JGM:azhang	NA	NA	0.1	false	check mapping for normal
-1920-8	Qn	FHIR	H	HP:0031956	false	2018-07-24T10:47:40	JGM:azhang	NA	NA	0.1	false	check mapping for normal
+788-0	Qn	FHIR	N	HP:0001877	true	2018-07-24T10:44:46	JGM:azhang	2018-10-17T09:34:56	JGM:azhang	0.3	false	NA
+788-0	Qn	FHIR	H	HP:0031965	false	2018-07-24T10:44:46	JGM:azhang	2018-10-17T09:34:56	JGM:azhang	0.3	false	NA
+788-0	Qn	FHIR	L	HP:0001903	false	2018-07-24T10:44:46	JGM:azhang	2018-10-17T09:34:56	JGM:azhang	0.3	false	NA
+1920-8	Qn	FHIR	N	HP:0031956	true	2018-07-24T10:47:40	JGM:azhang	2018-10-17T09:11:47	JGM:azhang	0.2	true	check mapping for normal
+1920-8	Qn	FHIR	H	HP:0031956	false	2018-07-24T10:47:40	JGM:azhang	2018-10-17T09:11:47	JGM:azhang	0.2	true	check mapping for normal
 20570-8	Qn	FHIR	N	HP:0031850	true	2018-10-01T15:46:55	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 16931-8 @original comment: 
 20570-8	Qn	FHIR	H	HP:0001899	false	2018-10-01T15:46:55	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 16931-8 @original comment: 
 20570-8	Qn	FHIR	L	HP:0031851	false	2018-10-01T15:46:55	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 16931-8 @original comment:
@@ -2498,8 +2504,9 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 779-9	Ord	FHIR	NEG	HP:0004447	true	2018-07-24T13:20:35	JGM:azhang	NA	NA	0.1	true	NA
 38908-0	Ord	FHIR	POS	HP:0004447	false	2018-07-24T13:20:35	JGM:azhang	NA	NA	0.1	true	NA
 38908-0	Ord	FHIR	NEG	HP:0004447	true	2018-07-24T13:20:35	JGM:azhang	NA	NA	0.1	true	NA
-1989-3	Qn	FHIR	N	HP:0100511	true	2018-07-24T13:31:08	JGM:azhang	NA	NA	0.1	false	check high
-1989-3	Qn	FHIR	L	HP:0012053	false	2018-07-24T13:31:08	JGM:azhang	NA	NA	0.1	false	check high
+1989-3	Qn	FHIR	N	HP:0100511	true	2018-07-24T13:31:08	JGM:azhang	2018-10-17T09:08:48	JGM:azhang	0.2	true	NA
+1989-3	Qn	FHIR	H	HP:0031415	false	2018-07-24T13:31:08	JGM:azhang	2018-10-17T09:08:48	JGM:azhang	0.2	true	NA
+1989-3	Qn	FHIR	L	HP:0012053	false	2018-07-24T13:31:08	JGM:azhang	2018-10-17T09:08:48	JGM:azhang	0.2	true	NA
 27340-9	Ord	FHIR	POS	HP:0012184	false	2018-07-24T13:35:44	JGM:azhang	NA	NA	0.1	false	check mapping for absence
 27340-9	Ord	FHIR	NEG	HP:0031888	true	2018-07-24T13:35:44	JGM:azhang	NA	NA	0.1	false	check mapping for absence
 19261-7	Ord	FHIR	POS	HP:0500112	false	2018-07-24T13:36:04	JGM:azhang	NA	NA	0.1	true	NA
@@ -2509,8 +2516,8 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 13458-5	Qn	FHIR	N	HP:0031889	true	2018-07-24T13:36:33	JGM:azhang	NA	NA	0.1	true	NA
 13458-5	Qn	FHIR	H	HP:0003362	false	2018-07-24T13:36:33	JGM:azhang	NA	NA	0.1	true	NA
 13458-5	Qn	FHIR	L	HP:0031243	false	2018-07-24T13:36:33	JGM:azhang	NA	NA	0.1	true	NA
-5796-8	Qn	FHIR	N	HP:0031200	true	2018-07-24T13:37:57	JGM:azhang	NA	NA	0.1	false	check mapping for normal and low
-5796-8	Qn	FHIR	H	HP:0031200	false	2018-07-24T13:37:57	JGM:azhang	NA	NA	0.1	false	check mapping for normal and low
+5796-8	Qn	FHIR	N	HP:0031200	true	2018-07-24T13:37:57	JGM:azhang	2018-10-17T08:52:54	JGM:azhang	0.2	true	check mapping for normal and low
+5796-8	Qn	FHIR	H	HP:0031200	false	2018-07-24T13:37:57	JGM:azhang	2018-10-17T08:52:54	JGM:azhang	0.2	true	check mapping for normal and low
 14118-4	Qn	FHIR	N	HP:0002151	true	2018-10-16T14:26:40	JGM:lccarmody	NA	NA	0.1	true	NA
 14118-4	Qn	FHIR	H	HP:0002151	false	2018-10-16T14:26:40	JGM:lccarmody	NA	NA	0.1	true	NA
 43983-6	Ord	FHIR	POS	HP:0500112	false	2018-07-24T13:58:47	JGM:azhang	NA	NA	0.1	true	NA
@@ -2541,12 +2548,12 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 60474-4	Qn	FHIR	N	HP:0004312	true	2018-05-08T14:50:31	HPO:nvasilevsky	NA	NA	0.1	true	NA
 60474-4	Qn	FHIR	H	HP:0001923	false	2018-05-08T14:50:31	HPO:nvasilevsky	NA	NA	0.1	true	NA
 60474-4	Qn	FHIR	L	HP:0001896	false	2018-05-08T14:50:31	HPO:nvasilevsky	NA	NA	0.1	true	NA
-33223-9	Qn	FHIR	N	HP:0031200	true	2018-07-24T13:37:57	JGM:azhang	NA	NA	0.1	false	check mapping for normal and low
-33223-9	Qn	FHIR	H	HP:0031200	false	2018-07-24T13:37:57	JGM:azhang	NA	NA	0.1	false	check mapping for normal and low
-46135-0	Qn	FHIR	N	HP:0031200	true	2018-07-24T13:37:57	JGM:azhang	NA	NA	0.1	false	check mapping for normal and low
-46135-0	Qn	FHIR	H	HP:0031200	false	2018-07-24T13:37:57	JGM:azhang	NA	NA	0.1	false	check mapping for normal and low
-51484-4	Qn	FHIR	N	HP:0031200	true	2018-07-24T13:37:57	JGM:azhang	NA	NA	0.1	false	check mapping for normal and low
-51484-4	Qn	FHIR	H	HP:0031200	false	2018-07-24T13:37:57	JGM:azhang	NA	NA	0.1	false	check mapping for normal and low
+33223-9	Qn	FHIR	N	HP:0031200	true	2018-07-24T13:37:57	JGM:azhang	2018-10-17T08:53:12	JGM:azhang	0.2	true	check mapping for normal and low
+33223-9	Qn	FHIR	H	HP:0031200	false	2018-07-24T13:37:57	JGM:azhang	2018-10-17T08:53:12	JGM:azhang	0.2	true	check mapping for normal and low
+46135-0	Qn	FHIR	N	HP:0031200	true	2018-07-24T13:37:57	JGM:azhang	2018-10-17T08:54:05	JGM:azhang	0.2	true	check mapping for normal and low
+46135-0	Qn	FHIR	H	HP:0031200	false	2018-07-24T13:37:57	JGM:azhang	2018-10-17T08:54:05	JGM:azhang	0.2	true	check mapping for normal and low
+51484-4	Qn	FHIR	N	HP:0031200	true	2018-07-24T13:37:57	JGM:azhang	2018-10-17T08:54:20	JGM:azhang	0.2	true	check mapping for normal and low
+51484-4	Qn	FHIR	H	HP:0031200	false	2018-07-24T13:37:57	JGM:azhang	2018-10-17T08:54:20	JGM:azhang	0.2	true	check mapping for normal and low
 50231-0	Ord	FHIR	POS	HP:0031200	false	2018-07-24T14:15:39	JGM:azhang	NA	NA	0.1	true	NA
 50231-0	Ord	FHIR	NEG	HP:0031200	true	2018-07-24T14:15:39	JGM:azhang	NA	NA	0.1	true	NA
 25162-9	Ord	FHIR	POS	HP:0031200	false	2018-07-24T14:15:39	JGM:azhang	NA	NA	0.1	true	NA
@@ -2568,14 +2575,14 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 34174-3	Ord	FHIR	NEG	HP:0003641	true	2018-07-24T11:10:52	JGM:azhang	NA	NA	0.1	true	NA
 725-2	Ord	FHIR	POS	HP:0003641	false	2018-07-24T11:10:52	JGM:azhang	NA	NA	0.1	true	NA
 725-2	Ord	FHIR	NEG	HP:0003641	true	2018-07-24T11:10:52	JGM:azhang	NA	NA	0.1	true	NA
-726-0	Qn	FHIR	N	HP:0003641	true	2018-07-24T14:47:15	JGM:azhang	NA	NA	0.1	false	check mapping for parent
-726-0	Qn	FHIR	H	HP:0003641	false	2018-07-24T14:47:15	JGM:azhang	NA	NA	0.1	false	check mapping for parent
-4636-7	Qn	FHIR	N	HP:0003641	true	2018-07-24T14:47:15	JGM:azhang	NA	NA	0.1	false	check mapping for parent
-4636-7	Qn	FHIR	H	HP:0003641	false	2018-07-24T14:47:15	JGM:azhang	NA	NA	0.1	false	check mapping for parent
-49137-3	Qn	FHIR	N	HP:0003641	true	2018-07-24T14:47:15	JGM:azhang	NA	NA	0.1	false	check mapping for parent
-49137-3	Qn	FHIR	H	HP:0003641	false	2018-07-24T14:47:15	JGM:azhang	NA	NA	0.1	false	check mapping for parent
-50559-4	Qn	FHIR	N	HP:0003641	true	2018-07-24T14:47:15	JGM:azhang	NA	NA	0.1	false	check mapping for parent
-50559-4	Qn	FHIR	H	HP:0003641	false	2018-07-24T14:47:15	JGM:azhang	NA	NA	0.1	false	check mapping for parent
+726-0	Qn	FHIR	N	HP:0003641	true	2018-07-24T14:47:15	JGM:azhang	2018-10-17T08:42:56	JGM:azhang	0.2	true	NA
+726-0	Qn	FHIR	H	HP:0003641	false	2018-07-24T14:47:15	JGM:azhang	2018-10-17T08:42:56	JGM:azhang	0.2	true	NA
+4636-7	Qn	FHIR	N	HP:0003641	true	2018-07-24T14:47:15	JGM:azhang	2018-10-17T08:44:13	JGM:azhang	0.2	true	NA
+4636-7	Qn	FHIR	H	HP:0003641	false	2018-07-24T14:47:15	JGM:azhang	2018-10-17T08:44:13	JGM:azhang	0.2	true	NA
+49137-3	Qn	FHIR	N	HP:0003641	true	2018-07-24T14:47:15	JGM:azhang	2018-10-17T08:44:32	JGM:azhang	0.2	true	NA
+49137-3	Qn	FHIR	H	HP:0003641	false	2018-07-24T14:47:15	JGM:azhang	2018-10-17T08:44:32	JGM:azhang	0.2	true	NA
+50559-4	Qn	FHIR	N	HP:0003641	true	2018-07-24T14:47:15	JGM:azhang	2018-10-17T08:45:43	JGM:azhang	0.2	true	NA
+50559-4	Qn	FHIR	H	HP:0003641	false	2018-07-24T14:47:15	JGM:azhang	2018-10-17T08:45:43	JGM:azhang	0.2	true	NA
 3026-2	Qn	FHIR	N	HP:0031505	true	2018-07-24T14:48:53	JGM:azhang	NA	NA	0.1	true	NA
 3026-2	Qn	FHIR	H	HP:0031506	false	2018-07-24T14:48:53	JGM:azhang	NA	NA	0.1	true	NA
 3026-2	Qn	FHIR	L	HP:0031507	false	2018-07-24T14:48:53	JGM:azhang	NA	NA	0.1	true	NA
