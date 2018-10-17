@@ -1,7 +1,7 @@
 loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEditedOn	lastEditedBy	version	isFinalized	comment
-38230-9	Qn	FHIR	N	HP:0040077	true	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	NA
-38230-9	Qn	FHIR	H	HP:0003072	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	NA
-38230-9	Qn	FHIR	L	HP:0002901	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	NA
+38230-9	Qn	FHIR	N	HP:0040077	true	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+38230-9	Qn	FHIR	H	HP:0003072	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+38230-9	Qn	FHIR	L	HP:0002901	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9
 5902-2	Qn	FHIR	N	HP:0008151	true	2018-04-03T08:54:25	HPO:probinson	NA	NA	0.1	true	NA
 5902-2	Qn	FHIR	H	HP:0008151	false	2018-04-03T08:54:25	HPO:probinson	NA	NA	0.1	true	NA
 777-3	Qn	FHIR	N	HP:0011873	true	2018-03-20T15:43:05	JGM:Aaron	NA	NA	0.1	true	NA
@@ -5674,3 +5674,74 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 7604-2	Qn	FHIR	H	HP:0410238	false	2018-10-16T09:40:44	OHSU:JP	NA	NA	0.1	true	NA
 6085-5	Qn	FHIR	N	HP:0410238	true	2018-10-16T09:40:49	OHSU:JP	NA	NA	0.1	true	NA
 6085-5	Qn	FHIR	H	HP:0410238	false	2018-10-16T09:40:49	OHSU:JP	NA	NA	0.1	true	NA
+3097-3	Qn	FHIR	N	HP:0031970	true	2018-10-17T11:21:58	JGM:azhang	NA	NA	0.1	true	We treated the percentage as raw measurement
+3097-3	Qn	FHIR	H	HP:0003138	false	2018-10-17T11:21:58	JGM:azhang	NA	NA	0.1	true	We treated the percentage as raw measurement
+3097-3	Qn	FHIR	L	HP:0031969	false	2018-10-17T11:21:58	JGM:azhang	NA	NA	0.1	true	We treated the percentage as raw measurement
+1994-3	Qn	FHIR	N	HP:0040077	true	2018-10-17T11:22:47	JGM:azhang	NA	NA	0.1	true	NA
+1994-3	Qn	FHIR	H	HP:0003072	false	2018-10-17T11:22:47	JGM:azhang	NA	NA	0.1	true	NA
+1994-3	Qn	FHIR	L	HP:0002901	false	2018-10-17T11:22:47	JGM:azhang	NA	NA	0.1	true	NA
+58448-2	Qn	FHIR	N	HP:0012594	true	2018-05-10T14:18:53	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 14957-5 
+58448-2	Qn	FHIR	H	HP:0012594	false	2018-05-10T14:18:53	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 14957-5
+1995-0	Qn	FHIR	N	HP:0040077	true	2018-10-17T11:25:01	JGM:azhang	NA	NA	0.1	true	NA
+1995-0	Qn	FHIR	H	HP:0003072	false	2018-10-17T11:25:01	JGM:azhang	NA	NA	0.1	true	NA
+1995-0	Qn	FHIR	L	HP:0002901	false	2018-10-17T11:25:01	JGM:azhang	NA	NA	0.1	true	NA
+29265-6	Qn	FHIR	N	HP:0040077	true	2018-10-17T11:25:49	JGM:azhang	NA	NA	0.1	true	NA
+29265-6	Qn	FHIR	H	HP:0003072	false	2018-10-17T11:25:49	JGM:azhang	NA	NA	0.1	true	NA
+29265-6	Qn	FHIR	L	HP:0002901	false	2018-10-17T11:25:49	JGM:azhang	NA	NA	0.1	true	NA
+12180-6	Qn	FHIR	N	HP:0040077	true	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+12180-6	Qn	FHIR	H	HP:0003072	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+12180-6	Qn	FHIR	L	HP:0002901	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9
+13444-5	Qn	FHIR	N	HP:0040077	true	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+13444-5	Qn	FHIR	H	HP:0003072	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+13444-5	Qn	FHIR	L	HP:0002901	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9
+13959-2	Qn	FHIR	N	HP:0040077	true	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+13959-2	Qn	FHIR	H	HP:0003072	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+13959-2	Qn	FHIR	L	HP:0002901	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9
+16526-6	Qn	FHIR	N	HP:0040077	true	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+16526-6	Qn	FHIR	H	HP:0003072	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+16526-6	Qn	FHIR	L	HP:0002901	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9
+17863-2	Qn	FHIR	N	HP:0040077	true	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+17863-2	Qn	FHIR	H	HP:0003072	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+17863-2	Qn	FHIR	L	HP:0002901	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9
+18281-6	Qn	FHIR	N	HP:0040077	true	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+18281-6	Qn	FHIR	H	HP:0003072	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+18281-6	Qn	FHIR	L	HP:0002901	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9
+19072-8	Qn	FHIR	N	HP:0040077	true	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+19072-8	Qn	FHIR	H	HP:0003072	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+19072-8	Qn	FHIR	L	HP:0002901	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9
+1996-8	Qn	FHIR	N	HP:0040077	true	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+1996-8	Qn	FHIR	H	HP:0003072	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+1996-8	Qn	FHIR	L	HP:0002901	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9
+41644-6	Qn	FHIR	N	HP:0040077	true	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+41644-6	Qn	FHIR	H	HP:0003072	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+41644-6	Qn	FHIR	L	HP:0002901	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9
+41645-3	Qn	FHIR	N	HP:0040077	true	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+41645-3	Qn	FHIR	H	HP:0003072	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+41645-3	Qn	FHIR	L	HP:0002901	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9
+41646-1	Qn	FHIR	N	HP:0040077	true	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+41646-1	Qn	FHIR	H	HP:0003072	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+41646-1	Qn	FHIR	L	HP:0002901	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9
+42567-8	Qn	FHIR	N	HP:0040077	true	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+42567-8	Qn	FHIR	H	HP:0003072	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+42567-8	Qn	FHIR	L	HP:0002901	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9
+42593-4	Qn	FHIR	N	HP:0040077	true	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+42593-4	Qn	FHIR	H	HP:0003072	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+42593-4	Qn	FHIR	L	HP:0002901	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9
+42857-3	Qn	FHIR	N	HP:0040077	true	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+42857-3	Qn	FHIR	H	HP:0003072	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+42857-3	Qn	FHIR	L	HP:0002901	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9
+46099-8	Qn	FHIR	N	HP:0040077	true	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+46099-8	Qn	FHIR	H	HP:0003072	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+46099-8	Qn	FHIR	L	HP:0002901	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9
+47596-2	Qn	FHIR	N	HP:0040077	true	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+47596-2	Qn	FHIR	H	HP:0003072	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+47596-2	Qn	FHIR	L	HP:0002901	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9
+47597-0	Qn	FHIR	N	HP:0040077	true	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+47597-0	Qn	FHIR	H	HP:0003072	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+47597-0	Qn	FHIR	L	HP:0002901	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9
+47598-8	Qn	FHIR	N	HP:0040077	true	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+47598-8	Qn	FHIR	H	HP:0003072	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+47598-8	Qn	FHIR	L	HP:0002901	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9
+49765-1	Qn	FHIR	N	HP:0040077	true	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+49765-1	Qn	FHIR	H	HP:0003072	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9 
+49765-1	Qn	FHIR	L	HP:0002901	false	2018-04-25T13:35:32	JGM:azhang	NA	NA	0.1	true	copied from: 38230-9
