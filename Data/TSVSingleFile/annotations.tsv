@@ -5959,6 +5959,120 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 33829-3	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:29:22	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 27885-3 @original comment: copied from: 2579-1 @original comment: copied from: 2290-5 @original comment: copied from: 1596-6 @original comment: 
 33829-3	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:29:22	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 27885-3 @original comment: copied from: 2579-1 @original comment: copied from: 2290-5 @original comment: copied from: 1596-6 @original comment: 
 33829-3	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:29:22	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 27885-3 @original comment: copied from: 2579-1 @original comment: copied from: 2290-5 @original comment: copied from: 1596-6 @original comment:
-34434-1	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:29:22	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 33829-3 @original comment: copied from: 27885-3 @original comment: copied from: 2579-1 @original comment: copied from: 2290-5 @original comment: copied from: 1596-6 @original comment: 
-34434-1	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:29:22	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 33829-3 @original comment: copied from: 27885-3 @original comment: copied from: 2579-1 @original comment: copied from: 2290-5 @original comment: copied from: 1596-6 @original comment: 
-34434-1	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:29:22	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 33829-3 @original comment: copied from: 27885-3 @original comment: copied from: 2579-1 @original comment: copied from: 2290-5 @original comment: copied from: 1596-6 @original comment:
+34434-1	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:29:22	HPO:nvasilevsky	2018-12-18T14:38:16	HPO:nvasilevsky	0.2	true	copied from: 33829-3 @original comment: copied from: 27885-3 @original comment: copied from: 2579-1 @original comment: copied from: 2290-5 @original comment: copied from: 1596-6 @original comment: 
+
+this is wrong, I can't figure out how to delete it
+34434-1	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:29:22	HPO:nvasilevsky	2018-12-18T14:38:16	HPO:nvasilevsky	0.2	true	copied from: 33829-3 @original comment: copied from: 27885-3 @original comment: copied from: 2579-1 @original comment: copied from: 2290-5 @original comment: copied from: 1596-6 @original comment: 
+
+this is wrong, I can't figure out how to delete it
+34434-1	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:29:22	HPO:nvasilevsky	2018-12-18T14:38:16	HPO:nvasilevsky	0.2	true	copied from: 33829-3 @original comment: copied from: 27885-3 @original comment: copied from: 2579-1 @original comment: copied from: 2290-5 @original comment: copied from: 1596-6 @original comment: 
+
+this is wrong, I can't figure out how to delete it
+83103-2	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	NA
+83103-2	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	NA
+83103-2	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	NA
+40373-3	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+40373-3	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+40373-3	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+40374-1	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+40374-1	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+40374-1	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+40375-8	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+40375-8	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+40375-8	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+40376-6	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+40376-6	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+40376-6	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+40377-4	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+40377-4	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+40377-4	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+40378-2	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+40378-2	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+40378-2	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+46414-9	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+46414-9	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+46414-9	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+46415-6	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+46415-6	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+46415-6	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+47687-9	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+47687-9	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+47687-9	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+47688-7	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+47688-7	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+47688-7	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+47864-4	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+47864-4	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+47864-4	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+48118-4	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+48118-4	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+48118-4	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+48581-3	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+48581-3	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+48581-3	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+48582-1	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+48582-1	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+48582-1	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+48583-9	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+48583-9	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+48583-9	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+50509-9	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+50509-9	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+50509-9	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+50510-7	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+50510-7	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+50510-7	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+50511-5	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+50511-5	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+50511-5	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+50512-3	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+50512-3	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+50512-3	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+50513-1	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+50513-1	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+50513-1	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+50514-9	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+50514-9	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+50514-9	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+50515-6	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+50515-6	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+50515-6	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+50516-4	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+50516-4	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+50516-4	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+53145-9	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+53145-9	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+53145-9	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+55501-1	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+55501-1	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+55501-1	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+56493-0	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+56493-0	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+56493-0	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+56494-8	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+56494-8	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+56494-8	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+56495-5	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+56495-5	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+56495-5	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+57102-6	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+57102-6	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+57102-6	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+57103-4	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+57103-4	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+57103-4	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+57104-2	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+57104-2	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+57104-2	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+57105-9	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+57105-9	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+57105-9	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+57106-7	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+57106-7	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+57106-7	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+57107-5	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+57107-5	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+57107-5	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
+58946-5	Qn	FHIR	N	HP:0030345	true	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+58946-5	Qn	FHIR	H	HP:0011969	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment: 
+58946-5	Qn	FHIR	L	HP:0030344	false	2018-12-18T14:36:58	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 83103-2 @original comment:
