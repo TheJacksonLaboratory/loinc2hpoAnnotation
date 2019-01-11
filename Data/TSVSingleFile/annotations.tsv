@@ -6122,8 +6122,6 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 75913-4	Qn	FHIR	H	HP:0025343	false	2018-12-18T15:17:28	HPO:nvasilevsky	NA	NA	0.1	true	NA
 19064-5	Qn	FHIR	N	HP:0031840	true	2018-12-18T15:18:43	HPO:nvasilevsky	NA	NA	0.1	true	NA
 19064-5	Qn	FHIR	H	HP:0500111	false	2018-12-18T15:18:43	HPO:nvasilevsky	NA	NA	0.1	true	NA
-
-
 19282-3	Nom	FHIR	N	HP:0031840	true	2018-12-18T15:19:16	HPO:nvasilevsky	NA	NA	0.1	true	NA
 19282-3	Nom	FHIR	POS	HP:0500111	false	2018-12-18T15:19:16	HPO:nvasilevsky	NA	NA	0.1	true	NA
 19282-3	Nom	FHIR	H	HP:0500111	false	2018-12-18T15:19:16	HPO:nvasilevsky	NA	NA	0.1	true	NA
@@ -6172,3 +6170,33 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 70138-3	Qn	FHIR	H	HP:0500112	false	2018-12-18T15:25:32	HPO:nvasilevsky	NA	NA	0.1	true	NA
 8150-5	Qn	FHIR	N	HP:0031840	true	2018-12-18T15:25:40	HPO:nvasilevsky	NA	NA	0.1	true	NA
 8150-5	Qn	FHIR	H	HP:0500112	false	2018-12-18T15:25:40	HPO:nvasilevsky	NA	NA	0.1	true	NA
+13336-3	Qn	FHIR	N	HP:0031396	true	2019-01-11T15:27:19	HPO:nvasilevsky	NA	NA	0.1	true	NA
+13336-3	Qn	FHIR	H	HP:0031398	false	2019-01-11T15:27:19	HPO:nvasilevsky	NA	NA	0.1	true	NA
+13336-3	Qn	FHIR	L	HP:0031397	false	2019-01-11T15:27:19	HPO:nvasilevsky	NA	NA	0.1	true	NA
+17153-8	Qn	FHIR	N	HP:0031396	true	2019-01-11T15:27:39	HPO:nvasilevsky	NA	NA	0.1	true	NA
+17153-8	Qn	FHIR	H	HP:0031398	false	2019-01-11T15:27:39	HPO:nvasilevsky	NA	NA	0.1	true	NA
+17153-8	Qn	FHIR	L	HP:0031397	false	2019-01-11T15:27:39	HPO:nvasilevsky	NA	NA	0.1	true	NA
+26759-1	Qn	FHIR	N	HP:0031396	true	2019-01-11T15:27:48	HPO:nvasilevsky	NA	NA	0.1	true	NA
+26759-1	Qn	FHIR	H	HP:0031398	false	2019-01-11T15:27:48	HPO:nvasilevsky	NA	NA	0.1	true	NA
+26759-1	Qn	FHIR	L	HP:0031397	false	2019-01-11T15:27:48	HPO:nvasilevsky	NA	NA	0.1	true	NA
+34932-4	Qn	FHIR	N	HP:0031396	true	2019-01-11T15:28:54	HPO:nvasilevsky	NA	NA	0.1	true	NA
+34932-4	Qn	FHIR	H	HP:0031398	false	2019-01-11T15:28:54	HPO:nvasilevsky	NA	NA	0.1	true	NA
+34932-4	Qn	FHIR	L	HP:0031397	false	2019-01-11T15:28:54	HPO:nvasilevsky	NA	NA	0.1	true	NA
+34933-2	Qn	FHIR	N	HP:0031396	true	2019-01-11T15:28:54	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 34932-4 @original comment: 
+34933-2	Qn	FHIR	H	HP:0031398	false	2019-01-11T15:28:54	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 34932-4 @original comment: 
+34933-2	Qn	FHIR	L	HP:0031397	false	2019-01-11T15:28:54	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 34932-4 @original comment:
+43962-0	Qn	FHIR	N	HP:0031396	true	2019-01-11T15:28:54	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 34933-2 @original comment: copied from: 34932-4 @original comment: 
+43962-0	Qn	FHIR	H	HP:0031398	false	2019-01-11T15:28:54	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 34933-2 @original comment: copied from: 34932-4 @original comment: 
+43962-0	Qn	FHIR	L	HP:0031397	false	2019-01-11T15:28:54	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 34933-2 @original comment: copied from: 34932-4 @original comment:
+34936-5	Qn	FHIR	N	HP:0031396	true	2019-01-11T15:28:54	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 43962-0 @original comment: copied from: 34933-2 @original comment: copied from: 34932-4 @original comment: 
+34936-5	Qn	FHIR	H	HP:0031398	false	2019-01-11T15:28:54	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 43962-0 @original comment: copied from: 34933-2 @original comment: copied from: 34932-4 @original comment: 
+34936-5	Qn	FHIR	L	HP:0031397	false	2019-01-11T15:28:54	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 43962-0 @original comment: copied from: 34933-2 @original comment: copied from: 34932-4 @original comment:
+43963-8	Qn	FHIR	N	HP:0031396	true	2019-01-11T15:28:54	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 43962-0 @original comment: copied from: 34933-2 @original comment: copied from: 34932-4 @original comment: 
+43963-8	Qn	FHIR	H	HP:0031398	false	2019-01-11T15:28:54	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 43962-0 @original comment: copied from: 34933-2 @original comment: copied from: 34932-4 @original comment: 
+43963-8	Qn	FHIR	L	HP:0031397	false	2019-01-11T15:28:54	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 43962-0 @original comment: copied from: 34933-2 @original comment: copied from: 34932-4 @original comment:
+43964-6	Qn	FHIR	N	HP:0031396	true	2019-01-11T15:28:54	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 43963-8 @original comment: copied from: 43962-0 @original comment: copied from: 34933-2 @original comment: copied from: 34932-4 @original comment: 
+43964-6	Qn	FHIR	H	HP:0031398	false	2019-01-11T15:28:54	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 43963-8 @original comment: copied from: 43962-0 @original comment: copied from: 34933-2 @original comment: copied from: 34932-4 @original comment: 
+43964-6	Qn	FHIR	L	HP:0031397	false	2019-01-11T15:28:54	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 43963-8 @original comment: copied from: 43962-0 @original comment: copied from: 34933-2 @original comment: copied from: 34932-4 @original comment:
+43965-3	Qn	FHIR	N	HP:0031396	true	2019-01-11T15:28:54	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 43964-6 @original comment: copied from: 43963-8 @original comment: copied from: 43962-0 @original comment: copied from: 34933-2 @original comment: copied from: 34932-4 @original comment: 
+43965-3	Qn	FHIR	H	HP:0031398	false	2019-01-11T15:28:54	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 43964-6 @original comment: copied from: 43963-8 @original comment: copied from: 43962-0 @original comment: copied from: 34933-2 @original comment: copied from: 34932-4 @original comment: 
+43965-3	Qn	FHIR	L	HP:0031397	false	2019-01-11T15:28:54	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 43964-6 @original comment: copied from: 43963-8 @original comment: copied from: 43962-0 @original comment: copied from: 34933-2 @original comment: copied from: 34932-4 @original comment:
