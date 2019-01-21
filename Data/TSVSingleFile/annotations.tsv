@@ -6294,3 +6294,5 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 3095-7	Qn	FHIR	N	HP:0031970	true	2019-01-21T09:49:14	JAX:azhang	NA	NA	0.1	true	NA
 3095-7	Qn	FHIR	H	HP:0003138	false	2019-01-21T09:49:14	JAX:azhang	NA	NA	0.1	true	NA
 3095-7	Qn	FHIR	L	HP:0031969	false	2019-01-21T09:49:14	JAX:azhang	NA	NA	0.1	true	NA
+35334-2	Qn	FHIR	N	HP:0032208	true	2019-01-21T09:57:51	JAX:azhang	NA	NA	0.1	true	NA
+35334-2	Qn	FHIR	H	HP:0032208	false	2019-01-21T09:57:51	JAX:azhang	NA	NA	0.1	true	NA
