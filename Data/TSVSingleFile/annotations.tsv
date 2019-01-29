@@ -6310,3 +6310,5 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 4532-8	Qn	FHIR	N	HP:0031904	true	2019-01-21T10:40:48	JAX:azhang	NA	NA	0.1	true	NA
 4532-8	Qn	FHIR	H	HP:0031905	false	2019-01-21T10:40:48	JAX:azhang	NA	NA	0.1	true	NA
 4532-8	Qn	FHIR	L	HP:0031906	false	2019-01-21T10:40:48	JAX:azhang	NA	NA	0.1	true	NA
+19632-9	Ord	FHIR	POS	HP:0410290	false	2019-01-29T11:42:15	HPO:nvasilevsky	NA	NA	0.1	true	NA
+19632-9	Ord	FHIR	NEG	HP:0410290	true	2019-01-29T11:42:15	HPO:nvasilevsky	NA	NA	0.1	true	NA
