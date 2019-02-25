@@ -6350,6 +6350,8 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 20448-7	Qn	FHIR	L	HP:0040216	false	2019-02-01T19:28:26	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
 2161-8	Qn	FHIR	N	HP:0001939	true	2019-01-28T20:23:55	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
 2161-8	Qn	FHIR	H	HP:0012100	false	2019-01-28T20:23:55	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
+22733-0	Qn	FHIR	N	HP:0100529	true	2019-02-01T19:35:56	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
+22733-0	Qn	FHIR	L	HP:0100529	false	2019-02-01T19:35:56	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
 2283-0	Qn	FHIR	N	HP:0012335	true	2019-01-28T20:40:24	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
 2336-6	Qn	FHIR	N	HP:0010701	true	2019-01-28T20:46:58	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
 2484-4	Qn	FHIR	N	HP:0030352	true	2019-02-01T19:37:52	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
@@ -6361,6 +6363,10 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 2572-6	Qn	FHIR	H	HP:0012379	false	2019-02-01T19:38:50	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
 2572-6	Qn	FHIR	L	HP:0031209	false	2019-02-01T19:38:50	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
 26447-3	Qn	FHIR	N	HP:0002921	true	2019-01-28T20:14:23	UCD:tjcallahan	NA	NA	0.1	false	UCDenver survey results. Might consider adding a new HPO term to more precisely represent this lab (GitHub issue #73)
+26455-6	Qn	FHIR	N	HP:0020058	true	2019-01-28T20:30:31	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
+26466-3	Qn	FHIR	N	HP:0011893	true	2019-02-01T19:39:19	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
+26466-3	Qn	FHIR	H	HP:0001974	false	2019-02-01T19:39:19	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
+26466-3	Qn	FHIR	L	HP:0001882	false	2019-02-01T19:39:19	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
 26479-6	Qn	FHIR	N	HP:0200149	true	2019-02-01T19:39:37	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
 26479-6	Qn	FHIR	H	HP:0200149	false	2019-02-01T19:39:37	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
 26479-6	Qn	FHIR	L	HP:0002921	false	2019-02-01T19:39:37	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
@@ -6418,6 +6424,3 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 9279-1	Qn	FHIR	N	HP:0002793	true	2019-02-01T19:41:42	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
 9279-1	Qn	FHIR	H	HP:0002789	false	2019-02-01T19:41:42	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
 9813-7	Qn	FHIR	N	HP:0011731	true	2019-01-28T20:22:04	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
-5631-7	Qn	FHIR	N	HP:0010836	true	2019-02-24T22:47:39	JGM:azhang	NA	NA	0.1	true	NA
-5631-7	Qn	FHIR	H	HP:0032254	false	2019-02-24T22:47:39	JGM:azhang	NA	NA	0.1	true	NA
-5631-7	Qn	FHIR	L	HP:0011967	false	2019-02-24T22:47:39	JGM:azhang	NA	NA	0.1	true	NA
