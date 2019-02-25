@@ -144,8 +144,8 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 2947-0	Qn	FHIR	N	HP:0010931	true	2018-04-18T19:04:28	HPO:nvasilevsky	NA	NA	0.1	true	NA
 2947-0	Qn	FHIR	H	HP:0003228	false	2018-04-18T19:04:28	HPO:nvasilevsky	NA	NA	0.1	true	NA
 2947-0	Qn	FHIR	L	HP:0002902	false	2018-04-18T19:04:28	HPO:nvasilevsky	NA	NA	0.1	true	NA
-3040-3	Qn	FHIR	N	HP:0012379	true	2018-04-20T11:48:17	OHSU:JP	NA	NA	0.1	false	NA
-3040-3	Qn	FHIR	L	HP:0031209	false	2018-04-20T11:48:17	OHSU:JP	NA	NA	0.1	false	NA
+3040-3	Qn	FHIR	N	HP:0031209	true	2018-04-20T11:48:17	OHSU:JP	2019-02-25T12:21:52	JGM:azhang	0.2	false	NA
+3040-3	Qn	FHIR	L	HP:0031209	false	2018-04-20T11:48:17	OHSU:JP	2019-02-25T12:21:52	JGM:azhang	0.2	false	NA
 2276-4	Qn	FHIR	N	HP:0040133	true	2018-04-20T11:52:35	OHSU:JP	NA	NA	0.1	true	NA
 2276-4	Qn	FHIR	H	HP:0003281	false	2018-04-20T11:52:35	OHSU:JP	NA	NA	0.1	true	NA
 2276-4	Qn	FHIR	L	HP:0012343	false	2018-04-20T11:52:35	OHSU:JP	NA	NA	0.1	true	NA
@@ -236,8 +236,8 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 30180-4	Qn	FHIR	N	HP:0031806	true	2018-05-08T08:27:24	JGM:azhang	2018-10-17T08:57:24	JGM:azhang	0.2	true	We treat the percentage of basophils among leukocytes as basophil counts
 30180-4	Qn	FHIR	H	HP:0031807	false	2018-05-08T08:27:24	JGM:azhang	2018-10-17T08:57:24	JGM:azhang	0.2	true	We treat the percentage of basophils among leukocytes as basophil counts
 30180-4	Qn	FHIR	L	HP:0031808	false	2018-05-08T08:27:24	JGM:azhang	2018-10-17T08:57:24	JGM:azhang	0.2	true	We treat the percentage of basophils among leukocytes as basophil counts
-15152-2	Qn	FHIR	N	HP:0002908	true	2018-05-08T08:42:38	JGM:azhang	NA	NA	0.1	false	The normal should be ``not abnormality of conjugated bilirubin``, which is not present; simply choosing the patent``Hyperbilirubinemi`` does not sound right.
-15152-2	Qn	FHIR	H	HP:0002908	false	2018-05-08T08:42:38	JGM:azhang	NA	NA	0.1	false	The normal should be ``not abnormality of conjugated bilirubin``, which is not present; simply choosing the patent``Hyperbilirubinemi`` does not sound right.
+15152-2	Qn	FHIR	N	HP:0002908	true	2018-05-08T08:42:38	JGM:azhang	2019-02-25T13:09:08	JGM:azhang	0.2	true	NA
+15152-2	Qn	FHIR	H	HP:0002908	false	2018-05-08T08:42:38	JGM:azhang	2019-02-25T13:09:08	JGM:azhang	0.2	true	NA
 2324-2	Qn	FHIR	N	HP:0030948	true	2018-05-08T10:29:36	JGM:azhang	2018-10-17T09:09:45	JGM:azhang	0.2	true	Not sure what normal should be. Parent term ``Abnormal enzyme/coenzyme activity`` seems too broad. 
 2324-2	Qn	FHIR	H	HP:0030948	false	2018-05-08T10:29:36	JGM:azhang	2018-10-17T09:09:45	JGM:azhang	0.2	true	Not sure what normal should be. Parent term ``Abnormal enzyme/coenzyme activity`` seems too broad.
 26444-0	Qn	FHIR	N	HP:0031806	true	2018-05-08T12:44:48	HPO:nvasilevsky	NA	NA	0.1	true	NA
@@ -2474,9 +2474,9 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 788-0	Qn	FHIR	H	HP:0031965	false	2018-07-24T10:44:46	JGM:azhang	2019-02-25T11:59:13	JGM:azhang	0.6	true	NA
 1920-8	Qn	FHIR	N	HP:0031956	true	2018-07-24T10:47:40	JGM:azhang	2018-10-17T09:11:47	JGM:azhang	0.2	true	check mapping for normal
 1920-8	Qn	FHIR	H	HP:0031956	false	2018-07-24T10:47:40	JGM:azhang	2018-10-17T09:11:47	JGM:azhang	0.2	true	check mapping for normal
-26449-9	Qn	FHIR	N	HP:0001879	true	2018-07-24T10:52:02	JGM:azhang	NA	NA	0.1	false	consider create a new parent term: Abnormality of eosinophil count
-26449-9	Qn	FHIR	H	HP:0001880	false	2018-07-24T10:52:02	JGM:azhang	NA	NA	0.1	false	consider create a new parent term: Abnormality of eosinophil count
-26449-9	Qn	FHIR	L	HP:0031891	false	2018-07-24T10:52:02	JGM:azhang	NA	NA	0.1	false	consider create a new parent term: Abnormality of eosinophil count
+26449-9	Qn	FHIR	N	HP:0020064	true	2018-07-24T10:52:02	JGM:azhang	2019-02-25T13:09:58	JGM:azhang	0.2	true	NA
+26449-9	Qn	FHIR	H	HP:0001880	false	2018-07-24T10:52:02	JGM:azhang	2019-02-25T13:09:58	JGM:azhang	0.2	true	NA
+26449-9	Qn	FHIR	L	HP:0031891	false	2018-07-24T10:52:02	JGM:azhang	2019-02-25T13:09:58	JGM:azhang	0.2	true	NA
 26478-8	Qn	FHIR	N	HP:0040088	true	2018-07-24T10:54:51	JGM:azhang	NA	NA	0.1	true	NA
 26478-8	Qn	FHIR	H	HP:0100827	false	2018-07-24T10:54:51	JGM:azhang	NA	NA	0.1	true	NA
 26478-8	Qn	FHIR	L	HP:0001888	false	2018-07-24T10:54:51	JGM:azhang	NA	NA	0.1	true	NA
