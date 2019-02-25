@@ -6355,9 +6355,9 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 15067-2	Qn	FHIR	N	HP:0030346	true	2019-01-28T20:41:38	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
 15067-2	Qn	FHIR	H	HP:0008232	false	2019-01-28T20:41:38	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
 15067-2	Qn	FHIR	L	HP:0030341	false	2019-01-28T20:41:38	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
-2336-6	Qn	FHIR	N	HP:0032312	true	2019-01-28T20:46:58	UCD:tjcallahan	2019-02-25T08:28:55	JGM:azhang	0.2	true	UCDenver survey results
-2336-6	Qn	FHIR	H	HP:0032311	false	2019-01-28T20:46:58	UCD:tjcallahan	2019-02-25T08:28:55	JGM:azhang	0.2	true	UCDenver survey results
-2336-6	Qn	FHIR	L	HP:0032312	false	2019-01-28T20:46:58	UCD:tjcallahan	2019-02-25T08:28:55	JGM:azhang	0.2	true	UCDenver survey results
+2336-6	Qn	FHIR	N	HP:0032179	true	2019-01-28T20:46:58	UCD:tjcallahan	2019-02-25T09:08:44	JGM:azhang	0.3	true	UCDenver survey results
+2336-6	Qn	FHIR	H	HP:0032311	false	2019-01-28T20:46:58	UCD:tjcallahan	2019-02-25T09:08:44	JGM:azhang	0.3	true	UCDenver survey results
+2336-6	Qn	FHIR	L	HP:0032312	false	2019-01-28T20:46:58	UCD:tjcallahan	2019-02-25T09:08:44	JGM:azhang	0.3	true	UCDenver survey results
 19632-9	Ord	FHIR	POS	HP:0410290	false	2019-01-29T11:42:15	HPO:nvasilevsky	NA	NA	0.1	true	NA
 19632-9	Ord	FHIR	NEG	HP:0410290	true	2019-01-29T11:42:15	HPO:nvasilevsky	NA	NA	0.1	true	NA
 19274-0	Nom	FHIR	N	HP:0500109	true	2019-01-30T12:29:37	HPO:nvasilevsky	NA	NA	0.1	true	NA
@@ -7003,6 +7003,3 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 16110-9	Qn	FHIR	H	HP:0032330	false	2019-02-25T08:36:13	JGM:azhang	NA	NA	0.1	true	NA
 82859-0	Qn	FHIR	N	HP:0032331	true	2019-02-25T08:36:38	JGM:azhang	NA	NA	0.1	true	NA
 82859-0	Qn	FHIR	H	HP:0032331	false	2019-02-25T08:36:38	JGM:azhang	NA	NA	0.1	true	NA
-5631-7	Qn	FHIR	N	HP:0010836	true	2019-02-24T22:47:39	JGM:azhang	NA	NA	0.1	true	NA
-5631-7	Qn	FHIR	H	HP:0032254	false	2019-02-24T22:47:39	JGM:azhang	NA	NA	0.1	true	NA
-5631-7	Qn	FHIR	L	HP:0011967	false	2019-02-24T22:47:39	JGM:azhang	NA	NA	0.1	true	NA
