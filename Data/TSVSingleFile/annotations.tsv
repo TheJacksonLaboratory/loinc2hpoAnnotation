@@ -144,8 +144,6 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 2947-0	Qn	FHIR	N	HP:0010931	true	2018-04-18T19:04:28	HPO:nvasilevsky	NA	NA	0.1	true	NA
 2947-0	Qn	FHIR	H	HP:0003228	false	2018-04-18T19:04:28	HPO:nvasilevsky	NA	NA	0.1	true	NA
 2947-0	Qn	FHIR	L	HP:0002902	false	2018-04-18T19:04:28	HPO:nvasilevsky	NA	NA	0.1	true	NA
-3040-3	Qn	FHIR	N	HP:0031209	true	2018-04-20T11:48:17	OHSU:JP	2019-02-25T12:21:52	JGM:azhang	0.2	false	NA
-3040-3	Qn	FHIR	L	HP:0031209	false	2018-04-20T11:48:17	OHSU:JP	2019-02-25T12:21:52	JGM:azhang	0.2	false	NA
 2276-4	Qn	FHIR	N	HP:0040133	true	2018-04-20T11:52:35	OHSU:JP	NA	NA	0.1	true	NA
 2276-4	Qn	FHIR	H	HP:0003281	false	2018-04-20T11:52:35	OHSU:JP	NA	NA	0.1	true	NA
 2276-4	Qn	FHIR	L	HP:0012343	false	2018-04-20T11:52:35	OHSU:JP	NA	NA	0.1	true	NA
@@ -6324,7 +6322,6 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 41276-7	Qn	FHIR	L	HP:0031963	false	2019-01-28T20:00:26	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
 26507-4	Qn	FHIR	N	HP:0012137	true	2019-01-28T20:08:51	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
 26508-2	Qn	FHIR	N	HP:0012137	true	2019-01-28T20:10:36	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
-26447-3	Qn	FHIR	N	HP:0002921	true	2019-01-28T20:14:23	UCD:tjcallahan	NA	NA	0.1	false	UCDenver survey results. Might consider adding a new HPO term to more precisely represent this lab (GitHub issue #73)
 3137-7	Qn	FHIR	N	HP:0000002	true	2019-01-28T20:15:51	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
 3137-7	Qn	FHIR	H	HP:0000098	false	2019-01-28T20:15:51	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
 3137-7	Qn	FHIR	L	HP:0004322	false	2019-01-28T20:15:51	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
@@ -6407,8 +6404,6 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 26479-6	Qn	FHIR	L	HP:0002921	false	2019-02-01T19:39:37	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
 26498-6	Qn	FHIR	N	HP:0010974	true	2019-02-01T19:39:47	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
 26498-6	Qn	FHIR	H	HP:0032237	false	2019-02-01T19:39:47	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
-28541-1	Qn	FHIR	N	HP:0012137	true	2019-02-01T19:40:33	UCD:tjcallahan	NA	NA	0.1	false	UCDenver survey results
-28541-1	Qn	FHIR	H	HP:0032238	false	2019-02-01T19:40:33	UCD:tjcallahan	NA	NA	0.1	false	UCDenver survey results
 2942-1	Qn	FHIR	N	HP:0031438	true	2019-02-01T19:40:45	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
 2942-1	Qn	FHIR	L	HP:0031438	false	2019-02-01T19:40:45	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
 3016-3	Qn	FHIR	N	HP:0031097	true	2019-02-01T19:40:55	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
@@ -6439,20 +6434,11 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 32998-7	Qn	FHIR	L	HP:0010701	false	2019-02-01T19:45:05	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
 11555-0	Qn	FHIR	N	HP:0032281	true	2019-02-11T11:06:16	UCD:tjcallahan	2019-02-22T17:23:07	JGM:azhang	0.2	true	UCDenver survey results. Might consider adding a new HPO term to more precisely represent this lab (GitHub issue #4021)
 11555-0	Qn	FHIR	H	HP:0032281	false	2019-02-11T11:06:16	UCD:tjcallahan	2019-02-22T17:23:07	JGM:azhang	0.2	true	UCDenver survey results. Might consider adding a new HPO term to more precisely represent this lab (GitHub issue #4021)
-26506-6	Qn	FHIR	N	HP:0002921	true	2019-02-11T11:07:06	UCD:tjcallahan	NA	NA	0.1	false	UCDenver survey results. Might consider adding a new HPO term to more precisely represent this lab (related to GitHub issue #73)
-26506-6	Qn	FHIR	H	HP:0002921	false	2019-02-11T11:07:06	UCD:tjcallahan	NA	NA	0.1	false	UCDenver survey results. Might consider adding a new HPO term to more precisely represent this lab (related to GitHub issue #73)
-28598-1	Qn	FHIR	N	HP:0004337	true	2019-02-11T11:08:05	UCD:tjcallahan	NA	NA	0.1	false	UCDenver survey results. Ratio term (GitHub issue #72)
-28606-2	Qn	FHIR	N	HP:0004337	true	2019-02-11T11:08:05	UCD:tjcallahan	NA	NA	0.1	false	UCDenver survey results. Ratio term (GitHub issue #72)
 4546-8	Qn	FHIR	N	HP:0011902	true	2019-02-11T11:08:58	UCD:tjcallahan	2019-02-25T16:09:05	JGM:azhang	0.2	true	UCDenver survey results. Ratio term (GitHub issue #72)
 4546-8	Qn	FHIR	L	HP:0011905	false	2019-02-11T11:08:58	UCD:tjcallahan	2019-02-25T16:09:05	JGM:azhang	0.2	true	UCDenver survey results. Ratio term (GitHub issue #72)
 4552-6	Qn	FHIR	N	HP:0011902	true	2019-02-11T11:08:58	UCD:tjcallahan	2019-02-25T16:09:45	JGM:azhang	0.2	true	UCDenver survey results. Ratio term (GitHub issue #72)
 4552-6	Qn	FHIR	H	HP:0011902	false	2019-02-11T11:08:58	UCD:tjcallahan	2019-02-25T16:09:45	JGM:azhang	0.2	true	UCDenver survey results. Ratio term (GitHub issue #72)
 4552-6	Qn	FHIR	L	HP:0011905	false	2019-02-11T11:08:58	UCD:tjcallahan	2019-02-25T16:09:45	JGM:azhang	0.2	true	UCDenver survey results. Ratio term (GitHub issue #72)
-4625-0	Qn	FHIR	N	HP:0045057	true	2019-02-11T11:08:58	UCD:tjcallahan	NA	NA	0.1	false	UCDenver survey results. Ratio term (GitHub issue #72)
-4625-0	Qn	FHIR	H	HP:0045057	false	2019-02-11T11:08:58	UCD:tjcallahan	NA	NA	0.1	false	UCDenver survey results. Ratio term (GitHub issue #72)
-4625-0	Qn	FHIR	L	HP:0045057	false	2019-02-11T11:08:58	UCD:tjcallahan	NA	NA	0.1	false	UCDenver survey results. Ratio term (GitHub issue #72)
-4576-5	Qn	FHIR	N	HP:0011904	true	2019-02-11T11:08:58	UCD:tjcallahan	2019-02-22T17:17:43	JGM:azhang	0.2	false	UCDenver survey results. Ratio term (GitHub issue #72)
-4576-5	Qn	FHIR	H	HP:0011904	false	2019-02-11T11:08:58	UCD:tjcallahan	2019-02-22T17:17:43	JGM:azhang	0.2	false	UCDenver survey results. Ratio term (GitHub issue #72)
 10940-5	Qn	FHIR	N	HP:0410220	true	2019-02-23T15:15:23	UCD:tjcallahan	NA	NA	0.1	true	NA
 10940-5	Qn	FHIR	H	HP:0410220	false	2019-02-23T15:15:23	UCD:tjcallahan	NA	NA	0.1	true	NA
 10946-2	Qn	FHIR	N	HP:0410228	true	2019-02-23T15:20:25	UCD:tjcallahan	NA	NA	0.1	true	NA
