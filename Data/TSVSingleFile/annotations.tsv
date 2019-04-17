@@ -7119,3 +7119,31 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 13663-0	Qn	FHIR	H	HP:0031810	false	2018-05-08T14:41:39	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 16138-0 @original comment: copied from: 17853-3 @original comment: copied from: 17854-1
 10359-8	Qn	FHIR	N	HP:0031810	true	2018-05-08T14:41:39	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 13663-0 @original comment: copied from: 16138-0 @original comment: copied from: 17853-3 @original comment: copied from: 17854-1 
 10359-8	Qn	FHIR	H	HP:0031810	false	2018-05-08T14:41:39	HPO:nvasilevsky	NA	NA	0.1	true	copied from: 13663-0 @original comment: copied from: 16138-0 @original comment: copied from: 17853-3 @original comment: copied from: 17854-1
+7801-4	Qn	FHIR	N	HP:0003613	true	2019-04-17T13:17:17	OHSU:jpgourdine	NA	NA	0.1	true	NA
+7801-4	Qn	FHIR	H	HP:0003613	false	2019-04-17T13:17:17	OHSU:jpgourdine	NA	NA	0.1	true	NA
+7802-2	Qn	FHIR	N	HP:0003613	true	2019-04-17T13:17:25	OHSU:jpgourdine	NA	NA	0.1	true	NA
+7802-2	Qn	FHIR	H	HP:0003613	false	2019-04-17T13:17:25	OHSU:jpgourdine	NA	NA	0.1	true	NA
+7800-6	Qn	FHIR	N	HP:0003613	true	2019-04-17T13:17:31	OHSU:jpgourdine	NA	NA	0.1	true	NA
+7800-6	Qn	FHIR	H	HP:0003613	false	2019-04-17T13:17:31	OHSU:jpgourdine	NA	NA	0.1	true	NA
+3285-4	Qn	FHIR	N	HP:0003613	true	2019-04-17T13:18:01	OHSU:jpgourdine	NA	NA	0.1	true	NA
+3285-4	Qn	FHIR	H	HP:0003613	false	2019-04-17T13:18:01	OHSU:jpgourdine	NA	NA	0.1	true	NA
+3286-2	Qn	FHIR	N	HP:0003613	true	2019-04-17T13:18:06	OHSU:jpgourdine	NA	NA	0.1	true	NA
+3286-2	Qn	FHIR	H	HP:0003613	false	2019-04-17T13:18:06	OHSU:jpgourdine	NA	NA	0.1	true	NA
+3287-0	Qn	FHIR	N	HP:0003613	true	2019-04-17T13:18:14	OHSU:jpgourdine	NA	NA	0.1	true	NA
+3287-0	Qn	FHIR	H	HP:0003613	false	2019-04-17T13:18:14	OHSU:jpgourdine	NA	NA	0.1	true	NA
+31561-4	Qn	FHIR	N	HP:0003613	true	2019-04-17T13:18:20	OHSU:jpgourdine	NA	NA	0.1	true	NA
+31561-4	Qn	FHIR	H	HP:0003613	false	2019-04-17T13:18:20	OHSU:jpgourdine	NA	NA	0.1	true	NA
+20429-7	Ord	FHIR	POS	HP:0003613	false	2019-04-17T13:18:31	OHSU:jpgourdine	NA	NA	0.1	true	NA
+20429-7	Ord	FHIR	NEG	HP:0003613	true	2019-04-17T13:18:31	OHSU:jpgourdine	NA	NA	0.1	true	NA
+20428-9	Ord	FHIR	POS	HP:0003613	false	2019-04-17T13:18:37	OHSU:jpgourdine	NA	NA	0.1	true	NA
+20428-9	Ord	FHIR	NEG	HP:0003613	true	2019-04-17T13:18:37	OHSU:jpgourdine	NA	NA	0.1	true	NA
+19140-3	Ord	FHIR	POS	HP:0003613	false	2019-04-17T13:18:43	OHSU:jpgourdine	NA	NA	0.1	true	NA
+19140-3	Ord	FHIR	NEG	HP:0003613	true	2019-04-17T13:18:43	OHSU:jpgourdine	NA	NA	0.1	true	NA
+17459-9	Qn	FHIR	N	HP:0003613	true	2019-04-17T13:18:50	OHSU:jpgourdine	NA	NA	0.1	true	NA
+17459-9	Qn	FHIR	H	HP:0003613	false	2019-04-17T13:18:50	OHSU:jpgourdine	NA	NA	0.1	true	NA
+55395-8	Qn	FHIR	N	HP:0003613	true	2019-04-17T13:19:11	OHSU:jpgourdine	NA	NA	0.1	true	NA
+55395-8	Qn	FHIR	H	HP:0003613	false	2019-04-17T13:19:11	OHSU:jpgourdine	NA	NA	0.1	true	NA
+14894-0	Ord	FHIR	POS	HP:0410069	false	2019-04-17T13:29:47	OHSU:jpgourdine	NA	NA	0.1	true	NA
+14894-0	Ord	FHIR	NEG	HP:0410069	true	2019-04-17T13:29:47	OHSU:jpgourdine	NA	NA	0.1	true	NA
+22668-8	Qn	FHIR	N	HP:0410069	true	2019-04-17T13:33:49	OHSU:jpgourdine	NA	NA	0.1	true	NA
+22668-8	Qn	FHIR	H	HP:0410069	false	2019-04-17T13:33:49	OHSU:jpgourdine	NA	NA	0.1	true	NA
