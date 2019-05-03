@@ -7153,3 +7153,5 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 26682-5	Ord	FHIR	NEG	HP:0031981	true	2019-04-17T13:44:17	OHSU:jpgourdine	NA	NA	0.1	true	NA
 25106-6	Qn	FHIR	N	HP:0031981	true	2019-04-17T13:44:27	OHSU:jpgourdine	NA	NA	0.1	true	NA
 25106-6	Qn	FHIR	H	HP:0031981	false	2019-04-17T13:44:27	OHSU:jpgourdine	NA	NA	0.1	true	NA
+11084-1	Qn	FHIR	N	HP:0410211	true	2019-05-03T08:42:48	OHSU:jpgourdine	NA	NA	0.1	true	NA
+11084-1	Qn	FHIR	H	HP:0410211	false	2019-05-03T08:42:48	OHSU:jpgourdine	NA	NA	0.1	true	NA
