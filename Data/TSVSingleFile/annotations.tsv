@@ -6495,8 +6495,9 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 1679-0	Qn	FHIR	N	HP:0100511	true	2019-02-23T15:21:53	UCD:tjcallahan	NA	NA	0.1	true	NA
 1679-0	Qn	FHIR	H	HP:0031415	false	2019-02-23T15:21:53	UCD:tjcallahan	NA	NA	0.1	true	NA
 1679-0	Qn	FHIR	L	HP:0012053	false	2019-02-23T15:21:53	UCD:tjcallahan	NA	NA	0.1	true	NA
-1688-1	Qn	FHIR	N	HP:0004340	true	2019-02-23T15:21:56	UCD:tjcallahan	NA	NA	0.1	true	NA
-1688-1	Qn	FHIR	L	HP:0008326	false	2019-02-23T15:21:56	UCD:tjcallahan	NA	NA	0.1	true	NA
+1688-1	Qn	FHIR	N	HP:0032476	true	2019-02-23T15:21:56	UCD:tjcallahan	2019-05-03T12:16:23	JGM:azhang	0.2	true	NA
+1688-1	Qn	FHIR	H	HP:0032477	false	2019-02-23T15:21:56	UCD:tjcallahan	2019-05-03T12:16:23	JGM:azhang	0.2	true	NA
+1688-1	Qn	FHIR	L	HP:0008326	false	2019-02-23T15:21:56	UCD:tjcallahan	2019-05-03T12:16:23	JGM:azhang	0.2	true	NA
 1722-8	Qn	FHIR	N	HP:0030272	true	2019-02-23T15:21:58	UCD:tjcallahan	NA	NA	0.1	true	NA
 1722-8	Qn	FHIR	H	HP:0030270	false	2019-02-23T15:21:58	UCD:tjcallahan	NA	NA	0.1	true	NA
 1746-7	Qn	FHIR	N	HP:0025456	true	2019-02-23T15:22:01	UCD:tjcallahan	NA	NA	0.1	true	NA
@@ -7001,3 +7002,8 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 50553-7	Nom	snomed-ct	449101000124102	HP:0040320	false	2018-07-15T16:20:55	JGM:azhang	2018-09-28T14:38:47	JGM:azhang	0.2	true	copied from: 5778-6
 50553-7	Nom	snomed-ct	449091000124108	HP:0032003	false	2018-07-15T16:20:55	JGM:azhang	2018-09-28T14:38:47	JGM:azhang	0.2	true	copied from: 5778-6
 50553-7	Nom	snomed-ct	449061000124100	HP:0040322	false	2018-07-15T16:20:55	JGM:azhang	2018-09-28T14:38:47	JGM:azhang	0.2	true	copied from: 5778-6
+28602-1	Qn	FHIR	N	HP:0040156	true	2019-05-03T12:09	JGM:azhang	NA	NA	0.1	true	NA
+28590-8	Qn	FHIR	N	HP:0025631	true	2019-05-03T12:12:12	JGM:azhang	NA	NA	0.1	true	NA
+28590-8	Qn	FHIR	H	HP:0025631	false	2019-05-03T12:12:12	JGM:azhang	NA	NA	0.1	true	NA
+27892-9	Qn	FHIR	N	HP:0032480	true	2019-05-03T12:13:34	JGM:azhang	NA	NA	0.1	true	NA
+27892-9	Qn	FHIR	H	HP:0032480	false	2019-05-03T12:13:34	JGM:azhang	NA	NA	0.1	true	NA
