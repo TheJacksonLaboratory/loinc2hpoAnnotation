@@ -43,42 +43,26 @@ repace "YOUR MESSAGE" with your commit comment.
 # Annotating with newly created HPO terms
 The HPO website releases updated hp.obo and hp.owl files about once a month. If you want to use newly added HPO terms that are not officially released, you can build them by following steps below.
 
-1. Git clone the human-phenotype-ontology Github repository at https://github.com/obophenotype/human-phenotype-ontology. If you have already done so, pull the most recent updates by running
+1. Git clone the human-phenotype-ontology Github repository at https://github.com/obophenotype/human-phenotype-ontology. Note you only need to do this step once. 
+
+2. Install Docker if you have not do so. Note you will need to change you Docker setting to avoid memory error: Docker -> Preferences -> Advanced -> [Increase memory to 6GB or 8GB]. Note you only need to do this step once.  
+
+3. Go to HPO repository from your terminal, then pull the most recent HPO by running
 ```
 git pull
 ```
 under human-phenotype-ontology folder.
 
-2. Install owltools if you have not do so. Note you only need to do this step once.
-We need to download and build owltools. The GitHub repository can be found here: https://github.com/owlcollab/owltools.git. Clone the repository and build it as follows.
+4. Make sure Docker is running, then run the following command
 ```
-$ git clone https://github.com/owlcollab/owltools.git
-$ cd owltools
-$ ./build.sh
+cd src/ontology
+sh run.sh make IMP=false prepare_release
 ```
+Note it will take a few minutes up to more than 10 minutes to complete the task. You will need to run step 3 and 4 every time you want to update HPO. 
 
-You need to change the owltools to executables:
- go to owltools directory, run
-```
-$ chmod +x OWLTools-Oort/bin/*
-$ chmod +x OWLTools-Runner/bin/*
-```
+5. Set the path to the new hp.obo and hp.owl files in the loinc2hpo biocuration app. The newly created hp owl and obo files are under the src/ontology folder. Click **"Configuration"** - **"Change hpo.owl"** to set the path to your hpo.owl file; use the button below to set the path to the hpo.obo file. Note this step only needs to be done once unless you have changed the settings.
 
-3. Update your path with the following command (assuming you have a directory called GIT on the first level of your home directory and have cloned owltools there; otherwise adjust!).
-```
-$ export PATH=${HOME}/GIT/owltools/OWLTools-Oort/bin/:${HOME}/GIT/owltools/OWLTools-Runner/bin/:$PATH
-```
-(this can be added to .bashrc / .bash_profile on the Mac)
-
-Restart your terminal
-
-4. Go to human-phenotype-ontology/src/ontology and then enter "$ make". This will make a new version of the hp.obo and the hp.owl files in that directory.
-
-5. Set the path to the new hp.obo and hp.owl files in the loinc2hpo biocuration app . The newly created hp owl and obo files are under the src/ontology folder.
-
-6. Click **"Configuration"** - **"Change hpo.owl"** to set the path to your hpo.owl file; use the button below to set the path to the hpo.obo file. Note this step only needs to be done once unless you have changed the settings.
-
-7. You should now be able to create a Loinc mapping with the new HPO term.
+6. You should now be able to create a Loinc mapping with the new HPO term.
 
 # Reset loinc2hpo settings
 If you cannot launch loinc2hpo, it is probably some configurations are set incorrectly. The easiest way is to delete the configuration file under
