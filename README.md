@@ -1,91 +1,48 @@
 # loinc2hpoAnnotation
-This repo holds data generated from the loinc2hpo app! There are two default folders:
 
-**Task**: holds lists of LOINC codes awaiting annotating;
+The repository contains the annotation data for the LOINC2HPO project.
 
-**Data**: holds annotation data
+Laboratory tests  are uniquely identified in electronic healthcare records (EHR) with Laboratory Observation Identifier Names and Codes (LOINC), which is a universal code system that defines various kinds of clinical laboratory tests and other measurements. 
+The outcome of a laboratory test can be represented by a term in the [Human Phenotype Ontology (HPO)](https://hpo.jax.org/app/), which is a logically defined vocabulary for describing medically relevant abnormal phenotypes.
 
-# Set up
-1. Clone this repo to your local machine.
-2. Start loinc2hpo
-3. The first time you run this app, you need to specify this loinc2hpoAnnotation as the default folder for auto-save, and complete other settings under **Configuration** by following https://loinc2hpo.readthedocs.io/en/latest/Configuration.html#mandatory-settings.
-4. Restart loinc2hpo, you should be able to see LOINC table being populated, HPO successfully loaded (signal light chaning from red to green) and the second tab **Loinc2HpoAnnotations** being populated with thousands of annotations.
 
-How to make sure your configurations are correct?
-**check your configurations**
+LOINC-coded laboratory tests can be grouped broadly into three categories, those with a quantitative outcome (Qn), an ordered categorical outcome (ordinal, or Ord) and an unordered categorical outcome (nominal, or Nom). 
 
-Click `Configuration`-`Show Settings`, you should see all mandatory settings being defined. Specifically, "Path to auto-saved file" is set to "<*path*>/loinc2hpoAnnotation". <*path*> is dependent on where you cloned loinc2hpoAnnotation on your computer. If you submit annotations to the loinc2hpoAnnotation Github repository, you should also define a biocurator id in the format of institution:user initial, such as JGM:jsmith.
+## Quantitative tests
 
-# Annotation
-The **Task** folder contains LOINC lists that need to be annotated. Use the `filter` button to start annotating those LOINC codes. When you are done, save your session data and check in your data. We adopt a similar model with HPO in that only one person is allowed to edit the file at one time. So remember to send out an email to loinc2hpoannotation@googlegroups.com (example, LOCKING loinc2hpo as the subject) to let people know that you are locking/unlocking the files.
+A quantitative test for an analyte has a normal range, and there are three types of mappings depending on the result of the test: L (lower than normal), N (normal), and H (higher than normal). Take, for instance, a test for the concentration of potassium in the blood (LOINC:6298-4). If the result is high, our procedure infers the corresponding HPO term for [Hyperkalemia, HP:0002153](https://hpo.jax.org/app/browse/term/HP:0002153). Analogously, a low result is mapped to [Hypokalemia, HP:0002900](https://hpo.jax.org/app/browse/term/HP:0002900). The HPO is an ontology of abnormal phenotypes, and thus there is no term that specifically represents a normal test result. However, computational analysis can record negated HPO terms, and the normal test result is represented as NOT [Abnormal blood potassium concentration, HP:0011042](https://hpo.jax.org/app/browse/term/HP:0011042).
 
-1. Let people know that you are locking the files. 
-2. From terminal, use $cd command to enter loinc2hpoAnnotation folder
-3. Pull the most recent annotation file from Github. 
-```
-$ git checkout develop
-$ git pull origin develop
-```
-   Please work on the "develop" branch only.
+## Ordinal tests
 
-4. Do Step 2 and 3 before you launch loinc2hpo. Now, start working on a *task*: click **Filter**, choose **loinc2hpoAnnotation**/**Task**/**UNC-loinc1.txt**. After you are done, save your session data. 
+Ordinal tests can have a series of ordered outcomes. The majority of the ordinal LOINC tests were mapped to two possible outcomes, POS (positive) or NEG (negative). For instance, the result of the test Nitrite in urine by test strip can be positive (present) or negative (absent). If present, then our approach infers the HPO term [Nitrituria, HP:0031812](https://hpo.jax.org/app/browse/term/HP:0031812); if absent, our approach infers NOT [Nitrituria, HP:0031812](https://hpo.jax.org/app/browse/term/HP:0031812).
 
-5. Execute the following command:
-```
-$ git add .
-$ git commit -m "YOUR MESSAGE"
-$ git push origin develop
-```
-repace "YOUR MESSAGE" with your commit comment. 
 
-6. Let people know that you have unlocked the files. 
+## Nominal tests
 
-# Annotating with newly created HPO terms
-The HPO website releases updated hp.obo and hp.owl files about once a month. If you want to use newly added HPO terms that are not officially released, you can build them by following steps below.
+Nominal tests have a series of outcomes that lack a natural ordering. Yet, some nominal result values are considered abnormal. For instance, LOINC 5778-6, color of urine. Currently, nine abnormal results of this test are mapped to the nine child terms of [Abnormal urinary color, HP:0012086](https://hpo.jax.org/app/browse/term/HP:0012086), including [Red urine, HP:0040318](https://hpo.jax.org/app/browse/term/HP:0040318) and [Dark urine, HP:0040319](https://hpo.jax.org/app/browse/term/HP:0040319).
 
-1. Git clone the human-phenotype-ontology Github repository at https://github.com/obophenotype/human-phenotype-ontology. If you have already done so, pull the most recent updates by running
-```
-git pull
-```
-under human-phenotype-ontology folder.
+# Annotations
 
-2. Install owltools if you have not do so. Note you only need to do this step once.
-We need to download and build owltools. The GitHub repository can be found here: https://github.com/owlcollab/owltools.git. Clone the repository and build it as follows.
-```
-$ git clone https://github.com/owlcollab/owltools.git
-$ cd owltools
-$ ./build.sh
-```
+This repository contains the annotation file for the LOINC2HPO resource. It can be used with software such as the
+[loinc2hpo](https://github.com/monarch-initiative/loinc2hpo) Java library. We have curated the file using a Desktop Java application called [loinc2hpoMiner](https://github.com/pnrobinson/loinc2hpoMiner); this app is not needed to use the annotations for applications.
 
-You need to change the owltools to executables:
- go to owltools directory, run
-```
-$ chmod +x OWLTools-Oort/bin/*
-$ chmod +x OWLTools-Runner/bin/*
-```
+The annotations are contained in a file called loinc2hpo-annotations.tsv. The file has the following fields.
 
-3. Update your path with the following command (assuming you have a directory called GIT on the first level of your home directory and have cloned owltools there; otherwise adjust!).
-```
-$ export PATH=${HOME}/GIT/owltools/OWLTools-Oort/bin/:${HOME}/GIT/owltools/OWLTools-Runner/bin/:$PATH
-```
-(this can be added to .bashrc / .bash_profile on the Mac)
+| Column     |     Explanation      |
+|------------|:--------------------:|
+| loincId    |  LOINC ID            |
+| loincScale |  Qn, Ord, or Nom     |
+| system     | e.g., FHIR           |
+| code       | test outcome         |
+| hpoTermId  |  e.g.,HP:0031812     |
+| isNegated  |  excluded?           |
+| createdOn  | biocuration date     |
+| createdBy  | biocurator           |
+| version    | annotation version   |
+| isFinalized| ready for use ?      |
+| comment    | (optional)           |
 
-Restart your terminal
 
-4. Go to human-phenotype-ontology/src/ontology and then enter "$ make". This will make a new version of the hp.obo and the hp.owl files in that directory.
+# Note
 
-5. Set the path to the new hp.obo and hp.owl files in the loinc2hpo biocuration app . The newly created hp owl and obo files are under the src/ontology folder.
-
-6. Click **"Configuration"** - **"Change hpo.owl"** to set the path to your hpo.owl file; use the button below to set the path to the hpo.obo file. Note this step only needs to be done once unless you have changed the settings.
-
-7. You should now be able to create a Loinc mapping with the new HPO term.
-
-# Reset loinc2hpo settings
-If you cannot launch loinc2hpo, it is probably some configurations are set incorrectly. The easiest way is to delete the configuration file under
-{HOME}/.loinc2hpo
-
-Detele the loinc2hpo.settings file by running:
-```
-rm loinc2hpo.settings
-```
-Then try launching loinc2hpo again. It will ask you to reset all the configurations. 
+Note -- we will be adapting this format shortly to remove the ``isFinalized`` field and add a field for additional ontology information.
