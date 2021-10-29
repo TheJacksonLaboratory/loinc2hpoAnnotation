@@ -62,12 +62,12 @@ current structure limits us to one revision.
 Proposed new format
 
 
-| Column     |     Explanation      |
-|------------|:--------------------:|
-| loincId    |  LOINC ID            |
-| loincScale |  Qn, Ord, or Nom     |
-| outcome    | test outcome         |     
-| hpoTermId  |  e.g.,HP:0031812     |
-| supplement |  see above           |
-| curation   | biocuration          |
-| comment    | (optional)           |
+| Column             |     Explanation      |
+|--------------------|:--------------------:|
+| loincId            |  LOINC ID            |
+| loincScale         |  Qn, Ord, or Nom     |
+| outcome            | test outcome         |     
+| hpoTermId          |  e.g.,HP:0031812     |
+| supplementalTermId |  see above           |
+| curation           | biocuration          |
+| comment            | (optional)           |

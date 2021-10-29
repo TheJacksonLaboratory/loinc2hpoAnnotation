@@ -51,8 +51,9 @@ def process_comment(comment):
 
 
 
-header = ['loincId', 'loincScale', 'outcome', 'hpoTermId', 'supplement','curated', 'comment']
+header = ['loincId', 'loincScale', 'outcome', 'hpoTermId', 'supplementalTermId','curated', 'comment']
 fh = open('loinc2hpo-annotations.tsv', 'wt')
+fh.write("\t".join(header) + "\n")
 
 with open('annotations.tsv') as f:
     csvreader = csv.DictReader(f, delimiter='\t')
