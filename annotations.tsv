@@ -118,6 +118,7 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 23860-0	Qn	FHIR	H	HP:0005518	false	2018-04-03T12:54:22	HPO:nvasilevsky	NA	NA	0.1	true	NA
 23860-0	Qn	FHIR	L	HP:0025066	false	2018-04-03T12:54:22	HPO:nvasilevsky	NA	NA	0.1	true	NA
 20454-5	Ord	FHIR	POS	HP:0000093	false	2018-04-03T12:57:09	HPO:nvasilevsky	2018-04-06T08:39:16	JGM:Aaron	0.2	true	NA
+20454-5	Ord	FHIR	NEG	HP:0000093	true	2018-04-03T12:57:09	HPO:nvasilevsky	2018-04-06T08:39:16	JGM:Aaron	0.2	true	NA
 32167-9	Nom	FHIR	N	HP:0012086	true	2018-04-03T13:00:43	HPO:nvasilevsky	NA	NA	0.1	true	NA
 738-5	Ord	FHIR	POS	HP:0001972	false	2018-04-06T09:35:51	JGM:azhang	2018-10-17T08:46:58	JGM:azhang	0.2	true	NA
 738-5	Ord	FHIR	NEG	HP:0001972	true	2018-04-06T09:35:51	JGM:azhang	2018-10-17T08:46:58	JGM:azhang	0.2	true	NA
@@ -356,6 +357,7 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 2955-3	Qn	FHIR	L	HP:0012604	false	2018-05-10T14:20:23	HPO:nvasilevsky	NA	NA	0.1	true	NA
 1839-0	Qn	FHIR	H	HP:0001987	false	2018-05-10T14:29:50	HPO:nvasilevsky	NA	NA	0.1	true	There is not an Abn ammonia blood level class - should we add that?
 1839-0	Qn	FHIR	L	HP:0100493	false	2018-05-10T14:29:50	HPO:nvasilevsky	NA	NA	0.1	true	There is not an Abn ammonia blood level class - should we add that?
+1839-0	Qn	FHIR	N	HP:0004364	false	2018-05-10T14:29:50	HPO:nvasilevsky	NA	NA	0.1	true	There is not an Abn ammonia blood level class - should we add that?
 600-7	Nom	FHIR	N	HP:0031864	true	2018-05-10T14:41:03	HPO:nvasilevsky	NA	NA	0.1	true	NA
 600-7	Nom	FHIR	POS	HP:0031864	false	2018-05-10T14:41:03	HPO:nvasilevsky	NA	NA	0.1	true	NA
 600-7	Nom	FHIR	H	HP:0031864	false	2018-05-10T14:41:03	HPO:nvasilevsky	NA	NA	0.1	true	NA
@@ -1725,6 +1727,9 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 50205-4	Qn	FHIR	H	HP:0003452	false	2018-06-28T10:07:16	HPO:probinson	NA	NA	0.1	true	NA
 50205-4	Qn	FHIR	L	HP:0040303	false	2018-06-28T10:07:16	HPO:probinson	NA	NA	0.1	true	NA
 12269-7	Ord	FHIR	POS	HP:0031890	false	2018-07-17T09:25:06	HPO:nvasilevsky	NA	NA	0.1	true	NA
+12269-7	Ord	FHIR	NEG	HP:0031890	true	2018-07-17T09:25:06	HPO:nvasilevsky	NA	NA	0.1	true	NA
+19161-9	Qn	FHIR	N	HP:0032472	true	2018-07-17T09:25:17	HPO:nvasilevsky	NA	NA	0.1	true	NA
+19161-9	Qn	FHIR	L	HP:0032473	false	2018-07-17T09:25:17	HPO:nvasilevsky	NA	NA	0.1	true	NA
 19161-9	Qn	FHIR	H	HP:0031890	false	2018-07-17T09:25:17	HPO:nvasilevsky	NA	NA	0.1	true	NA
 13658-0	Ord	FHIR	POS	HP:0031890	false	2018-07-17T09:25:27	HPO:nvasilevsky	NA	NA	0.1	true	NA
 13658-0	Ord	FHIR	NEG	HP:0031890	true	2018-07-17T09:25:27	HPO:nvasilevsky	NA	NA	0.1	true	NA
@@ -2793,8 +2798,11 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 74092-8	Qn	FHIR	N	HP:0012072	true	2018-08-15T15:42:34	OHSU:JP	NA	NA	0.1	true	NA
 74092-8	Qn	FHIR	H	HP:0012072	false	2018-08-15T15:42:34	OHSU:JP	NA	NA	0.1	true	NA
 10966-0	Ord	FHIR	NEG	HP:0003076	true	2018-08-20T14:31:44	OHSU:JP	NA	NA	0.1	true	NA
+10966-0	Ord	FHIR	POS	HP:0003076	false	2018-08-20T14:31:44	OHSU:JP	NA	NA	0.1	true	NA
 10967-8	Ord	FHIR	NEG	HP:0003076	true	2018-08-20T14:31:44	OHSU:JP	NA	NA	0.1	true	NA
+10967-8	Ord	FHIR	POS	HP:0003076	false	2018-08-20T14:31:44	OHSU:JP	NA	NA	0.1	true	NA
 10968-6	Ord	FHIR	NEG	HP:0003076	true	2018-08-20T14:31:44	OHSU:JP	NA	NA	0.1	true	NA
+10968-6	Ord	FHIR	POS	HP:0003076	false	2018-08-20T14:31:44	OHSU:JP	NA	NA	0.1	true	NA
 12239-0	Ord	FHIR	POS	HP:0010471	false	2018-08-20T14:34:07	OHSU:JP	NA	NA	0.1	true	NA
 12239-0	Ord	FHIR	NEG	HP:0010471	true	2018-08-20T14:34:07	OHSU:JP	NA	NA	0.1	true	NA
 2520-5	Qn	FHIR	N	HP:0030085	true	2018-08-27T14:28:43	OHSU:JP	NA	NA	0.1	true	NA
@@ -2836,9 +2844,9 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 35210-4	Qn	FHIR	N	HP:0012335	true	2018-08-29T12:15:54	HPO:nvasilevsky	NA	NA	0.1	true	NA
 35210-4	Qn	FHIR	L	HP:0100507	false	2018-08-29T12:15:54	HPO:nvasilevsky	NA	NA	0.1	true	NA
 34637-9	Qn	FHIR	N	HP:0012335	true	2018-08-29T12:28:22	HPO:nvasilevsky	NA	NA	0.1	true	NA
-34637-9	Qn	FHIR	L	HP:0012336	false	2018-08-29T12:28:22	HPO:nvasilevsky	NA	NA	0.1	true	NA
+34637-9	Qn	FHIR	L	HP:0012446	false	2018-08-29T12:28:22	HPO:nvasilevsky	NA	NA	0.1	true	NA
 47547-5	Qn	FHIR	N	HP:0012335	true	2018-08-29T12:28:37	HPO:nvasilevsky	NA	NA	0.1	true	NA
-47547-5	Qn	FHIR	L	HP:0012336	false	2018-08-29T12:28:37	HPO:nvasilevsky	NA	NA	0.1	true	NA
+47547-5	Qn	FHIR	L	HP:0012446	false	2018-08-29T12:28:37	HPO:nvasilevsky	NA	NA	0.1	true	NA
 10364-8	Qn	FHIR	N	HP:0500099	true	2018-08-29T12:35:46	HPO:nvasilevsky	NA	NA	0.1	true	NA
 10364-8	Qn	FHIR	H	HP:0500099	false	2018-08-29T12:35:46	HPO:nvasilevsky	NA	NA	0.1	true	NA
 12293-7	Ord	FHIR	POS	HP:0410171	false	2018-08-29T12:36:47	HPO:nvasilevsky	NA	NA	0.1	true	NA
@@ -2925,7 +2933,7 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 78857-0	Qn	FHIR	H	HP:0031841	false	2018-09-11T16:53:59	HPO:nvasilevsky	NA	NA	0.1	true	NA
 35642-8	Ord	FHIR	POS	HP:0410171	false	2018-09-11T17:00:52	HPO:nvasilevsky	NA	NA	0.1	true	NA
 35642-8	Ord	FHIR	NEG	HP:0410171	true	2018-09-11T17:00:52	HPO:nvasilevsky	NA	NA	0.1	true	NA
-33274-2	Ord	FHIR	POS	HP:0012336	false	2018-09-11T17:57:34	HPO:nvasilevsky	NA	NA	0.1	true	NA
+33274-2	Ord	FHIR	POS	HP:0012446	false	2018-09-11T17:57:34	HPO:nvasilevsky	NA	NA	0.1	true	NA
 33274-2	Ord	FHIR	NEG	HP:0012335	true	2018-09-11T17:57:34	HPO:nvasilevsky	NA	NA	0.1	true	NA
 43717-8	Ord	FHIR	POS	HP:0045045	false	2018-09-12T15:24	OHSU:JP	NA	NA	0.1	true	NA
 43717-8	Ord	FHIR	NEG	HP:0045045	true	2018-09-12T15:24	OHSU:JP	NA	NA	0.1	true	NA
@@ -2939,7 +2947,7 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 15013-6	Qn	FHIR	N	HP:0004379	true	2018-09-14T09:18:44	JGM:lccarmody	NA	NA	0.1	true	NA
 15013-6	Qn	FHIR	H	HP:0010639	false	2018-09-14T09:18:44	JGM:lccarmody	NA	NA	0.1	true	NA
 15013-6	Qn	FHIR	L	HP:0010684	false	2018-09-14T09:18:44	JGM:lccarmody	NA	NA	0.1	true	NA
-2350-7	Qn	FHIR	N	HP:0011016	true	2018-09-14T09:26:35	JGM:lccarmody	2018-11-19T15:13:43	JGM:azhang	0.2	true	NA
+2350-7	Qn	FHIR	N	HP:0003076	true	2018-09-14T09:26:35	JGM:lccarmody	2018-11-19T15:13:43	JGM:azhang	0.2	true	NA
 2350-7	Qn	FHIR	H	HP:0003076	false	2018-09-14T09:26:35	JGM:lccarmody	2018-11-19T15:13:43	JGM:azhang	0.2	true	NA
 2956-1	Qn	FHIR	N	HP:0012603	true	2018-09-14T09:27:36	JGM:lccarmody	NA	NA	0.1	true	NA
 2956-1	Qn	FHIR	H	HP:0012605	false	2018-09-14T09:27:36	JGM:lccarmody	NA	NA	0.1	true	NA
@@ -3197,34 +3205,34 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 13609-3	Qn	FHIR	N	HP:0040215	true	2018-09-19T14:30:38	OHSU:JP	NA	NA	0.1	true	copied from: 13608-5 @original comment:
 13609-3	Qn	FHIR	H	HP:0000842	false	2018-09-19T14:30:38	OHSU:JP	NA	NA	0.1	true	copied from: 13608-5 @original comment:
 13609-3	Qn	FHIR	L	HP:0040216	false	2018-09-19T14:30:38	OHSU:JP	NA	NA	0.1	true	copied from: 13608-5 @original comment:
-1491-0	Qn	FHIR	N	HP:0011016	true	2018-09-19T14:32:06	OHSU:JP	2018-11-19T15:14:15	JGM:azhang	0.2	true	NA
+1491-0	Qn	FHIR	N	HP:0003076	true	2018-09-19T14:32:06	OHSU:JP	2018-11-19T15:14:15	JGM:azhang	0.2	true	NA
 1491-0	Qn	FHIR	H	HP:0003076	false	2018-09-19T14:32:06	OHSU:JP	2018-11-19T15:14:15	JGM:azhang	0.2	true	NA
-1495-1	Qn	FHIR	N	HP:0011016	true	2018-09-19T14:32:33	OHSU:JP	2018-11-19T15:14:53	JGM:azhang	0.2	true	NA
+1495-1	Qn	FHIR	N	HP:0003076	true	2018-09-19T14:32:33	OHSU:JP	2018-11-19T15:14:53	JGM:azhang	0.2	true	NA
 1495-1	Qn	FHIR	H	HP:0003076	false	2018-09-19T14:32:33	OHSU:JP	2018-11-19T15:14:53	JGM:azhang	0.2	true	NA
-1505-7	Qn	FHIR	N	HP:0011016	true	2018-09-19T14:32:57	OHSU:JP	2018-11-19T15:15:19	JGM:azhang	0.2	true	NA
+1505-7	Qn	FHIR	N	HP:0003076	true	2018-09-19T14:32:57	OHSU:JP	2018-11-19T15:15:19	JGM:azhang	0.2	true	NA
 1505-7	Qn	FHIR	H	HP:0003076	false	2018-09-19T14:32:57	OHSU:JP	2018-11-19T15:15:19	JGM:azhang	0.2	true	NA
-15076-3	Qn	FHIR	N	HP:0011016	true	2018-09-19T14:33:14	OHSU:JP	2018-11-19T15:15:40	JGM:azhang	0.2	true	NA
+15076-3	Qn	FHIR	N	HP:0003076	true	2018-09-19T14:33:14	OHSU:JP	2018-11-19T15:15:40	JGM:azhang	0.2	true	NA
 15076-3	Qn	FHIR	H	HP:0003076	false	2018-09-19T14:33:14	OHSU:JP	2018-11-19T15:15:40	JGM:azhang	0.2	true	NA
-15077-1	Qn	FHIR	N	HP:0011016	true	2018-09-19T14:33:14	OHSU:JP	2018-11-19T15:16:03	JGM:azhang	0.2	true	copied from: 15076-3 @original comment:
+15077-1	Qn	FHIR	N	HP:0003076	true	2018-09-19T14:33:14	OHSU:JP	2018-11-19T15:16:03	JGM:azhang	0.2	true	copied from: 15076-3 @original comment:
 15077-1	Qn	FHIR	H	HP:0003076	false	2018-09-19T14:33:14	OHSU:JP	2018-11-19T15:16:03	JGM:azhang	0.2	true	copied from: 15076-3 @original comment:
-1509-9	Qn	FHIR	N	HP:0011016	true	2018-09-19T14:33:14	OHSU:JP	2018-11-19T15:16:27	JGM:azhang	0.2	true	copied from: 15077-1 @original comment: copied from: 15076-3 @original comment:
+1509-9	Qn	FHIR	N	HP:0003076	true	2018-09-19T14:33:14	OHSU:JP	2018-11-19T15:16:27	JGM:azhang	0.2	true	copied from: 15077-1 @original comment: copied from: 15076-3 @original comment:
 1509-9	Qn	FHIR	H	HP:0003076	false	2018-09-19T14:33:14	OHSU:JP	2018-11-19T15:16:27	JGM:azhang	0.2	true	copied from: 15077-1 @original comment: copied from: 15076-3 @original comment:
-1555-2	Qn	FHIR	N	HP:0011016	true	2018-09-19T14:38:14	OHSU:JP	2018-11-19T15:16:47	JGM:azhang	0.2	true	NA
+1555-2	Qn	FHIR	N	HP:0003076	true	2018-09-19T14:38:14	OHSU:JP	2018-11-19T15:16:47	JGM:azhang	0.2	true	NA
 1555-2	Qn	FHIR	H	HP:0003076	false	2018-09-19T14:38:14	OHSU:JP	2018-11-19T15:16:47	JGM:azhang	0.2	true	NA
-18227-9	Qn	FHIR	N	HP:0011016	true	2018-09-19T15:44:27	OHSU:JP	2018-11-19T15:17:12	JGM:azhang	0.2	true	NA
+18227-9	Qn	FHIR	N	HP:0003076	true	2018-09-19T15:44:27	OHSU:JP	2018-11-19T15:17:12	JGM:azhang	0.2	true	NA
 18227-9	Qn	FHIR	H	HP:0003076	false	2018-09-19T15:44:27	OHSU:JP	2018-11-19T15:17:12	JGM:azhang	0.2	true	NA
-21305-8	Qn	FHIR	N	HP:0011016	true	2018-09-19T15:45:06	OHSU:JP	2018-11-19T15:17:38	JGM:azhang	0.2	true	NA
+21305-8	Qn	FHIR	N	HP:0003076	true	2018-09-19T15:45:06	OHSU:JP	2018-11-19T15:17:38	JGM:azhang	0.2	true	NA
 21305-8	Qn	FHIR	H	HP:0003076	false	2018-09-19T15:45:06	OHSU:JP	2018-11-19T15:17:38	JGM:azhang	0.2	true	NA
-21306-6	Qn	FHIR	N	HP:0011016	true	2018-09-19T15:45:06	OHSU:JP	2018-11-19T15:18:04	JGM:azhang	0.2	true	copied from: 21305-8 @original comment:
+21306-6	Qn	FHIR	N	HP:0003076	true	2018-09-19T15:45:06	OHSU:JP	2018-11-19T15:18:04	JGM:azhang	0.2	true	copied from: 21305-8 @original comment:
 21306-6	Qn	FHIR	H	HP:0003076	false	2018-09-19T15:45:06	OHSU:JP	2018-11-19T15:18:04	JGM:azhang	0.2	true	copied from: 21305-8 @original comment:
-21307-4	Qn	FHIR	N	HP:0011016	true	2018-09-19T15:45:06	OHSU:JP	2018-11-19T15:18:27	JGM:azhang	0.2	true	copied from: 21306-6 @original comment: copied from: 21305-8 @original comment:
+21307-4	Qn	FHIR	N	HP:0003076	true	2018-09-19T15:45:06	OHSU:JP	2018-11-19T15:18:27	JGM:azhang	0.2	true	copied from: 21306-6 @original comment: copied from: 21305-8 @original comment:
 21307-4	Qn	FHIR	H	HP:0003076	false	2018-09-19T15:45:06	OHSU:JP	2018-11-19T15:18:27	JGM:azhang	0.2	true	copied from: 21306-6 @original comment: copied from: 21305-8 @original comment:
 21004-7	Nom	FHIR	N	HP:0001952	true	2018-09-19T15:45:52	OHSU:JP	NA	NA	0.1	true	NA
 21004-7	Nom	FHIR	NEG	HP:0001952	true	2018-09-19T15:45:52	OHSU:JP	NA	NA	0.1	true	NA
 21004-7	Nom	FHIR	L	HP:0040270	false	2018-09-19T15:45:52	OHSU:JP	NA	NA	0.1	true	NA
-22705-8	Qn	FHIR	N	HP:0011016	true	2018-09-19T15:46:26	OHSU:JP	2018-11-19T15:18:50	JGM:azhang	0.2	true	NA
+22705-8	Qn	FHIR	N	HP:0003076	true	2018-09-19T15:46:26	OHSU:JP	2018-11-19T15:18:50	JGM:azhang	0.2	true	NA
 22705-8	Qn	FHIR	H	HP:0003076	false	2018-09-19T15:46:26	OHSU:JP	2018-11-19T15:18:50	JGM:azhang	0.2	true	NA
-2351-5	Qn	FHIR	N	HP:0011016	true	2018-09-19T15:46:51	OHSU:JP	2018-11-19T15:19:12	JGM:azhang	0.2	true	NA
+2351-5	Qn	FHIR	N	HP:0003076	true	2018-09-19T15:46:51	OHSU:JP	2018-11-19T15:19:12	JGM:azhang	0.2	true	NA
 2351-5	Qn	FHIR	H	HP:0003076	false	2018-09-19T15:46:51	OHSU:JP	2018-11-19T15:19:12	JGM:azhang	0.2	true	NA
 12177-2	Qn	FHIR	N	HP:0003355	true	2018-09-19T16:16:05	OHSU:JP	NA	NA	0.1	true	NA
 12177-2	Qn	FHIR	H	HP:0003355	false	2018-09-19T16:16:05	OHSU:JP	NA	NA	0.1	true	NA
@@ -5654,7 +5662,7 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 6301-6	Qn	FHIR	N	HP:0032199	true	2018-10-16T10:57:24	JGM:lccarmody	2019-01-21T09:29:22	JAX:azhang	0.2	true	NA
 6301-6	Qn	FHIR	H	HP:0008151	false	2018-10-16T10:57:24	JGM:lccarmody	2019-01-21T09:29:22	JAX:azhang	0.2	true	NA
 6301-6	Qn	FHIR	L	HP:0032198	false	2018-10-16T10:57:24	JGM:lccarmody	2019-01-21T09:29:22	JAX:azhang	0.2	true	NA
-5792-7	Qn	FHIR	N	HP:0011016	true	2018-10-16T10:58:58	JGM:lccarmody	2018-11-19T15:19:35	JGM:azhang	0.2	true	NA
+5792-7	Qn	FHIR	N	HP:0003076	true	2018-10-16T10:58:58	JGM:lccarmody	2018-11-19T15:19:35	JGM:azhang	0.2	true	NA
 5792-7	Qn	FHIR	H	HP:0003076	false	2018-10-16T10:58:58	JGM:lccarmody	2018-11-19T15:19:35	JGM:azhang	0.2	true	NA
 5804-0	Qn	FHIR	N	HP:0000093	true	2018-10-16T10:59:29	JGM:lccarmody	NA	NA	0.1	true	NA
 5804-0	Qn	FHIR	H	HP:0000093	false	2018-10-16T10:59:29	JGM:lccarmody	NA	NA	0.1	true	NA
@@ -6307,9 +6315,8 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 29993-3	Ord	FHIR	NEG	HP:0032017	true	2019-01-21T10:23:56	JAX:azhang	NA	NA	0.1	true	NA
 30381-8	Qn	FHIR	N	HP:0032017	true	2019-01-21T10:24:19	JAX:azhang	NA	NA	0.1	true	NA
 30381-8	Qn	FHIR	H	HP:0032017	false	2019-01-21T10:24:19	JAX:azhang	NA	NA	0.1	true	NA
-21582-2	Qn	FHIR	N	HP:0031900	true	2019-01-21T10:37:13	JAX:azhang	NA	NA	0.1	true	NA
+21582-2	Qn	FHIR	N	HP:0031901	true	2019-01-21T10:37:13	JAX:azhang	NA	NA	0.1	true	NA
 21582-2	Qn	FHIR	H	HP:0031901	false	2019-01-21T10:37:13	JAX:azhang	NA	NA	0.1	true	NA
-21582-2	Qn	FHIR	L	HP:0031902	false	2019-01-21T10:37:13	JAX:azhang	NA	NA	0.1	true	NA
 4532-8	Qn	FHIR	N	HP:0031904	true	2019-01-21T10:40:48	JAX:azhang	NA	NA	0.1	true	NA
 4532-8	Qn	FHIR	H	HP:0031905	false	2019-01-21T10:40:48	JAX:azhang	NA	NA	0.1	true	NA
 4532-8	Qn	FHIR	L	HP:0031906	false	2019-01-21T10:40:48	JAX:azhang	NA	NA	0.1	true	NA
@@ -6430,7 +6437,8 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 6165-5	Qn	FHIR	H	HP:0410222	false	2019-02-01T19:43:49	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
 30934-4	Qn	FHIR	N	HP:0031138	true	2019-02-01T19:44:38	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
 30934-4	Qn	FHIR	H	HP:0031185	false	2019-02-01T19:44:38	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
-31017-7	Qn	FHIR	L	HP:0010701	false	2019-02-01T19:44:49	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
+31017-7	Qn	FHIR	N	HP:0033563	true	2019-02-01T19:44:49	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
+31017-7	Qn	FHIR	H	HP:0033563	false	2019-02-01T19:44:49	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
 32998-7	Qn	FHIR	N	HP:0010701	true	2019-02-01T19:45:05	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
 32998-7	Qn	FHIR	L	HP:0010701	false	2019-02-01T19:45:05	UCD:tjcallahan	NA	NA	0.1	true	UCDenver survey results
 11555-0	Qn	FHIR	N	HP:0032281	true	2019-02-11T11:06:16	UCD:tjcallahan	2019-02-22T17:23:07	JGM:azhang	0.2	true	UCDenver survey results. Might consider adding a new HPO term to more precisely represent this lab (GitHub issue #4021)
@@ -6578,9 +6586,6 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 2082-6	Qn	FHIR	N	HP:0003107	true	2019-02-23T15:23:25	UCD:tjcallahan	NA	NA	0.1	true	NA
 2082-6	Qn	FHIR	H	HP:0003124	false	2019-02-23T15:23:25	UCD:tjcallahan	NA	NA	0.1	true	NA
 2082-6	Qn	FHIR	L	HP:0003146	false	2019-02-23T15:23:25	UCD:tjcallahan	NA	NA	0.1	true	NA
-2118-8	Ord	FHIR	N	HP:0011436	true	2019-02-23T15:23:28	UCD:tjcallahan	NA	NA	0.1	true	NA
-2118-8	Ord	FHIR	H	HP:0011433	false	2019-02-23T15:23:28	UCD:tjcallahan	NA	NA	0.1	true	NA
-2118-8	Ord	FHIR	L	HP:0011434	false	2019-02-23T15:23:28	UCD:tjcallahan	NA	NA	0.1	true	NA
 21219-1	Qn	FHIR	N	HP:0045036	true	2019-02-23T15:23:31	UCD:tjcallahan	NA	NA	0.1	true	NA
 21219-1	Qn	FHIR	H	HP:0010839	false	2019-02-23T15:23:31	UCD:tjcallahan	NA	NA	0.1	true	NA
 21219-1	Qn	FHIR	L	HP:0045035	false	2019-02-23T15:23:31	UCD:tjcallahan	NA	NA	0.1	true	NA
@@ -6637,13 +6642,13 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 26604-9	Qn	FHIR	H	HP:0012556	false	2019-02-23T15:24:29	UCD:tjcallahan	NA	NA	0.1	true	NA
 26740-1	Qn	FHIR	N	HP:0003080	true	2019-02-23T15:24:31	UCD:tjcallahan	NA	NA	0.1	true	NA
 26740-1	Qn	FHIR	H	HP:0003080	false	2019-02-23T15:24:31	UCD:tjcallahan	NA	NA	0.1	true	NA
-26843-3	Ord	FHIR	N	HP:0003131	true	2019-02-23T15:24:33	UCD:tjcallahan	NA	NA	0.1	true	NA
-26843-3	Ord	FHIR	H	HP:0003131	false	2019-02-23T15:24:33	UCD:tjcallahan	NA	NA	0.1	true	NA
+26843-3	Ord	FHIR	NEG	HP:0003131	true	2019-02-23T15:24:33	UCD:tjcallahan	NA	NA	0.1	true	NA
+26843-3	Ord	FHIR	POS	HP:0003131	false	2019-02-23T15:24:33	UCD:tjcallahan	NA	NA	0.1	true	NA
 2697-1	Qn	FHIR	N	HP:0031427	true	2019-02-23T15:24:35	UCD:tjcallahan	NA	NA	0.1	true	NA
 2697-1	Qn	FHIR	H	HP:0031428	false	2019-02-23T15:24:35	UCD:tjcallahan	NA	NA	0.1	true	NA
 2697-1	Qn	FHIR	L	HP:0031429	false	2019-02-23T15:24:35	UCD:tjcallahan	NA	NA	0.1	true	NA
-26971-2	Ord	FHIR	N	HP:0003262	true	2019-02-23T15:24:38	UCD:tjcallahan	NA	NA	0.1	true	NA
-26971-2	Ord	FHIR	H	HP:0003262	false	2019-02-23T15:24:38	UCD:tjcallahan	NA	NA	0.1	true	NA
+26971-2	Ord	FHIR	NEG	HP:0003262	true	2019-02-23T15:24:38	UCD:tjcallahan	NA	NA	0.1	true	NA
+26971-2	Ord	FHIR	POS	HP:0003262	false	2019-02-23T15:24:38	UCD:tjcallahan	NA	NA	0.1	true	NA
 2701-1	Qn	FHIR	N	HP:0003159	true	2019-02-23T15:24:40	UCD:tjcallahan	NA	NA	0.1	true	NA
 2701-1	Qn	FHIR	H	HP:0003159	false	2019-02-23T15:24:40	UCD:tjcallahan	NA	NA	0.1	true	NA
 2704-5	Qn	FHIR	N	HP:0500165	true	2019-02-23T15:24:43	UCD:tjcallahan	NA	NA	0.1	true	NA
@@ -6727,9 +6732,8 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 30552-4	Qn	FHIR	N	HP:0004340	true	2019-02-23T15:26:05	UCD:tjcallahan	NA	NA	0.1	true	NA
 30552-4	Qn	FHIR	H	HP:0004340	false	2019-02-23T15:26:05	UCD:tjcallahan	NA	NA	0.1	true	NA
 30552-4	Qn	FHIR	L	HP:0008326	false	2019-02-23T15:26:05	UCD:tjcallahan	NA	NA	0.1	true	NA
-3069-2	Ord	FHIR	N	HP:0004365	true	2019-02-23T15:26:08	UCD:tjcallahan	NA	NA	0.1	true	NA
-3069-2	Ord	FHIR	H	HP:0500134	false	2019-02-23T15:26:08	UCD:tjcallahan	NA	NA	0.1	true	NA
-3069-2	Ord	FHIR	L	HP:0500135	false	2019-02-23T15:26:08	UCD:tjcallahan	NA	NA	0.1	true	NA
+3069-2	Ord	FHIR	NEG	HP:0500134	true	2019-02-23T15:26:08	UCD:tjcallahan	NA	NA	0.1	true	NA
+3069-2	Ord	FHIR	POS	HP:0500134	false	2019-02-23T15:26:08	UCD:tjcallahan	NA	NA	0.1	true	NA
 3079-1	Qn	FHIR	N	HP:0010917	true	2019-02-23T15:26:11	UCD:tjcallahan	NA	NA	0.1	true	NA
 3079-1	Qn	FHIR	H	HP:0003231	false	2019-02-23T15:26:11	UCD:tjcallahan	NA	NA	0.1	true	NA
 3079-1	Qn	FHIR	L	HP:0500133	false	2019-02-23T15:26:11	UCD:tjcallahan	NA	NA	0.1	true	NA
@@ -6754,6 +6758,7 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 33762-6	Qn	FHIR	N	HP:0031138	true	2019-02-23T15:26:37	UCD:tjcallahan	NA	NA	0.1	true	NA
 33762-6	Qn	FHIR	H	HP:0031185	false	2019-02-23T15:26:37	UCD:tjcallahan	NA	NA	0.1	true	NA
 33898-8	Qn	FHIR	H	HP:0003573	false	2019-02-23T15:26:39	UCD:tjcallahan	NA	NA	0.1	true	NA
+33898-8	Qn	FHIR	N	HP:0003573	true	2019-02-23T15:26:39	UCD:tjcallahan	NA	NA	0.1	true	NA
 33959-8	Qn	FHIR	N	HP:0032308	true	2019-02-23T15:26:40	UCD:tjcallahan	NA	NA	0.1	true	NA
 33959-8	Qn	FHIR	H	HP:0032308	false	2019-02-23T15:26:40	UCD:tjcallahan	NA	NA	0.1	true	NA
 34284-0	Qn	FHIR	N	HP:0003163	true	2019-02-23T15:26:42	UCD:tjcallahan	NA	NA	0.1	true	NA
@@ -6809,8 +6814,8 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 58778-2	Qn	FHIR	H	HP:0410230	false	2019-02-23T15:27:41	UCD:tjcallahan	NA	NA	0.1	true	NA
 58779-0	Qn	FHIR	N	HP:0410230	true	2019-02-23T15:27:43	UCD:tjcallahan	NA	NA	0.1	true	NA
 58779-0	Qn	FHIR	H	HP:0410230	false	2019-02-23T15:27:43	UCD:tjcallahan	NA	NA	0.1	true	NA
-59069-5	Ord	FHIR	N	HP:0003493	true	2019-02-23T15:27:45	UCD:tjcallahan	NA	NA	0.1	true	NA
-59069-5	Ord	FHIR	H	HP:0003493	false	2019-02-23T15:27:45	UCD:tjcallahan	NA	NA	0.1	true	NA
+59069-5	Ord	FHIR	NEG	HP:0003493	true	2019-02-23T15:27:45	UCD:tjcallahan	NA	NA	0.1	true	NA
+59069-5	Ord	FHIR	POS	HP:0003493	false	2019-02-23T15:27:45	UCD:tjcallahan	NA	NA	0.1	true	NA
 59408-5	Qn	FHIR	N	HP:0500165	true	2019-02-23T15:27:47	UCD:tjcallahan	NA	NA	0.1	true	NA
 59408-5	Qn	FHIR	H	HP:0012419	false	2019-02-23T15:27:47	UCD:tjcallahan	NA	NA	0.1	true	NA
 59408-5	Qn	FHIR	L	HP:0012418	false	2019-02-23T15:27:47	UCD:tjcallahan	NA	NA	0.1	true	NA
@@ -6964,13 +6969,13 @@ loincId	loincScale	system	code	hpoTermId	isNegated	createdOn	createdBy	lastEdite
 8455-8	Qn	FHIR	H	HP:0005117	false	2019-02-23T15:30:16	UCD:tjcallahan	2019-02-25T12:18:59	JGM:azhang	0.2	true	NA
 8455-8	Qn	FHIR	L	HP:0500104	false	2019-02-23T15:30:16	UCD:tjcallahan	2019-02-25T12:18:59	JGM:azhang	0.2	true	NA
 8459-0	Qn	FHIR	N	HP:0030972	true	2019-02-23T15:30:19	UCD:tjcallahan	NA	NA	0.1	true	NA
-8459-0	Qn	FHIR	H	HP:0004956	false	2019-02-23T15:30:19	UCD:tjcallahan	NA	NA	0.1	true	NA
+8459-0	Qn	FHIR	H	HP:0004421	false	2019-02-23T15:30:19	UCD:tjcallahan	NA	NA	0.1	true	NA
 8459-0	Qn	FHIR	L	HP:0500105	false	2019-02-23T15:30:19	UCD:tjcallahan	NA	NA	0.1	true	NA
 8460-8	Qn	FHIR	N	HP:0030972	true	2019-02-23T15:30:22	UCD:tjcallahan	NA	NA	0.1	true	NA
-8460-8	Qn	FHIR	H	HP:0004956	false	2019-02-23T15:30:22	UCD:tjcallahan	NA	NA	0.1	true	NA
+8460-8	Qn	FHIR	H	HP:0004421	false	2019-02-23T15:30:22	UCD:tjcallahan	NA	NA	0.1	true	NA
 8460-8	Qn	FHIR	L	HP:0500105	false	2019-02-23T15:30:22	UCD:tjcallahan	NA	NA	0.1	true	NA
 8461-6	Qn	FHIR	N	HP:0030972	true	2019-02-23T15:30:25	UCD:tjcallahan	NA	NA	0.1	true	NA
-8461-6	Qn	FHIR	H	HP:0004956	false	2019-02-23T15:30:25	UCD:tjcallahan	NA	NA	0.1	true	NA
+8461-6	Qn	FHIR	H	HP:0004421	false	2019-02-23T15:30:25	UCD:tjcallahan	NA	NA	0.1	true	NA
 8461-6	Qn	FHIR	L	HP:0500105	false	2019-02-23T15:30:25	UCD:tjcallahan	NA	NA	0.1	true	NA
 8867-4	Qn	FHIR	N	HP:0011675	true	2019-02-23T15:30:28	UCD:tjcallahan	NA	NA	0.1	true	NA
 8867-4	Qn	FHIR	H	HP:0001649	false	2019-02-23T15:30:28	UCD:tjcallahan	NA	NA	0.1	true	NA
