@@ -26,24 +26,23 @@ Nominal tests have a series of outcomes that lack a natural ordering. Yet, some 
 This repository contains the annotation file for the LOINC2HPO resource. It can be used with software such as the
 [loinc2hpo](https://github.com/monarch-initiative/loinc2hpo) Java library. We have curated the file using a Desktop Java application called [loinc2hpoMiner](https://github.com/pnrobinson/loinc2hpoMiner); this app is not needed to use the annotations for applications.
 
-The annotations are contained in a file called annotations.tsv. The file has the following fields.
-
-| Column     |     Explanation      |
-|------------|:--------------------:|
-| loincId    |  LOINC ID            |
-| loincScale |  Qn, Ord, or Nom     |
-| system     | e.g., FHIR           |
-| code       | test outcome         |
-| hpoTermId  |  e.g.,HP:0031812     |
-| isNegated  |  excluded?           |
-| createdOn  | biocuration date     |
-| createdBy  | biocurator           |
-| version    | annotation version   |
-| isFinalized| ready for use ?      |
-| comment    | (optional)           |
+This is the format (version 2, from November 2021 onwards)
+annotations are contained in a file called [loinc2hpo-annotations.tsv](https://github.com/TheJacksonLaboratory/loinc2hpoAnnotation/blob/master/loinc2hpo-annotations.tsv). The file has the following fields.
 
 
-## Proposed new annotation file
+| Column             |     Explanation      |
+|--------------------|:--------------------:|
+| loincId            |  LOINC ID            |
+| loincScale         |  Qn, Ord, or Nom     |
+| outcome            | test outcome         |     
+| hpoTermId          |  e.g.,HP:0031812     |
+| supplementalTermId |  see above           |
+| curation           | biocuration          |
+| comment            | (optional)           |
+
+
+
+## supplementalTermId
 
 We need to have one additional field for the situation where there is a test for bacteremia and the test result can be any bacterium. Here, it would be good to allow software to annotate with an additional field. To guide the software, we want to
 say what type of entity it could be. For instance
@@ -56,18 +55,3 @@ https://www.ncbi.nlm.nih.gov/Taxonomy/Browser/wwwtax.cgi?mode=Info&id=10239&lvl=
 For example, we would put NCBI:txid2 into the supplement column (see below)
 
 
-Also, isFinalized is not useful -- it could be replaced by pull requests. It is also better to combine all of the annotation fields into a field with items like HPO:nvasilevsky[2018-05-08] and UCD:tjcallahan[2019-02-23];JGM:azhang[2019-05-03]. The
-current structure limits us to one revision.
-
-Proposed new format
-
-
-| Column             |     Explanation      |
-|--------------------|:--------------------:|
-| loincId            |  LOINC ID            |
-| loincScale         |  Qn, Ord, or Nom     |
-| outcome            | test outcome         |     
-| hpoTermId          |  e.g.,HP:0031812     |
-| supplementalTermId |  see above           |
-| curation           | biocuration          |
-| comment            | (optional)           |
