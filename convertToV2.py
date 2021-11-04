@@ -51,15 +51,33 @@ def process_comment(comment):
 
 
 
-header = ['loincId', 'loincScale', 'outcome', 'hpoTermId', 'supplementalTermId','curated', 'comment']
+
+def print_row(row):
+    id = row['loincId']
+    scale = row['loincScale']
+    code = row['code']
+    hpoTermId = row['hpoTermId']
+    isNegated = row['isNegated'] == True
+    createdOn = row['createdOn']
+    createdBy = row['createdBy']
+    if isNegated:
+        neg = "(negated)"
+    else:
+        neg = ""
+    print("{} ({}/{}): {} {}; {}[{}]".format(id, scale, code, hpoTermId, neg, createdBy, createdOn))
+
+header = ['loincId', 'loincScale', 'outcome', 'hpoTermId', 'supplementalTermId','curation', 'comment']
 fh = open('loinc2hpo-annotations.tsv', 'wt')
 fh.write("\t".join(header) + "\n")
+acceptableScales = {'Qn', 'Ord', 'Nom'}
+
 
 with open('annotations.tsv') as f:
     csvreader = csv.DictReader(f, delimiter='\t')
     for row in csvreader:
         isFinal = row['isFinalized']
         if isFinal != 'true':
+            print(row)
             raise ValueError("Line was not finalized")
         
         if row['code'] == 'A':
@@ -69,6 +87,11 @@ with open('annotations.tsv') as f:
         outcome = get_outcome_and_code(row)
         supplement = '.'
         comment = process_comment(row['comment'])
+        scale = row['loincScale']
+        if scale not in acceptableScales:
+            print("Skipping annotation because scale=={}".format(scale))
+            print_row(row)
+            continue
         fields = [row['loincId'], row['loincScale'], outcome, row['hpoTermId'], supplement, curated, comment]
         fh.write("\t".join(fields) + "\n")
 fh.close()
