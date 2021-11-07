@@ -1146,9 +1146,9 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 5798-4	Ord	POS	HP:0020075	.	JGM:azhang[2019-05-03]	.
 5802-4	Ord	NEG	HP:0031812	.	HPO:probinson[2018-04-30]	.
 5802-4	Ord	POS	HP:0031812	.	HPO:probinson[2018-04-30]	.
-5803-2	Qn	L	HP:0032368	.	OHSU:JP[2018-04-24];UCD:tjcallahan[2019-02-23]	.
-5803-2	Qn	N	HP:0004360	.	OHSU:JP[2018-04-24];UCD:tjcallahan[2019-02-23]	.
-5803-2	Qn	H	HP:0032369	.	OHSU:JP[2018-04-24];UCD:tjcallahan[2019-02-23]	.
+5803-2	Qn	L	HP:0020113	.	HP:probinson[2021-11-07]	.
+5803-2	Qn	N	HP:0012072	.	HP:probinson[2021-11-07]	.
+5803-2	Qn	H	HP:0012072	.	HP:probinson[2021-11-07]	.
 5804-0	Qn	N	HP:0000093	.	JGM:lccarmody[2018-10-16]	.
 5804-0	Qn	H	HP:0000093	.	JGM:lccarmody[2018-10-16]	.
 5808-1	Qn	N	HP:0002907	.	JGM:azhang[2018-07-24]	.
@@ -4212,6 +4212,9 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 26968-8	Qn	H	HP:0020079	.	JGM:azhang[2019-05-03]	.
 26971-2	Ord	NEG	HP:0003262	.	UCD:tjcallahan[2019-02-23]	.
 26971-2	Ord	POS	HP:0003262	.	UCD:tjcallahan[2019-02-23]	.
+26982-9	Qn	L	HP:0020113	.	HP:probinson[2021-11-07]	.
+26982-9	Qn	N	HP:0020111	.	HP:probinson[2021-11-07]	.
+26982-9	Qn	H	HP:0020112	.	HP:probinson[2021-11-07]	.
 27028-0	Ord	NEG	HP:0002919	.	HPO:nvasilevsky[2018-05-21]	.
 27028-0	Ord	POS	HP:0002919	.	HPO:nvasilevsky[2018-05-21]	.
 27040-5	Ord	NEG	HP:0002919	.	HPO:nvasilevsky[2018-05-21]	.
