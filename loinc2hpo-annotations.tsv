@@ -1,12 +1,12 @@
 loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
+600-7	Nom	POS	HP:0031864	.	HPO:nvasilevsky[2018-05-10]	.
 600-7	Nom	H	HP:0031864	.	HPO:nvasilevsky[2018-05-10]	.
 600-7	Nom	N	HP:0031864	.	HPO:nvasilevsky[2018-05-10]	.
 600-7	Nom	NEG	HP:0031864	.	HPO:nvasilevsky[2018-05-10]	.
-600-7	Nom	POS	HP:0031864	.	HPO:nvasilevsky[2018-05-10]	.
+630-4	Nom	POS	HP:0012461	.	JGM:lccarmody[2018-09-17]	.
 630-4	Nom	H	HP:0012461	.	JGM:lccarmody[2018-09-17]	.
 630-4	Nom	N	HP:0012461	.	JGM:lccarmody[2018-09-17]	.
 630-4	Nom	NEG	HP:0012461	.	JGM:lccarmody[2018-09-17]	.
-630-4	Nom	POS	HP:0012461	.	JGM:lccarmody[2018-09-17]	.
 702-1	Ord	NEG	HP:0011273	.	HPO:nvasilevsky[2018-04-03];JGM:azhang[2018-10-17]	.
 702-1	Ord	POS	HP:0011273	.	HPO:nvasilevsky[2018-04-03];JGM:azhang[2018-10-17]	.
 703-9	Ord	NEG	HP:0020081	.	HPO:nvasilevsky[2019-05-28]	.
@@ -1000,10 +1000,10 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 3376-1	Ord	POS	HP:0500116	.	HPO:nvasilevsky[2018-07-20]	.
 3377-9	Ord	NEG	HP:0500109	.	HPO:nvasilevsky[2018-07-17]	.
 3377-9	Ord	POS	HP:0500109	.	HPO:nvasilevsky[2018-07-17]	.
+3387-8	Nom	POS	HP:0500111	.	HPO:nvasilevsky[2018-12-18]	.
 3387-8	Nom	H	HP:0500111	.	HPO:nvasilevsky[2018-12-18]	.
 3387-8	Nom	N	HP:0031840	.	HPO:nvasilevsky[2018-12-18]	.
 3387-8	Nom	NEG	HP:0031840	.	HPO:nvasilevsky[2018-12-18]	.
-3387-8	Nom	POS	HP:0500111	.	HPO:nvasilevsky[2018-12-18]	.
 3390-2	Ord	NEG	HP:0500111	.	JGM:lccarmody[2018-10-16]	.
 3390-2	Ord	POS	HP:0500111	.	JGM:lccarmody[2018-10-16]	.
 3393-6	Ord	NEG	HP:0500108	.	HPO:nvasilevsky[2018-10-01]	.
@@ -1123,13 +1123,13 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 5770-3	Ord	POS	HP:0031811	.	HPO:nvasilevsky[2018-05-08]	.
 5771-1	Ord	NEG	HP:0031811	.	OHSU:JP[2018-07-26]	.
 5771-1	Ord	POS	HP:0031811	.	OHSU:JP[2018-07-26]	.
-5778-6	Nom	SNOMEDCT:449061000124100	HP:0040322	.	JGM:azhang[2018-07-15];JGM:azhang[2018-09-28]	.
-5778-6	Nom	SNOMEDCT:449081000124105	HP:0032002	.	JGM:azhang[2018-07-15];JGM:azhang[2018-09-28]	.
 5778-6	Nom	SNOMEDCT:449051000124102	HP:0040318	.	JGM:azhang[2018-07-15];JGM:azhang[2018-09-28]	.
+5778-6	Nom	SNOMEDCT:449081000124105	HP:0032002	.	JGM:azhang[2018-07-15];JGM:azhang[2018-09-28]	.
 5778-6	Nom	SNOMEDCT:449101000124102	HP:0040320	.	JGM:azhang[2018-07-15];JGM:azhang[2018-09-28]	.
+5778-6	Nom	SNOMEDCT:449061000124100	HP:0040322	.	JGM:azhang[2018-07-15];JGM:azhang[2018-09-28]	.
 5778-6	Nom	SNOMEDCT:449071000124107	HP:0032001	.	JGM:azhang[2018-07-15];JGM:azhang[2018-09-28]	.
-5778-6	Nom	SNOMEDCT:449111000124104	HP:0040317	.	JGM:azhang[2018-07-15];JGM:azhang[2018-09-28]	.
 5778-6	Nom	SNOMEDCT:449091000124108	HP:0032003	.	JGM:azhang[2018-07-15];JGM:azhang[2018-09-28]	.
+5778-6	Nom	SNOMEDCT:449111000124104	HP:0040317	.	JGM:azhang[2018-07-15];JGM:azhang[2018-09-28]	.
 5783-6	Ord	NEG	HP:0003110	.	HPO:nvasilevsky[2019-05-28]	.
 5783-6	Ord	POS	HP:0020074	.	HPO:nvasilevsky[2019-05-28]	.
 5784-4	Ord	NEG	HP:0003355	.	JGM:lccarmody[2018-09-14]	.
@@ -1146,7 +1146,6 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 5798-4	Ord	POS	HP:0020075	.	JGM:azhang[2019-05-03]	.
 5802-4	Ord	NEG	HP:0031812	.	HPO:probinson[2018-04-30]	.
 5802-4	Ord	POS	HP:0031812	.	HPO:probinson[2018-04-30]	.
-5803-2	Qn	L	HP:0020113	.	HP:probinson[2021-11-07]	.
 5803-2	Qn	N	HP:0012072	.	HP:probinson[2021-11-07]	.
 5803-2	Qn	H	HP:0012072	.	HP:probinson[2021-11-07]	.
 5804-0	Qn	N	HP:0000093	.	JGM:lccarmody[2018-10-16]	.
@@ -1501,10 +1500,10 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 6724-9	Qn	H	HP:0410228	.	UCD:tjcallahan[2019-02-23]	.
 6740-5	Qn	N	HP:0410235	.	UCD:tjcallahan[2019-02-23]	.
 6740-5	Qn	H	HP:0410235	.	UCD:tjcallahan[2019-02-23]	.
+6742-1	Nom	POS	HP:0001877	.	JGM:lccarmody[2018-10-16]	.
 6742-1	Nom	H	HP:0001877	.	JGM:lccarmody[2018-10-16]	.
 6742-1	Nom	N	HP:0001877	.	JGM:lccarmody[2018-10-16]	.
 6742-1	Nom	NEG	HP:0001877	.	JGM:lccarmody[2018-10-16]	.
-6742-1	Nom	POS	HP:0001877	.	JGM:lccarmody[2018-10-16]	.
 6768-6	Qn	L	HP:0003282	.	HPO:probinson[2018-04-03]	.
 6768-6	Qn	N	HP:0004379	.	HPO:probinson[2018-04-03]	.
 6768-6	Qn	H	HP:0003155	.	HPO:probinson[2018-04-03]	.
@@ -2005,10 +2004,10 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 11084-1	Qn	H	HP:0410211	.	OHSU:jpgourdine[2019-05-03]	.
 11092-4	Qn	N	HP:0410201	.	HPO:nvasilevsky[2018-07-20]	.
 11092-4	Qn	H	HP:0410201	.	HPO:nvasilevsky[2018-07-20]	.
+11125-2	Nom	POS	HP:0011875	.	JGM:lccarmody[2018-10-16]	.
 11125-2	Nom	H	HP:0011875	.	JGM:lccarmody[2018-10-16]	.
 11125-2	Nom	N	HP:0011875	.	JGM:lccarmody[2018-10-16]	.
 11125-2	Nom	NEG	HP:0011875	.	JGM:lccarmody[2018-10-16]	.
-11125-2	Nom	POS	HP:0011875	.	JGM:lccarmody[2018-10-16]	.
 11142-7	Qn	L	HP:0001943	.	HPO:nvasilevsky[2018-05-14]	.
 11142-7	Qn	N	HP:0011015	.	HPO:nvasilevsky[2018-05-14]	.
 11142-7	Qn	H	HP:0003074	.	HPO:nvasilevsky[2018-05-14]	.
@@ -2120,10 +2119,10 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 12463-6	Qn	N	HP:0011043	.	HPO:nvasilevsky[2018-05-24]	.
 12464-4	Qn	L	HP:0002920	.	HPO:nvasilevsky[2018-05-24]	.
 12464-4	Qn	N	HP:0011043	.	HPO:nvasilevsky[2018-05-24]	.
+12467-7	Nom	POS	HP:0003355	.	OHSU:JP[2018-09-19]	.
 12467-7	Nom	H	HP:0003355	.	OHSU:JP[2018-09-19]	.
 12467-7	Nom	N	HP:0003355	.	OHSU:JP[2018-09-19]	.
 12467-7	Nom	NEG	HP:0003355	.	OHSU:JP[2018-09-19]	.
-12467-7	Nom	POS	HP:0003355	.	OHSU:JP[2018-09-19]	.
 12552-6	Qn	N	HP:0410069	.	OHSU:JP[2018-06-20]	.
 12552-6	Qn	H	HP:0410069	.	OHSU:JP[2018-06-20]	.
 12610-2	Qn	L	HP:0001943	.	HPO:nvasilevsky[2018-05-14]	.
@@ -2588,11 +2587,11 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 14875-9	Qn	H	HP:0004923	.	JGM:lccarmody[2018-10-12]	.
 14894-0	Ord	NEG	HP:0410069	.	OHSU:jpgourdine[2019-04-17]	.
 14894-0	Ord	POS	HP:0410069	.	OHSU:jpgourdine[2019-04-17]	.
+14903-9	Nom	POS	HP:0032164	.	JAX:azhang[2018-12-09]	.
 14903-9	Nom	H	HP:0032164	.	JAX:azhang[2018-12-09]	.
 14903-9	Nom	L	HP:0100507	.	JAX:azhang[2018-12-09]	.
 14903-9	Nom	N	HP:0040087	.	JAX:azhang[2018-12-09]	.
 14903-9	Nom	NEG	HP:0040087	.	JAX:azhang[2018-12-09]	.
-14903-9	Nom	POS	HP:0032164	.	JAX:azhang[2018-12-09]	.
 14933-6	Qn	L	HP:0003537	.	HPO:nvasilevsky[2018-07-17]	.
 14933-6	Qn	N	HP:0004352	.	HPO:nvasilevsky[2018-07-17]	.
 14933-6	Qn	H	HP:0002149	.	HPO:nvasilevsky[2018-07-17]	.
@@ -3244,10 +3243,10 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 17865-7	Qn	H	HP:0003074	.	HPO:nvasilevsky[2018-05-14]	.
 17866-5	Qn	N	HP:0020077	.	JGM:azhang[2019-05-03];JGM:azhang[2019-05-03]	.
 17866-5	Qn	H	HP:0020077	.	JGM:azhang[2019-05-03];JGM:azhang[2019-05-03]	.
+18191-7	Nom	POS	HP:0003355	.	OHSU:JP[2018-09-19]	.
 18191-7	Nom	H	HP:0003355	.	OHSU:JP[2018-09-19]	.
 18191-7	Nom	N	HP:0003355	.	OHSU:JP[2018-09-19]	.
 18191-7	Nom	NEG	HP:0003355	.	OHSU:JP[2018-09-19]	.
-18191-7	Nom	POS	HP:0003355	.	OHSU:JP[2018-09-19]	.
 18198-2	Ord	NEG	HP:0410232	.	OHSU:JP[2018-10-09]	.
 18198-2	Ord	POS	HP:0410232	.	OHSU:JP[2018-10-09]	.
 18227-9	Qn	N	HP:0003076	.	OHSU:JP[2018-09-19];JGM:azhang[2018-11-19]	.
@@ -3358,62 +3357,62 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 19255-9	Qn	H	HP:0012419	.	UCD:tjcallahan[2019-02-23]	.
 19261-7	Ord	NEG	HP:0500112	.	JGM:azhang[2018-07-24]	.
 19261-7	Ord	POS	HP:0500112	.	JGM:azhang[2018-07-24]	.
+19262-5	Nom	POS	HP:0500112	.	HPO:nvasilevsky[2018-10-01]	.
 19262-5	Nom	H	HP:0500112	.	HPO:nvasilevsky[2018-10-01]	.
 19262-5	Nom	N	HP:0500112	.	HPO:nvasilevsky[2018-10-01]	.
 19262-5	Nom	NEG	HP:0500112	.	HPO:nvasilevsky[2018-10-01]	.
-19262-5	Nom	POS	HP:0500112	.	HPO:nvasilevsky[2018-10-01]	.
+19265-8	Nom	POS	HP:0500112	.	HPO:nvasilevsky[2018-10-01]	.
 19265-8	Nom	H	HP:0500112	.	HPO:nvasilevsky[2018-10-01]	.
 19265-8	Nom	N	HP:0500112	.	HPO:nvasilevsky[2018-10-01]	.
 19265-8	Nom	NEG	HP:0500112	.	HPO:nvasilevsky[2018-10-01]	.
-19265-8	Nom	POS	HP:0500112	.	HPO:nvasilevsky[2018-10-01]	.
 19266-6	Qn	N	HP:0500112	.	HPO:nvasilevsky[2018-10-01]	.
 19266-6	Qn	H	HP:0500112	.	HPO:nvasilevsky[2018-10-01]	.
 19267-4	Qn	N	HP:0500112	.	HPO:nvasilevsky[2018-10-01]	.
 19267-4	Qn	H	HP:0500112	.	HPO:nvasilevsky[2018-10-01]	.
+19268-2	Nom	POS	HP:0500112	.	HPO:nvasilevsky[2018-10-01]	.
 19268-2	Nom	H	HP:0500112	.	HPO:nvasilevsky[2018-10-01]	.
 19268-2	Nom	N	HP:0500112	.	HPO:nvasilevsky[2018-10-01]	.
 19268-2	Nom	NEG	HP:0500112	.	HPO:nvasilevsky[2018-10-01]	.
-19268-2	Nom	POS	HP:0500112	.	HPO:nvasilevsky[2018-10-01]	.
+19269-0	Nom	POS	HP:0500112	.	HPO:nvasilevsky[2018-10-01]	.
 19269-0	Nom	H	HP:0500112	.	HPO:nvasilevsky[2018-10-01]	.
 19269-0	Nom	N	HP:0500112	.	HPO:nvasilevsky[2018-10-01]	.
 19269-0	Nom	NEG	HP:0500112	.	HPO:nvasilevsky[2018-10-01]	.
-19269-0	Nom	POS	HP:0500112	.	HPO:nvasilevsky[2018-10-01]	.
 19270-8	Ord	NEG	HP:0500109	.	HPO:nvasilevsky[2018-07-20]	.
 19270-8	Ord	POS	HP:0500109	.	HPO:nvasilevsky[2018-07-20]	.
+19274-0	Nom	POS	HP:0500109	.	HPO:nvasilevsky[2019-01-30]	.
 19274-0	Nom	H	HP:0500109	.	HPO:nvasilevsky[2019-01-30]	.
 19274-0	Nom	N	HP:0500109	.	HPO:nvasilevsky[2019-01-30]	.
 19274-0	Nom	NEG	HP:0500109	.	HPO:nvasilevsky[2019-01-30]	.
-19274-0	Nom	POS	HP:0500109	.	HPO:nvasilevsky[2019-01-30]	.
 19275-7	Qn	N	HP:0500109	.	HPO:nvasilevsky[2018-07-17]	.
 19275-7	Qn	H	HP:0500109	.	HPO:nvasilevsky[2018-07-17]	.
 19276-5	Qn	N	HP:0500109	.	HPO:nvasilevsky[2018-07-17]	.
 19276-5	Qn	H	HP:0500109	.	HPO:nvasilevsky[2018-07-17]	.
+19282-3	Nom	POS	HP:0500111	.	HPO:nvasilevsky[2018-12-18]	.
 19282-3	Nom	H	HP:0500111	.	HPO:nvasilevsky[2018-12-18]	.
 19282-3	Nom	N	HP:0031840	.	HPO:nvasilevsky[2018-12-18]	.
 19282-3	Nom	NEG	HP:0031840	.	HPO:nvasilevsky[2018-12-18]	.
-19282-3	Nom	POS	HP:0500111	.	HPO:nvasilevsky[2018-12-18]	.
 19283-1	Qn	N	HP:0031840	.	HPO:nvasilevsky[2018-12-18]	.
 19283-1	Qn	H	HP:0500111	.	HPO:nvasilevsky[2018-12-18]	.
 19284-9	Qn	N	HP:0031840	.	HPO:nvasilevsky[2018-12-18]	.
 19284-9	Qn	H	HP:0500111	.	HPO:nvasilevsky[2018-12-18]	.
+19285-6	Nom	POS	HP:0500111	.	HPO:nvasilevsky[2018-12-18]	.
 19285-6	Nom	H	HP:0500111	.	HPO:nvasilevsky[2018-12-18]	.
 19285-6	Nom	N	HP:0031840	.	HPO:nvasilevsky[2018-12-18]	.
 19285-6	Nom	NEG	HP:0031840	.	HPO:nvasilevsky[2018-12-18]	.
-19285-6	Nom	POS	HP:0500111	.	HPO:nvasilevsky[2018-12-18]	.
+19286-4	Nom	POS	HP:0500111	.	HPO:nvasilevsky[2018-12-18]	.
 19286-4	Nom	H	HP:0500111	.	HPO:nvasilevsky[2018-12-18]	.
 19286-4	Nom	N	HP:0031840	.	HPO:nvasilevsky[2018-12-18]	.
 19286-4	Nom	NEG	HP:0031840	.	HPO:nvasilevsky[2018-12-18]	.
-19286-4	Nom	POS	HP:0500111	.	HPO:nvasilevsky[2018-12-18]	.
+19287-2	Nom	POS	HP:0500110	.	HPO:nvasilevsky[2019-01-15]	.
 19287-2	Nom	H	HP:0500110	.	HPO:nvasilevsky[2019-01-15]	.
 19287-2	Nom	N	HP:0500110	.	HPO:nvasilevsky[2019-01-15]	.
 19287-2	Nom	NEG	HP:0500110	.	HPO:nvasilevsky[2019-01-15]	.
-19287-2	Nom	POS	HP:0500110	.	HPO:nvasilevsky[2019-01-15]	.
 19289-8	Ord	NEG	HP:0500110	.	HPO:nvasilevsky[2019-01-15]	.
 19289-8	Ord	POS	HP:0500110	.	HPO:nvasilevsky[2019-01-15]	.
+19290-6	Nom	POS	HP:0500110	.	HPO:nvasilevsky[2019-01-15]	.
 19290-6	Nom	H	HP:0500110	.	HPO:nvasilevsky[2019-01-15]	.
 19290-6	Nom	N	HP:0500110	.	HPO:nvasilevsky[2019-01-15]	.
 19290-6	Nom	NEG	HP:0500110	.	HPO:nvasilevsky[2019-01-15]	.
-19290-6	Nom	POS	HP:0500110	.	HPO:nvasilevsky[2019-01-15]	.
 19291-4	Qn	N	HP:0500110	.	HPO:nvasilevsky[2019-01-15]	.
 19291-4	Qn	H	HP:0500110	.	HPO:nvasilevsky[2019-01-15]	.
 19292-2	Qn	N	HP:0500110	.	HPO:nvasilevsky[2019-01-15]	.
@@ -5716,13 +5715,13 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 50516-4	Qn	H	HP:0011969	.	HPO:nvasilevsky[2018-12-18]	.
 50551-1	Ord	NEG	HP:0031811	.	HPO:nvasilevsky[2018-05-08]	.
 50551-1	Ord	POS	HP:0031811	.	HPO:nvasilevsky[2018-05-08]	.
-50553-7	Nom	SNOMEDCT:449061000124100	HP:0040322	.	JGM:azhang[2018-07-15];JGM:azhang[2018-09-28]	copied from: 5778-6
-50553-7	Nom	SNOMEDCT:449081000124105	HP:0032002	.	JGM:azhang[2018-07-15];JGM:azhang[2018-09-28]	copied from: 5778-6
 50553-7	Nom	SNOMEDCT:449051000124102	HP:0040318	.	JGM:azhang[2018-07-15];JGM:azhang[2018-09-28]	copied from: 5778-6
+50553-7	Nom	SNOMEDCT:449081000124105	HP:0032002	.	JGM:azhang[2018-07-15];JGM:azhang[2018-09-28]	copied from: 5778-6
 50553-7	Nom	SNOMEDCT:449101000124102	HP:0040320	.	JGM:azhang[2018-07-15];JGM:azhang[2018-09-28]	copied from: 5778-6
+50553-7	Nom	SNOMEDCT:449061000124100	HP:0040322	.	JGM:azhang[2018-07-15];JGM:azhang[2018-09-28]	copied from: 5778-6
 50553-7	Nom	SNOMEDCT:449071000124107	HP:0032001	.	JGM:azhang[2018-07-15];JGM:azhang[2018-09-28]	copied from: 5778-6
-50553-7	Nom	SNOMEDCT:449111000124104	HP:0040317	.	JGM:azhang[2018-07-15];JGM:azhang[2018-09-28]	copied from: 5778-6
 50553-7	Nom	SNOMEDCT:449091000124108	HP:0032003	.	JGM:azhang[2018-07-15];JGM:azhang[2018-09-28]	copied from: 5778-6
+50553-7	Nom	SNOMEDCT:449111000124104	HP:0040317	.	JGM:azhang[2018-07-15];JGM:azhang[2018-09-28]	copied from: 5778-6
 50555-2	Ord	NEG	HP:0003076	.	JGM:azhang[2018-07-24]	.
 50555-2	Ord	POS	HP:0003076	.	JGM:azhang[2018-07-24]	.
 50557-8	Qn	N	HP:0002919	.	HPO:nvasilevsky[2018-05-21]	.
