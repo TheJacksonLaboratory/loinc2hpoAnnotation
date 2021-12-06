@@ -569,6 +569,9 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 2021-4	Qn	L	HP:0012417	.	JGM:lccarmody[2018-09-17];JGM:lccarmody[2018-10-17]	.
 2021-4	Qn	N	HP:0500164	.	JGM:lccarmody[2018-09-17];JGM:lccarmody[2018-10-17]	.
 2021-4	Qn	H	HP:0012416	.	JGM:lccarmody[2018-09-17];JGM:lccarmody[2018-10-17]	.
+2026-3	Qn	L	HP:0012417	.	HPO:probinson[2021-12-06]	.
+2026-3	Qn	N	HP:0500164	.	HPO:probinson[2021-12-06]	.
+2026-3	Qn	H	HP:0012416	.	HPO:probinson[2021-12-06]	.
 2027-1	Qn	L	HP:0012417	.	UCD:tjcallahan[2019-02-23]	.
 2027-1	Qn	N	HP:0500164	.	UCD:tjcallahan[2019-02-23]	.
 2027-1	Qn	H	HP:0012416	.	UCD:tjcallahan[2019-02-23]	.
@@ -3704,6 +3707,9 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 21356-1	Ord	POS	HP:0002919	.	HPO:nvasilevsky[2018-05-21]	.
 21357-9	Ord	NEG	HP:0002919	.	HPO:nvasilevsky[2018-05-21]	.
 21357-9	Ord	POS	HP:0002919	.	HPO:nvasilevsky[2018-05-21]	.
+21377-7	Qn	L	HP:0002917	.	HPO:probinson[2021-12-06]	.
+21377-7	Qn	N	HP:0004921	.	HPO:probinson[2021-12-06]	.
+21377-7	Qn	H	HP:0002918	.	HPO:probinson[2021-12-06]	.
 21428-8	Qn	N	HP:0410228	.	UCD:tjcallahan[2019-02-23]	.
 21428-8	Qn	H	HP:0410228	.	UCD:tjcallahan[2019-02-23]	.
 21508-7	Ord	NEG	HP:0410238	.	OHSU:JP[2018-10-10]	.
@@ -4313,6 +4319,9 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 27976-0	Qn	H	HP:0002151	.	OHSU:JP[2018-07-30]	.
 28007-3	Qn	N	HP:0031890	.	HPO:nvasilevsky[2018-07-17]	.
 28007-3	Qn	H	HP:0031890	.	HPO:nvasilevsky[2018-07-17]	.
+28539-5	Qn	L	HP:0025547	.	HPO:probinson[2021-12-06]	.
+28539-5	Qn	N	HP:0025546	.	HPO:probinson[2021-12-06]	.
+28539-5	Qn	H	HP:0025548	.	HPO:probinson[2021-12-06]	.
 28540-3	Qn	L	HP:0025547	.	HPO:probinson[2021-12-06]	.
 28540-3	Qn	N	HP:0025546	.	HPO:probinson[2021-12-06]	.
 28540-3	Qn	H	HP:0025548	.	HPO:probinson[2021-12-06]	.
@@ -5076,6 +5085,9 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 41647-9	Qn	L	HP:0012417	.	UCD:tjcallahan[2019-02-23]	.
 41647-9	Qn	N	HP:0500164	.	UCD:tjcallahan[2019-02-23]	.
 41647-9	Qn	H	HP:0012416	.	UCD:tjcallahan[2019-02-23]	.
+41649-5	Qn	L	HP:0003113	.	HPO:probinson[2021-12-06]	.
+41649-5	Qn	N	HP:0011422	.	HPO:probinson[2021-12-06]	.
+41649-5	Qn	H	HP:0011423	.	HPO:probinson[2021-12-06]	.
 41653-7	Qn	L	HP:0001943	.	JGM:azhang[2018-09-30];JGM:azhang[2018-09-30]	see instruction from Peter--https://github.com/obophenotype/human-phenotype-ontology/issues/4135#issuecomment-425725554
 41653-7	Qn	N	HP:0011015	.	JGM:azhang[2018-09-30];JGM:azhang[2018-09-30]	see instruction from Peter--https://github.com/obophenotype/human-phenotype-ontology/issues/4135#issuecomment-425725554
 41653-7	Qn	H	HP:0003074	.	JGM:azhang[2018-09-30];JGM:azhang[2018-09-30]	see instruction from Peter--https://github.com/obophenotype/human-phenotype-ontology/issues/4135#issuecomment-425725554
@@ -5865,6 +5877,9 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 53326-5	Qn	N	HP:0003110	.	HPO:nvasilevsky[2018-09-26]	.
 53327-3	Qn	N	HP:0031811	.	OHSU:JP[2018-07-26]	.
 53327-3	Qn	H	HP:0031811	.	OHSU:JP[2018-07-26]	.
+53328-1	Qn	L	HP:0003113	.	HPO:probinson[2021-12-06]	.
+53328-1	Qn	N	HP:0003076	.	HPO:probinson[2021-12-06]	.
+53328-1	Qn	H	HP:0003076	.	HPO:probinson[2021-12-06]	.
 53358-8	Qn	N	HP:0012587	.	JGM:azhang[2018-07-24]	.
 53358-8	Qn	H	HP:0012587	.	JGM:azhang[2018-07-24]	.
 53360-4	Qn	N	HP:0012587	.	JGM:azhang[2018-07-24]	.
@@ -7147,6 +7162,9 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 76672-5	Qn	H	HP:0031885	.	HPO:nvasilevsky[2018-05-14]	.
 76688-1	Qn	N	HP:0032377	.	JGM:azhang[2019-05-03]	.
 76688-1	Qn	H	HP:0032377	.	JGM:azhang[2019-05-03]	.
+77142-8	Qn	L	HP:0002900	.	HPO:probinson[2021-12-06]	.
+77142-8	Qn	N	HP:0011042	.	HPO:probinson[2021-12-06]	.
+77142-8	Qn	H	HP:0002153	.	HPO:probinson[2021-12-06]	.
 77144-4	Qn	N	HP:0031964	.	JGM:lccarmody[2018-10-16]	.
 77144-4	Qn	H	HP:0031964	.	JGM:lccarmody[2018-10-16]	.
 77610-4	Qn	L	HP:0030795	.	HPO:probinson[2018-05-19]	.
