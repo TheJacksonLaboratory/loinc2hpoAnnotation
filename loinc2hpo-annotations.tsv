@@ -53,6 +53,9 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 731-0	Qn	L	HP:0001888	.	JGM:Aaron[2018-03-22]	.
 731-0	Qn	N	HP:0040088	.	JGM:Aaron[2018-03-22]	.
 731-0	Qn	H	HP:0100827	.	JGM:Aaron[2018-03-22]	.
+732-8	Qn	L	HP:0001888	.	HPO:probinson[2021-12-06]	.
+732-8	Qn	N	HP:0040088	.	HPO:probinson[2021-12-06]	.
+732-8	Qn	H	HP:0100827	.	HPO:probinson[2021-12-06]	.
 735-1	Qn	N	HP:0004332	.	UCD:tjcallahan[2019-02-01]	UCDenver survey results
 735-1	Qn	H	HP:0004332	.	UCD:tjcallahan[2019-02-01]	UCDenver survey results
 736-9	Qn	L	HP:0001888	.	JGM:azhang[2018-09-25]	.
@@ -72,6 +75,9 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 742-7	Qn	L	HP:0012312	.	JGM:Aaron[2018-03-22]	.
 742-7	Qn	N	HP:0012310	.	JGM:Aaron[2018-03-22]	.
 742-7	Qn	H	HP:0012311	.	JGM:Aaron[2018-03-22]	.
+743-5	Qn	L	HP:0012312	.	HPO:probinson[2021-12-06]	.
+743-5	Qn	N	HP:0012310	.	HPO:probinson[2021-12-06]	.
+743-5	Qn	H	HP:0012311	.	HPO:probinson[2021-12-06]	.
 744-3	Qn	L	HP:0012312	.	JGM:azhang[2018-09-25]	.
 744-3	Qn	N	HP:0012310	.	JGM:azhang[2018-09-25]	.
 744-3	Qn	H	HP:0012311	.	JGM:azhang[2018-09-25]	.
@@ -2595,6 +2601,9 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 14771-0	Qn	L	HP:0001943	.	HPO:nvasilevsky[2018-05-14]	.
 14771-0	Qn	N	HP:0011015	.	HPO:nvasilevsky[2018-05-14]	.
 14771-0	Qn	H	HP:0003074	.	HPO:nvasilevsky[2018-05-14]	.
+14804-9	Qn	L	HP:0001888	.	HPO:probinson[2021-12-06]	.
+14804-9	Qn	N	HP:0045040	.	HPO:probinson[2021-12-06]	.
+14804-9	Qn	H	HP:0025435	.	HPO:probinson[2021-12-06]	.
 14805-6	Qn	N	HP:0045040	.	UCD:tjcallahan[2019-02-23]	.
 14805-6	Qn	H	HP:0025435	.	UCD:tjcallahan[2019-02-23]	.
 14862-7	Qn	N	HP:0003159	.	UCD:tjcallahan[2019-02-23]	.
