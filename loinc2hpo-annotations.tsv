@@ -6711,6 +6711,9 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 61096-4	Ord	POS	HP:0410203	.	HPO:nvasilevsky[2018-07-20]	.
 61128-5	Ord	NEG	HP:0500100	.	HPO:nvasilevsky[2018-10-01]	.
 61128-5	Ord	POS	HP:0410208	.	HPO:nvasilevsky[2018-10-01]	.
+61151-7	Qn	L	HP:0003073	.	HPO:probinson[2021-12-06]	.
+61151-7	Qn	N	HP:0012116	.	HPO:probinson[2021-12-06]	.
+61151-7	Qn	H	HP:0012117	.	HPO:probinson[2021-12-06]	.
 61201-0	Qn	N	HP:0410232	.	HPO:nvasilevsky[2018-10-04]	.
 61201-0	Qn	H	HP:0410232	.	HPO:nvasilevsky[2018-10-04]	.
 61203-6	Qn	N	HP:0410226	.	HPO:nvasilevsky[2018-10-08]	copied from: 6030-1
