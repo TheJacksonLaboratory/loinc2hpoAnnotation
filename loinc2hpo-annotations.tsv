@@ -3884,6 +3884,8 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 25415-1	Qn	H	HP:0032164	.	JGM:azhang[2018-07-24];JAX:azhang[2018-12-09]	copied from: 2284-8
 25426-8	Qn	N	HP:0012024	.	OHSU:JP[2018-09-19]	.
 25426-8	Qn	H	HP:0012024	.	OHSU:JP[2018-09-19]	.
+25428-4	Ord	NEG	HP:0003076	.	HPO:probinson[2021-12-07]	.
+25428-4	Ord	POS	HP:0003076	.	HPO:probinson[2021-12-07]	.
 25464-9	Qn	N	HP:0003297	.	UCD:tjcallahan[2019-02-23]	.
 25464-9	Qn	H	HP:0003297	.	UCD:tjcallahan[2019-02-23]	.
 25491-2	Qn	N	HP:0003532	.	UCD:tjcallahan[2019-02-23]	.
