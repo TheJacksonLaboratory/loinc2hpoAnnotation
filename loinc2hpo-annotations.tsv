@@ -4717,6 +4717,9 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 32693-4	Qn	H	HP:0002151	.	OHSU:JP[2018-07-30]	.
 32710-6	Ord	NEG	HP:0031812	.	HPO:probinson[2018-04-30]	.
 32710-6	Ord	POS	HP:0031812	.	HPO:probinson[2018-04-30]	.
+32713-0	Qn	L	HP:0002900	.	HPO:probinson[2021-12-07]	.
+32713-0	Qn	N	HP:0011042	.	HPO:probinson[2021-12-07]	.
+32713-0	Qn	H	HP:0002153	.	HPO:probinson[2021-12-07]	.
 32717-1	Qn	L	HP:0002902	.	JGM:lccarmody[2018-09-21]	.
 32717-1	Qn	N	HP:0010931	.	JGM:lccarmody[2018-09-21]	.
 32717-1	Qn	H	HP:0003228	.	JGM:lccarmody[2018-09-21]	.
@@ -7192,6 +7195,9 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 77142-8	Qn	L	HP:0002900	.	HPO:probinson[2021-12-06]	.
 77142-8	Qn	N	HP:0011042	.	HPO:probinson[2021-12-06]	.
 77142-8	Qn	H	HP:0002153	.	HPO:probinson[2021-12-06]	.
+77143-6	Qn	L	HP:0012417	.	HPO:probinson[2021-12-07]	.
+77143-6	Qn	N	HP:0500164	.	HPO:probinson[2021-12-07]	.
+77143-6	Qn	H	HP:0012416	.	HPO:probinson[2021-12-07]	.
 77144-4	Qn	N	HP:0031964	.	JGM:lccarmody[2018-10-16]	.
 77144-4	Qn	H	HP:0031964	.	JGM:lccarmody[2018-10-16]	.
 77610-4	Qn	L	HP:0030795	.	HPO:probinson[2018-05-19]	.
