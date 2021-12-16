@@ -7203,6 +7203,9 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 76672-5	Qn	H	HP:0031885	.	HPO:nvasilevsky[2018-05-14]	.
 76688-1	Qn	N	HP:0032377	.	JGM:azhang[2019-05-03]	.
 76688-1	Qn	H	HP:0032377	.	JGM:azhang[2019-05-03]	.
+77139-4	Qn	L	HP:0002902	.	HPO:probinson[2021-12-16]	.
+77139-4	Qn	N	HP:0010931	.	HPO:probinson[2021-12-16]	.
+77139-4	Qn	H	HP:0003228	.	HPO:probinson[2021-12-16]	.
 77142-8	Qn	L	HP:0002900	.	HPO:probinson[2021-12-06]	.
 77142-8	Qn	N	HP:0011042	.	HPO:probinson[2021-12-06]	.
 77142-8	Qn	H	HP:0002153	.	HPO:probinson[2021-12-06]	.
