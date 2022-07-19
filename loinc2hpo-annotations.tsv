@@ -1857,6 +1857,8 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 8462-4	Qn	L	HP:0500104	.	JGM:lccarmody[2018-10-16]	.
 8462-4	Qn	N	HP:0030972	.	JGM:lccarmody[2018-10-16]	.
 8462-4	Qn	H	HP:0005117	.	JGM:lccarmody[2018-10-16]	.
+8478-0	Qn	N	HP:0030972	.	LBL:caufieldjh[2022-07-19]	.
+8478-0	Qn	H	HP:0004972	.	LBL:caufieldjh[2022-07-19]	.
 8480-6	Qn	L	HP:0500105	.	JGM:lccarmody[2018-10-16]	.
 8480-6	Qn	N	HP:0030972	.	JGM:lccarmody[2018-10-16]	.
 8480-6	Qn	H	HP:0004421	.	JGM:lccarmody[2018-10-16]	.
