@@ -5106,6 +5106,8 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 42593-4	Qn	L	HP:0002901	.	JGM:azhang[2018-04-25]	copied from: 38230-9
 42593-4	Qn	N	HP:0004363	.	JGM:azhang[2018-04-25]	copied from: 38230-9
 42593-4	Qn	H	HP:0003072	.	JGM:azhang[2018-04-25]	copied from: 38230-9
+42637-9	Qn	N	HP:0031138	.	LBL:caufieldjh[2022-07-26]	.
+42637-9	Qn	H	HP:0033534	.	LBL:caufieldjh[2022-07-26]	.
 42678-3	Qn	L	HP:0011935	.	HPO:nvasilevsky[2018-07-17]	.
 42678-3	Qn	N	HP:0012610	.	HPO:nvasilevsky[2018-07-17]	.
 42678-3	Qn	H	HP:0012611	.	HPO:nvasilevsky[2018-07-17]	.
