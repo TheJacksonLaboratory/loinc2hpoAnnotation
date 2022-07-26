@@ -663,6 +663,8 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 2324-2	Qn	H	HP:0030948	.	JGM:azhang[2018-05-08];JGM:azhang[2018-10-17]	Not sure what normal should be. Parent term ``Abnormal enzyme/coenzyme activity`` seems too broad.
 2333-3	Qn	N	HP:0500166	.	HPO:nvasilevsky[2019-06-14]	.
 2333-3	Qn	H	HP:0500167	.	HPO:nvasilevsky[2019-06-14]	.
+2335-8	Ord	NEG	HP:0002573	.	LBL:caufieldjh[2022-07-26]	.
+2335-8	Ord	POS	HP:0002573	.	LBL:caufieldjh[2022-07-26]	.
 2336-6	Qn	L	HP:0032312	.	UCD:tjcallahan[2019-01-28];JGM:azhang[2019-02-25]	UCDenver survey results
 2336-6	Qn	N	HP:0032179	.	UCD:tjcallahan[2019-01-28];JGM:azhang[2019-02-25]	UCDenver survey results
 2336-6	Qn	H	HP:0032311	.	UCD:tjcallahan[2019-01-28];JGM:azhang[2019-02-25]	UCDenver survey results
