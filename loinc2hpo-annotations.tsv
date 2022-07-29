@@ -7429,3 +7429,5 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 89540-9	Ord	POS	HP:0031810	.	HPO:nvasilevsky[2019-01-15]	copied from: 89541-7 @original comment: copied from: 63243-0
 89541-7	Ord	NEG	HP:0031810	.	HPO:nvasilevsky[2019-01-15]	copied from: 63243-0
 89541-7	Ord	POS	HP:0031810	.	HPO:nvasilevsky[2019-01-15]	copied from: 63243-0
+91556-1	Qn	N	HP:0040224	.	LBL:caufieldjh[2022-07-29]	.
+91556-1	Qn	H	HP:0033106	.	LBL:caufieldjh[2022-07-29]	.
