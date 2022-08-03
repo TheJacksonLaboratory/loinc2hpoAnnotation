@@ -1098,6 +1098,8 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 5047-6	Qn	H	HP:0003493	.	HPO:nvasilevsky[2019-06-14]	.
 5117-7	Ord	NEG	HP:0100778	.	HPO:probinson[2018-05-23]	.
 5117-7	Ord	POS	HP:0100778	.	HPO:probinson[2018-05-23]	.
+5196-1	Ord	NEG	HP:0410369	.	LBL:caufieldjh[2022-08-03]	.
+5196-1	Ord	POS	HP:0410369	.	LBL:caufieldjh[2022-08-03]	.
 5380-1	Qn	N	HP:0030057	.	HPO:nvasilevsky[2018-10-01]	.
 5380-1	Qn	H	HP:0032069	.	HPO:nvasilevsky[2018-10-01]	.
 5381-9	Qn	N	HP:0030057	.	HPO:nvasilevsky[2018-10-01]	.
@@ -2430,6 +2432,10 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 13941-0	Qn	H	HP:0100827	.	OHSU:JP[2018-09-26]	.
 13945-1	Qn	N	HP:0002907	.	JGM:azhang[2018-07-24]	.
 13945-1	Qn	H	HP:0002907	.	JGM:azhang[2018-07-24]	.
+13950-1	Ord	NEG	HP:0410367	.	LBL:caufieldjh[2022-08-03]	.
+13950-1	Ord	POS	HP:0410367	.	LBL:caufieldjh[2022-08-03]	.
+13955-0	Ord	NEG	HP:0410371	.	LBL:caufieldjh[2022-08-03]	.
+13955-0	Ord	POS	HP:0410371	.	LBL:caufieldjh[2022-08-03]	.
 13959-2	Qn	L	HP:0002901	.	JGM:azhang[2018-04-25]	copied from: 38230-9
 13959-2	Qn	N	HP:0004363	.	JGM:azhang[2018-04-25]	copied from: 38230-9
 13959-2	Qn	H	HP:0003072	.	JGM:azhang[2018-04-25]	copied from: 38230-9
