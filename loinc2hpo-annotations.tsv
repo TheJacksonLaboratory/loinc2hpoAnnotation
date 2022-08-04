@@ -663,6 +663,8 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 2324-2	Qn	H	HP:0030948	.	JGM:azhang[2018-05-08];JGM:azhang[2018-10-17]	Not sure what normal should be. Parent term ``Abnormal enzyme/coenzyme activity`` seems too broad.
 2333-3	Qn	N	HP:0500166	.	HPO:nvasilevsky[2019-06-14]	.
 2333-3	Qn	H	HP:0500167	.	HPO:nvasilevsky[2019-06-14]	.
+2335-8	Ord	NEG	HP:0002573	.	LBL:caufieldjh[2022-07-26]	.
+2335-8	Ord	POS	HP:0002573	.	LBL:caufieldjh[2022-07-26]	.
 2336-6	Qn	L	HP:0032312	.	UCD:tjcallahan[2019-01-28];JGM:azhang[2019-02-25]	UCDenver survey results
 2336-6	Qn	N	HP:0032179	.	UCD:tjcallahan[2019-01-28];JGM:azhang[2019-02-25]	UCDenver survey results
 2336-6	Qn	H	HP:0032311	.	UCD:tjcallahan[2019-01-28];JGM:azhang[2019-02-25]	UCDenver survey results
@@ -1096,6 +1098,8 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 5047-6	Qn	H	HP:0003493	.	HPO:nvasilevsky[2019-06-14]	.
 5117-7	Ord	NEG	HP:0100778	.	HPO:probinson[2018-05-23]	.
 5117-7	Ord	POS	HP:0100778	.	HPO:probinson[2018-05-23]	.
+5196-1	Ord	NEG	HP:0410369	.	LBL:caufieldjh[2022-08-03]	.
+5196-1	Ord	POS	HP:0410369	.	LBL:caufieldjh[2022-08-03]	.
 5380-1	Qn	N	HP:0030057	.	HPO:nvasilevsky[2018-10-01]	.
 5380-1	Qn	H	HP:0032069	.	HPO:nvasilevsky[2018-10-01]	.
 5381-9	Qn	N	HP:0030057	.	HPO:nvasilevsky[2018-10-01]	.
@@ -1857,6 +1861,8 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 8462-4	Qn	L	HP:0500104	.	JGM:lccarmody[2018-10-16]	.
 8462-4	Qn	N	HP:0030972	.	JGM:lccarmody[2018-10-16]	.
 8462-4	Qn	H	HP:0005117	.	JGM:lccarmody[2018-10-16]	.
+8478-0	Qn	N	HP:0030972	.	LBL:caufieldjh[2022-07-19]	.
+8478-0	Qn	H	HP:0004972	.	LBL:caufieldjh[2022-07-19]	.
 8480-6	Qn	L	HP:0500105	.	JGM:lccarmody[2018-10-16]	.
 8480-6	Qn	N	HP:0030972	.	JGM:lccarmody[2018-10-16]	.
 8480-6	Qn	H	HP:0004421	.	JGM:lccarmody[2018-10-16]	.
@@ -2426,6 +2432,10 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 13941-0	Qn	H	HP:0100827	.	OHSU:JP[2018-09-26]	.
 13945-1	Qn	N	HP:0002907	.	JGM:azhang[2018-07-24]	.
 13945-1	Qn	H	HP:0002907	.	JGM:azhang[2018-07-24]	.
+13950-1	Ord	NEG	HP:0410367	.	LBL:caufieldjh[2022-08-03]	.
+13950-1	Ord	POS	HP:0410367	.	LBL:caufieldjh[2022-08-03]	.
+13955-0	Ord	NEG	HP:0410371	.	LBL:caufieldjh[2022-08-03]	.
+13955-0	Ord	POS	HP:0410371	.	LBL:caufieldjh[2022-08-03]	.
 13959-2	Qn	L	HP:0002901	.	JGM:azhang[2018-04-25]	copied from: 38230-9
 13959-2	Qn	N	HP:0004363	.	JGM:azhang[2018-04-25]	copied from: 38230-9
 13959-2	Qn	H	HP:0003072	.	JGM:azhang[2018-04-25]	copied from: 38230-9
@@ -3474,6 +3484,9 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 19875-4	Qn	N	HP:0032357	.	UCD:tjcallahan[2019-02-23];JGM:azhang[2019-05-03]	.
 19877-0	Qn	L	HP:0032356	.	UCD:tjcallahan[2019-02-23];JGM:azhang[2019-05-03]	.
 19877-0	Qn	N	HP:0032356	.	UCD:tjcallahan[2019-02-23];JGM:azhang[2019-05-03]	.
+19891-1	Qn	L	HP:0012417	.	LBL:caufieldjh[2022-07-19]	.
+19891-1	Qn	N	HP:0500164	.	LBL:caufieldjh[2022-07-19]	.
+19891-1	Qn	H	HP:0012416	.	LBL:caufieldjh[2022-07-19]	.
 19935-6	Qn	L	HP:0032355	.	UCD:tjcallahan[2019-02-23];JGM:azhang[2019-05-03]	.
 19935-6	Qn	N	HP:0032355	.	UCD:tjcallahan[2019-02-23];JGM:azhang[2019-05-03]	.
 20150-9	Qn	L	HP:0032342	.	UCD:tjcallahan[2019-02-23];JGM:azhang[2019-05-03]	.
@@ -4675,6 +4688,9 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 32693-4	Qn	H	HP:0002151	.	OHSU:JP[2018-07-30]	.
 32710-6	Ord	NEG	HP:0031812	.	HPO:probinson[2018-04-30]	.
 32710-6	Ord	POS	HP:0031812	.	HPO:probinson[2018-04-30]	.
+32713-0	Qn	L	HP:0002900	.	LBL:caufieldjh[2022-07-20]	.
+32713-0	Qn	N	HP:0011042	.	LBL:caufieldjh[2022-07-20]	.
+32713-0	Qn	H	HP:0002153	.	LBL:caufieldjh[2022-07-20]	.
 32717-1	Qn	L	HP:0002902	.	JGM:lccarmody[2018-09-21]	.
 32717-1	Qn	N	HP:0010931	.	JGM:lccarmody[2018-09-21]	.
 32717-1	Qn	H	HP:0003228	.	JGM:lccarmody[2018-09-21]	.
@@ -4877,6 +4893,8 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 35384-7	Qn	L	HP:0008214	.	JGM:lccarmody[2018-09-17]	.
 35384-7	Qn	N	HP:0025133	.	JGM:lccarmody[2018-09-17]	.
 35384-7	Qn	H	HP:0025134	.	JGM:lccarmody[2018-09-17]	.
+35492-8	Ord	NEG	HP:0032326	.	LBL:caufieldjh[2022-08-03]	.
+35492-8	Ord	POS	HP:0032326	.	LBL:caufieldjh[2022-08-03]	.
 35595-8	Qn	N	HP:0410172	.	HPO:nvasilevsky[2018-12-18]	.
 35595-8	Qn	H	HP:0410283	.	HPO:nvasilevsky[2018-12-18]	.
 35618-8	Qn	N	HP:0410207	.	HPO:nvasilevsky[2018-09-14]	.
@@ -5098,6 +5116,8 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 42593-4	Qn	L	HP:0002901	.	JGM:azhang[2018-04-25]	copied from: 38230-9
 42593-4	Qn	N	HP:0004363	.	JGM:azhang[2018-04-25]	copied from: 38230-9
 42593-4	Qn	H	HP:0003072	.	JGM:azhang[2018-04-25]	copied from: 38230-9
+42637-9	Qn	N	HP:0031138	.	LBL:caufieldjh[2022-07-26]	.
+42637-9	Qn	H	HP:0033534	.	LBL:caufieldjh[2022-07-26]	.
 42678-3	Qn	L	HP:0011935	.	HPO:nvasilevsky[2018-07-17]	.
 42678-3	Qn	N	HP:0012610	.	HPO:nvasilevsky[2018-07-17]	.
 42678-3	Qn	H	HP:0012611	.	HPO:nvasilevsky[2018-07-17]	.
@@ -6693,6 +6713,9 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 60474-4	Qn	L	HP:0001896	.	HPO:nvasilevsky[2018-05-08]	.
 60474-4	Qn	N	HP:0004312	.	HPO:nvasilevsky[2018-05-08]	.
 60474-4	Qn	H	HP:0001923	.	HPO:nvasilevsky[2018-05-08]	.
+60956-0	Qn	L	HP:0012641	.	LBL:caufieldjh[2022-07-19]	.
+60956-0	Qn	N	HP:0012640	.	LBL:caufieldjh[2022-07-19]	.
+60956-0	Qn	H	HP:0002516	.	LBL:caufieldjh[2022-07-19]	.
 61096-4	Ord	NEG	HP:0410203	.	HPO:nvasilevsky[2018-07-20]	.
 61096-4	Ord	POS	HP:0410203	.	HPO:nvasilevsky[2018-07-20]	.
 61128-5	Ord	NEG	HP:0500100	.	HPO:nvasilevsky[2018-10-01]	.
@@ -7414,3 +7437,7 @@ loincId	loincScale	outcome	hpoTermId	supplementalTermId	curation	comment
 89540-9	Ord	POS	HP:0031810	.	HPO:nvasilevsky[2019-01-15]	copied from: 89541-7 @original comment: copied from: 63243-0
 89541-7	Ord	NEG	HP:0031810	.	HPO:nvasilevsky[2019-01-15]	copied from: 63243-0
 89541-7	Ord	POS	HP:0031810	.	HPO:nvasilevsky[2019-01-15]	copied from: 63243-0
+90001-9	Ord	NEG	HP:0032326	.	LBL:caufieldjh[2022-08-03]	.
+90001-9	Ord	POS	HP:0032326	.	LBL:caufieldjh[2022-08-03]	.
+91556-1	Qn	N	HP:0040224	.	LBL:caufieldjh[2022-07-29]	.
+91556-1	Qn	H	HP:0033106	.	LBL:caufieldjh[2022-07-29]	.
